@@ -32,7 +32,12 @@
           {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
           <div class="col-6">
             <div class="p-media-object--large">
-              <img src="https://assets.ubuntu.com/v1/80cd67d3-mysql.svg" class="p-media-object__image" alt="">
+              {{$firstSpeaker := index .Params.speakers 0}}
+              {{with $firstSpeaker.profile}}
+                <img src="{{.}}" class="p-media-object__image is-round" alt="">
+              {{ else }}
+                <img src="/images/ubuntu.png" class="p-media-object__image is-round" alt="">
+              {{end}}
               <div class="p-media-object__details">
                 <h3>{{.Title}}</h3>
                 <b>{{.Date.Format "2006-01-02 03:04 MST"}}</b>
@@ -47,7 +52,7 @@
             </div>
           </div>
           {{ end }}
-          <a href="/sessions"><button>More sessions</button></a>
+          <a href="/sessions"><button>All sessions</button></a>
         </div>
       </section>
 </main>
