@@ -1,0 +1,91 @@
+{{ define "main" }}
+<main>
+    <section class="p-strip--accent">
+        <div class="row">
+          <div class="col-8">
+            <h1>{{.Title}}</h1>
+            <h4>{{.Site.Params.description}}</h4>
+            <p>{{.Site.Params.period}}</p>
+            <button>Learn more</button>
+          </div>
+          <div class="col-4">
+            <img src="https://assets.ubuntu.com/v1/2217d1c8-Security.svg" alt="">
+          </div>
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          {{ range first 3 ( sort (where .Site.RegularPages "Section" "news") "Date" "desc" ) }}
+            <!-- only show 2 boxes on mobile -->
+            {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+            <div class="col-4">
+              <a href="{{ .RelPermalink }}"><h3>{{.Title}}</h3></a>
+              <b>{{.Date.Format "2006-01-02"}}</b><br/>
+              <span>{{slicestr .Summary 0 100}}</span><br/>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+      <section class="p-strip--light">
+        <div class="row">
+          <h2>Featured sessions</h2>
+          <div class="col-6">
+            <div class="p-media-object--large">
+              <img src="https://assets.ubuntu.com/v1/80cd67d3-mysql.svg" class="p-media-object__image" alt="">
+              <div class="p-media-object__details">
+                <h3>Keynote session</h3>
+                <p class="p-media-object__content">Speaker Name</p>
+                <ul class="p-media-object__meta-list">
+                  <li class="p-media-object__meta-list-item--date">
+                    <span class="u-off-screen">Date: </span>18 - 21 March 2019
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="p-media-object--large">
+              <img src="https://assets.ubuntu.com/v1/80cd67d3-mysql.svg" class="p-media-object__image" alt="">
+              <div class="p-media-object__details">
+                <h3>Keynote session</h3>
+                <p class="p-media-object__content">Speaker Name</p>
+                <ul class="p-media-object__meta-list">
+                  <li class="p-media-object__meta-list-item--date">
+                    <span class="u-off-screen">Date: </span>18 - 21 March 2019
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="p-media-object--large">
+              <img src="https://assets.ubuntu.com/v1/80cd67d3-mysql.svg" class="p-media-object__image" alt="">
+              <div class="p-media-object__details">
+                <h3>Keynote session</h3>
+                <p class="p-media-object__content">Speaker Name</p>
+                <ul class="p-media-object__meta-list">
+                  <li class="p-media-object__meta-list-item--date">
+                    <span class="u-off-screen">Date: </span>18 - 21 March 2019
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="p-media-object--large">
+              <img src="https://assets.ubuntu.com/v1/80cd67d3-mysql.svg" class="p-media-object__image" alt="">
+              <div class="p-media-object__details">
+                <h3>Keynote session</h3>
+                <p class="p-media-object__content">Speaker Name</p>
+                <ul class="p-media-object__meta-list">
+                  <li class="p-media-object__meta-list-item--date">
+                    <span class="u-off-screen">Date: </span>18 - 21 March 2019
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+</main>
+{{ end }}
