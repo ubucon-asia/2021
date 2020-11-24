@@ -55,5 +55,26 @@
           <a href="/sessions"><button>All sessions</button></a>
         </div>
       </section>
+      <section class="p-strip">
+        <div class="row">
+          <h2>Sponsors</h2>
+          {{ range (where .Site.Pages "Section" "sponsors") }}
+          {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+          {{ range .Pages.GroupByParam "group" }}
+          <h4>{{ .Key }}</h4>
+          <ul class="p-inline-images">
+            {{ range .Pages }}
+            <li class="p-inline-images__item">
+              <a href="{{ .RelPermalink }}">
+                <img class="p-inline-images__logo" src="{{.Params.photo}}"  alt=""/>
+              </a>
+            </li>
+              {{ end }}
+          </ul>
+          {{ end }}
+          {{end}}
+         
+        </div>
+      </section>
 </main>
 {{ end }}
