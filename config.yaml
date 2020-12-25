@@ -1,0 +1,59 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: Ubucon Asia 2021
+theme: ubuconasia
+Paginate: 5
+buildFuture: true
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: '#'
+      weight: 40
+    - identifier: sessions
+      name: Sessions
+      url: /sessions/
+      weight: 30
+    - identifier: sponsors
+      name: Sponsors
+      url: /sponsors/
+      weight: 20
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 10
+defaultContentLanguage: en
+languages:
+  ko:
+    languageName: 한국어
+    title: 우부콘 아시아 2021
+    weight: 2
+    menu:
+      main:
+        - identifier: about
+          name: 소개
+          url: '#'
+          weight: 40
+        - identifier: sessions
+          name: 세션
+          url: /sessions/
+          weight: 30
+        - identifier: sponsors
+          name: 후원사
+          url: /sponsors/
+          weight: 20
+        - identifier: news
+          name: 소식
+          url: /news/
+          weight: 10
+  en:
+    languageName: English
+    title: Ubucon Asia 2021
+    weight: 1
+    params:
+      linkedin: 'https://linkedin.com/whoever'
+params:
+  description: >-
+    First Ubuntu conference in Asia organized by Ubuntu Local Communities in
+    Asian region.
+  period: Expected to take place in 2021 Q3 or Q4
