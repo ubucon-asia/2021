@@ -6,7 +6,7 @@
             <h1>{{.Title}}</h1>
             <h4>{{.Site.Params.description}}</h4>
             <p>{{.Site.Params.period}}</p>
-            <button>Learn more</button>
+            <button>{{ i18n "learn_more" }}</button>
           </div>
           <div class="col-4">
             <img src="https://assets.ubuntu.com/v1/2217d1c8-Security.svg" alt="">
@@ -27,7 +27,7 @@
       </section>
       <section class="p-strip--light">
         <div class="row">
-          <h2>Featured sessions</h2>
+          <h2>{{ i18n "featured" }}</h2>
           {{ range first 4 ( sort (intersect (where .Site.RegularPages "Section" "sessions") (where .Site.Pages "Params.featured" true)) "Date" "asc" ) }}
           {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
           <div class="col-6">
@@ -52,12 +52,12 @@
             </div>
           </div>
           {{ end }}
-          <a href="/sessions"><button>All sessions</button></a>
+          <a href="/sessions"><button>{{ i18n "all_sessions" }}</button></a>
         </div>
       </section>
       <section class="p-strip">
         <div class="row">
-          <h2>Sponsors</h2>
+          <h2>{{ i18n "sponsors" }}</h2>
           {{ range (where .Site.Pages "Section" "sponsors") }}
           {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
           {{ range .Pages.GroupByParam "group" }}

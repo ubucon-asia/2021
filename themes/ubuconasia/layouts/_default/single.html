@@ -1,8 +1,18 @@
-{{ define "title" }}
-  <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
-  {{ .Title }} &ndash; {{ .Site.Title }}
-{{ end }}
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-{{ end }}
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<main>
+    <section class="p-strip--accent">
+        <div class="row">
+            <b>{{i18n "about" }}</b>
+            <h2>{{.Title}}</h2>
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          {{ .Content }}
+        </div>
+      </section>
+</main>
+
+{{end}}
