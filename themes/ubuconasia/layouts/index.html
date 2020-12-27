@@ -39,7 +39,7 @@
                 <img src="/images/ubuntu.png" class="p-media-object__image is-round" alt="">
               {{end}}
               <div class="p-media-object__details">
-                <h3>{{.Title}}</h3>
+                <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
                 <b>{{.Date.Format "2006-01-02 03:04 MST"}}</b>
                   <ul class="p-inline-list--middot">
                     {{range .Params.speakers}}
