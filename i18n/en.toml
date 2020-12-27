@@ -16,3 +16,7 @@ other = "About"
 other = "News"
 [sessions]
 other = "Sessions"
+[calendar]
+other = "Add to calendar"
+[ical]
+other = "Session schedules calendar"

@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+end: {{ .Date }}
 track: 0
 draft: true
 speakers:

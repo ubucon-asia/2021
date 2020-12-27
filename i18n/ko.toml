@@ -16,3 +16,7 @@ other = "소개"
 other = "소식"
 [sessions]
 other = "세션"
+[calendar]
+other = "캘린더에 등록"
+[ical]
+other = "세션 일정 캘린더"

@@ -60,8 +60,9 @@ languages:
       description: >-
         The first Ubuntu Asia conference organized by Ubuntu LoCos in Asia.
       period: Expected to take place in 2021 Q3 or Q4
-# params:
-#   description: >-
-#     First Ubuntu conference in Asia organized by Ubuntu Local Communities in
-#     Asian region.
-#   period: Expected to take place in 2021 Q3 or Q4
+params:
+  contact: sukso96100@gmail.com
+  calendarOrganizer: Ubucon Asia 2021 Organizers
+  calendarUidSuffix: 2021.asia.ubucon.org
+outputs:
+  section: ["HTML", "RSS", "Calendar"]
