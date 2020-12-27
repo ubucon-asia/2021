@@ -4,7 +4,15 @@ other = "Learn more"
 other = "Featured sessions"
 [all_sessions] 
 other = "All sessions"
+[more_sessions]
+other = "More sessions"
 [sponsors] 
 other = "Sponsors"
+[more_sponsors]
+other = "More sponsors"
 [about]
 other = "About"
+[news]
+other = "News"
+[sessions]
+other = "Sessions"

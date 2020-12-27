@@ -4,7 +4,15 @@ other = "더 알아보기"
 other = "주요 세션"
 [all_sessions] 
 other = "모든 세션"
+[more_sessions]
+other = "다른 세션 더 보기"
 [sponsors] 
 other = "후원사"
+[more_sponsors]
+other = "다른 후원사 더 보기"
 [about]
 other = "소개"
+[news]
+other = "소식"
+[sessions]
+other = "세션"

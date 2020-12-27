@@ -5,7 +5,7 @@
     <section class="p-strip--accent">
         <div class="row">
             <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;"/>
-            <b>Sponsors</b>
+            <b>{{ i18n "sponsors" }}</b>
             <h2>{{.Title}}</h2>
             <div>
               <div class="p-label--new">{{.Params.group}}</div>
@@ -38,7 +38,7 @@
             </div>
           </div>
           {{ end }}
-          <a href="/sessions"><button>More sponsors</button></a>
+          <a href='{{ ref . "/sponsors/" }}'><button>{{ i18n "more_sponsors" }}</button></a>
         </div>
       </section>
 </main>

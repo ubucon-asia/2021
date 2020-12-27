@@ -4,7 +4,7 @@
 <main>
     <section class="p-strip--accent">
         <div class="row">
-            <b>News</b>
+            <b>{{ i18n "news" }}</b>
             <h2>{{.Title}}</h2>
             <p>{{.Date.Format "2006-01-02 03:04 MST"}}</p>
             <ul class="p-inline-list--middot">
@@ -42,7 +42,7 @@
             </div>
           </div>
           {{ end }}
-          <a href="/news"><button>More news</button></a>
+          <a href='{{ ref . "/news/" }}'><button>More news</button></a>
         </div>
       </section>
 </main>

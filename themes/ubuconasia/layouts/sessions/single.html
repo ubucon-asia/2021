@@ -4,7 +4,7 @@
 <main>
     <section class="p-strip--accent">
         <div class="row">
-            <b>Sessions</b>
+            <b>{{ i18n "sessions" }}</b>
             <h2>{{.Title}}</h2>
             <p>{{.Date.Format "2006-01-02 03:04 MST"}}</p>
             <div>
@@ -38,7 +38,7 @@
             </div>
           </div>
           {{ end }}
-          <a href="/sessions"><button>More sessions</button></a>
+          <a href='{{ ref . "/sessions/" }}'><button>{{ i18n "more_sessions" }}</button></a>
         </div>
       </section>
 </main>
