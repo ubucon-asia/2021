@@ -16,7 +16,9 @@ other = "About"
 other = "News"
 [sessions]
 other = "Sessions"
-[calendar]
-other = "Add to calendar"
+[ical_add]
+other = "Add to calendar(*.ics file)"
+[ical_subscribe]
+other = "Subscribe to calendar(webcal)"
 [ical]
 other = "Session schedules calendar"

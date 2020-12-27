@@ -4,7 +4,8 @@
         <div class="row">
             <h2>{{.Title}}</h2>
             {{ with  .OutputFormats.Get "Calendar" -}}
-            <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"><button>{{ i18n "calendar" }}</button></a>
+            <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"><button>{{ i18n "ical_subscribe" }}</button></a>
+            <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}"><button>{{ i18n "ical_add" }}</button></a>
             {{- end }}
         </div>
       </section>
