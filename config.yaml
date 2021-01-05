@@ -22,6 +22,10 @@ menu:
       name: News
       url: news
       weight: 4
+    - identifier: wiki
+      name: Wiki
+      url: https://wiki.ubuntu.com/UbuconAsia/2021
+      weight: 5
 defaultContentLanguage: en
 languages:
   ko:
@@ -51,6 +55,10 @@ languages:
           name: 소식
           url: news
           weight: 4
+        - identifier: wiki
+          name: 위키
+          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          weight: 5
   en:
     languageName: English
     title: Ubucon Asia 2021
