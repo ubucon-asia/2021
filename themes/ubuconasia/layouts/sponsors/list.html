@@ -13,7 +13,7 @@
                   {{ range .Pages }}
                   <div class="p-card col-3">
                     <a href="{{ .RelPermalink }}">
-                    <img src="{{.Params.photo}}" alt="" style="max-height: 100px;"/>
+                    <img src="{{.Params.photo | relURL }}" alt="" style="max-height: 100px;"/>
                     <h4>{{.Title}}</h4>
                     </a>
                   </div>

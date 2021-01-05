@@ -34,9 +34,9 @@
             <div class="p-media-object--large">
               {{$firstSpeaker := index .Params.speakers 0}}
               {{with $firstSpeaker.profile}}
-                <img src="{{.}}" class="p-media-object__image is-round" alt="">
+                <img src="{{ . | relURL }}" class="p-media-object__image is-round" alt="">
               {{ else }}
-                <img src="/images/ubuntu.png" class="p-media-object__image is-round" alt="">
+                <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
               {{end}}
               <div class="p-media-object__details">
                 <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
@@ -66,7 +66,7 @@
             {{ range .Pages }}
             <li class="p-inline-images__item">
               <a href="{{ .RelPermalink }}">
-                <img class="p-inline-images__logo" src="{{.Params.photo}}"  alt=""/>
+                <img class="p-inline-images__logo" src="{{.Params.photo | relURL}}"  alt=""/>
               </a>
             </li>
               {{ end }}

@@ -23,9 +23,9 @@
           {{ range .Params.authors }}
           <div class="p-media-object">
             {{with .profile}}
-              <img src="{{.}}" class="p-media-object__image is-round" alt="">
+              <img src="{{. | relURL}}" class="p-media-object__image is-round" alt="">
             {{ else }}
-              <img src="/images/ubuntu.png" class="p-media-object__image is-round" alt="">
+              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
             {{end}}
             <div class="p-media-object__details">
               <a href="mailto:{{.email}}">
