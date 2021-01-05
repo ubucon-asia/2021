@@ -8,19 +8,19 @@ menu:
   main:
     - identifier: about
       name: About
-      url: '/about/'
+      url: about
       weight: 1
     - identifier: sessions
       name: Sessions
-      url: /sessions/
+      url: sessions
       weight: 2
     - identifier: sponsors
       name: Sponsors
-      url: /sponsors/
+      url: sponsors
       weight: 3
     - identifier: news
       name: News
-      url: /news/
+      url: news
       weight: 4
 defaultContentLanguage: en
 languages:
@@ -37,19 +37,19 @@ languages:
       main:
         - identifier: about
           name: 소개
-          url: /about/
+          url: about
           weight: 1
         - identifier: sessions
           name: 세션
-          url: /sessions/
+          url: sessions
           weight: 2
         - identifier: sponsors
           name: 후원사
-          url: /sponsors/
+          url: sponsors
           weight: 3
         - identifier: news
           name: 소식
-          url: /news/
+          url: news
           weight: 4
   en:
     languageName: English
