@@ -1,102 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>소식 on 우부콘 아시아 2021</title>
+    <title>뉴스 on 우부콘 아시아 2021</title>
     <link>https://ubucon-asia.github.io/2021/ko/news/</link>
-    <description>Recent content in 소식 on 우부콘 아시아 2021</description>
+    <description>Recent content in 뉴스 on 우부콘 아시아 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2020 13:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ko/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-2/</link>
+      <title>Ubucon Asia 2021 조직 팀 구성원 모집</title>
+      <link>https://ubucon-asia.github.io/2021/ko/news/2021-01-05-calling-for-core-organizers/</link>
       <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-2/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-3/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-3/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-4/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-4/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-5/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-5/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-6/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy-6/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp-copy/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp-copy/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Calling for papers</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/cfp/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/cfp/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/welcome/</link>
-      <pubDate>Sun, 22 Nov 2020 00:06:37 +0900</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/ko/news/welcome/</guid>
+      <guid>https://ubucon-asia.github.io/2021/ko/news/2021-01-05-calling-for-core-organizers/</guid>
       <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
  Bold and Italic and Link
    Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
