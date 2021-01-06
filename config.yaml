@@ -32,7 +32,7 @@ languages:
     languageName: 한국어
     title: 우부콘 아시아 2021
     weight: 2
-    contentDir: content/korean
+    # contentDir: content/korean
     params:
       description: >-
         아시아 지역 우분투 LoCo 에서 준비한 첫 우분투 아시아 컨퍼런스.
@@ -63,7 +63,7 @@ languages:
     languageName: English
     title: Ubucon Asia 2021
     weight: 1
-    contentDir: content/english
+    # contentDir: content/english
     params:
       description: >-
         The first Ubuntu Asia conference organized by Ubuntu LoCos in Asia.

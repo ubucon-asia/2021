@@ -1,18 +1,10 @@
 ---
-title: "Welcome"
-date: 2020-11-22T00:06:37+09:00
+title: "Calling for core organizers"
+date: 2020-11-22T13:00:00+09:00
 authors:
-    - name: Author
-      bio: Author bio
-      email:
-      launchpad: sukso96100
-      github: sukso96100
-      profile:
-      linkurl: https://youngbin.xyz
-      linklabel: Website
-    - name: Author 2
-      bio: Author bio 2
-      email:
+    - name: Youngbin Han
+      bio: Ubuntu Korea Community - Advisor
+      email: sukso96100@gmail.com
       launchpad: sukso96100
       github: sukso96100
       profile:
