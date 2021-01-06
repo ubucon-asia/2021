@@ -6,9 +6,13 @@
         </div>
       </section>
       <section class="p-strip">
-       
+        {{ $pages := .Site.Pages }}
+        {{ range .Site.Home.Translations }}
+        {{ $pages = $pages | lang.Merge .Site.Pages }}
+        {{ end }}
+        {{ $pages = (where $pages "Section" "sponsors") }}
         <div class="row">
-            {{ range .Pages.GroupByParam "group" }}
+            {{ range $pages.GroupByParam "group" }}
               <h3>{{ .Key }}</h3>
                   {{ range .Pages }}
                   <div class="p-card col-3">

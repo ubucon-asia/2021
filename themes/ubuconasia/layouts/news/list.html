@@ -1,27 +1,36 @@
 {{ define "main" }}
 <main>
-    <section class="p-strip--accent">
-        <div class="row">
-            <h2>{{.Title}}</h2>
-        </div>
-      </section>
-      <section class="p-strip">
-        <div class="row">
-            {{ range .Paginator.Pages }}
-            <a href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
-            <b>{{ .Date.Format "2006-01-02 03:04 MST" }}</b>
-            <ul class="p-inline-list--middot">
-              {{range .Params.authors}}
-              <li class="p-inline-list__item">
-                {{.name}}
-              </li>
-              {{end}}
-            </ul>
-            <p>{{.Summary}}</p>
-            </article>
-          {{ end }}
-          {{- partial "pagination.html" . -}}
-        </div>
-      </section>
+  <section class="p-strip--accent">
+    <div class="row">
+      <h2>{{.Title}}</h2>
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+
+      {{ $pages := .Paginator.Pages }}
+      {{ range .Site.Home.Translations }}
+      {{ $pages = $pages | lang.Merge .Paginator.Pages }}
+      {{ end }}
+
+      {{ range where $pages "Section" "news" }}
+      <a href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+      </a>
+      <b>{{ .Date.Format "2006-01-02 03:04 MST" }}</b>
+      <ul class="p-inline-list--middot">
+        {{range .Params.authors}}
+        <li class="p-inline-list__item">
+          {{.name}}
+        </li>
+        {{end}}
+      </ul>
+      <p>{{.Summary}}</p>
+      </article>
+      {{ end }}
+
+      {{- partial "pagination.html" . -}}
+    </div>
+  </section>
 </main>
 {{ end }}

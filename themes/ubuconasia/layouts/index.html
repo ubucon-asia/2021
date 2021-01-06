@@ -1,80 +1,91 @@
 {{ define "main" }}
+
+{{ $allPages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $allPages = $allPages | lang.Merge .Site.Pages }}
+{{ end }}
+
+{{ $regularPages := .Site.RegularPages }}
+{{ range .Site.Home.Translations }}
+{{ $regularPages = $regularPages | lang.Merge .Site.RegularPages }}
+{{ end }}
+
 <main>
-    <section class="p-strip--accent">
-        <div class="row">
-          <div class="col-8">
-            <h1>{{.Title}}</h1>
-            <h4>{{.Site.Params.description}}</h4>
-            <p>{{.Site.Params.period}}</p>
-            <a href="about"><button>{{ i18n "learn_more" }}</button></a>
-          </div>
-          <div class="col-4">
-            <img src="https://assets.ubuntu.com/v1/2217d1c8-Security.svg" alt="">
-          </div>
-        </div>
-      </section>
-      <section class="p-strip">
-        <div class="row">
-          {{ range first 3 ( sort (where .Site.RegularPages "Section" "news") "Date" "desc" ) }}
-            {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
-            <div class="col-4">
-              <a href="{{ .RelPermalink }}"><h3>{{.Title}}</h3></a>
-              <b>{{.Date.Format "2006-01-02"}}</b><br/>
-              <span>{{slicestr .Summary 0 100}}</span><br/>
-            </div>
-          {{ end }}
-        </div>
-      </section>
-      <section class="p-strip--light">
-        <div class="row">
-          <h2>{{ i18n "featured" }}</h2>
-          {{ range first 4 ( sort (intersect (where .Site.RegularPages "Section" "sessions") (where .Site.Pages "Params.featured" true)) "Date" "asc" ) }}
-          {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
-          <div class="col-6">
-            <div class="p-media-object--large">
-              {{$firstSpeaker := index .Params.speakers 0}}
-              {{with $firstSpeaker.profile}}
-                <img src="{{ . | relURL }}" class="p-media-object__image is-round" alt="">
-              {{ else }}
-                <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
-              {{end}}
-              <div class="p-media-object__details">
-                <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
-                <b>{{.Date.Format "2006-01-02 03:04 MST"}}</b>
-                  <ul class="p-inline-list--middot">
-                    {{range .Params.speakers}}
-                    <li class="p-inline-list__item">
-                      {{.name}}
-                    </li>
-                    {{end}}
-                  </ul>
-              </div>
-            </div>
-          </div>
-          {{ end }}
-          <a href="sessions"><button>{{ i18n "all_sessions" }}</button></a>
-        </div>
-      </section>
-      <section class="p-strip">
-        <div class="row">
-          <h2>{{ i18n "sponsors" }}</h2>
-          {{ range (where .Site.Pages "Section" "sponsors") }}
-          {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
-          {{ range .Pages.GroupByParam "group" }}
-          <h4>{{ .Key }}</h4>
-          <ul class="p-inline-images">
-            {{ range .Pages }}
-            <li class="p-inline-images__item">
-              <a href="{{ .RelPermalink }}">
-                <img class="p-inline-images__logo" src="{{.Params.photo | relURL}}"  alt=""/>
-              </a>
-            </li>
-              {{ end }}
-          </ul>
-          {{ end }}
+  <section class="p-strip--accent">
+    <div class="row">
+      <div class="col-8">
+        <h1>{{.Title}}</h1>
+        <h4>{{.Site.Params.description}}</h4>
+        <p>{{.Site.Params.period}}</p>
+        <a href="about"><button>{{ i18n "learn_more" }}</button></a>
+      </div>
+      <div class="col-4">
+        <img src="https://assets.ubuntu.com/v1/2217d1c8-Security.svg" alt="">
+      </div>
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      {{ range first 3 ( sort (where $regularPages "Section" "news") "Date" "desc" ) }}
+      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+      <div class="col-4">
+        <a href="{{ .RelPermalink }}">
+          <h3>{{.Title}}</h3>
+        </a>
+        <b>{{.Date.Format "2006-01-02"}}</b><br />
+        <span>{{slicestr .Summary 0 100}}</span><br />
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  <section class="p-strip--light">
+    <div class="row">
+      <h2>{{ i18n "featured" }}</h2>
+      {{ range first 4 ( sort (intersect (where $regularPages "Section" "sessions") (where $allPages "Params.featured" true)) "Date" "asc" ) }}
+      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+      <div class="col-6">
+        <div class="p-media-object--large">
+          {{$firstSpeaker := index .Params.speakers 0}}
+          {{with $firstSpeaker.profile}}
+          <img src="{{ . | relURL }}" class="p-media-object__image is-round" alt="">
+          {{ else }}
+          <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
           {{end}}
-         
+          <div class="p-media-object__details">
+            <a href="{{.Permalink}}">
+              <h3>{{.Title}}</h3>
+            </a>
+            <b>{{.Date.Format "2006-01-02 03:04 MST"}}</b>
+            <ul class="p-inline-list--middot">
+              {{range .Params.speakers}}
+              <li class="p-inline-list__item">
+                {{.name}}
+              </li>
+              {{end}}
+            </ul>
+          </div>
         </div>
-      </section>
+      </div>
+      {{ end }}
+      <a href="sessions"><button>{{ i18n "all_sessions" }}</button></a>
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      <h2>{{ i18n "sponsors" }}</h2>
+      {{ $sponsors := (where $allPages "Section" "sponsors") }}
+      <div class="row">
+        {{ range $sponsors.GroupByParam "group" }}
+        <h4>{{ .Key }}</h4>
+        {{ range .Pages }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{.Params.photo | relURL}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        {{ end }}
+      </div>
+  </section>
 </main>
 {{ end }}

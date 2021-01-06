@@ -1,46 +1,53 @@
 {{ define "main" }}
 <main>
-    <section class="p-strip--accent">
-        <div class="row">
-            <h2>{{.Title}}</h2>
-            {{ with  .OutputFormats.Get "Calendar" -}}
-            <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"><button>{{ i18n "ical_subscribe" }}</button></a>
-            <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}"><button>{{ i18n "ical_add" }}</button></a>
-            {{- end }}
-        </div>
-      </section>
-      <section class="p-strip">
-        <div class="row">
-          <nav class="p-tabs" aria-label="Example tabs navigation"
-            style="position:sticky; top:0px; background: white;">
-            <ul class="p-tabs__list" role="tablist">
-              {{ range .Pages.GroupByDate "2006-01-02" "asc"}}
-              <li class="p-tabs__item" role="presentation">
-                <a href="#{{ .Key }}" class="p-tabs__link" role="tab" aria-controls="section1">{{ .Key }}</a>
-              </li>
-              {{ end }}
-            </ul>
-          </nav>
-        {{ range .Pages.GroupByDate "2006-01-02" "asc"}}
-        <h3 id="{{ .Key }}">{{ .Key }}</h3>
-            {{ range .Pages.GroupByDate "03:04 MST" "asc" }}
-              <h4>{{ .Key }}</h4>
-                  {{ range .Pages }}
-                  <div class="p-card col-6">
-                    <a href="{{ .RelPermalink }}"><h3>{{.Title}}</h3></a>
-                    <ul class="p-inline-list--middot">
-                      {{range .Params.speakers}}
-                    <li class="p-inline-list__item">
-                      {{.name}}
-                    </li>
-                    {{end}}
-                    </ul>
-                    <div class="p-label--new">Track {{.Params.track}}</div>
-                  </div>
-                  {{ end }}
-            {{ end }}
-        {{ end }}
-        </div>
-      </section>
+  <section class="p-strip--accent">
+    <div class="row">
+      <h2>{{.Title}}</h2>
+      {{ with .OutputFormats.Get "Calendar" -}}
+      <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"><button>{{ i18n "ical_subscribe" }}</button></a>
+      <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}"><button>{{ i18n "ical_add" }}</button></a>
+      {{- end }}
+    </div>
+  </section>
+  <section class="p-strip">
+    {{ $pages := .Paginator.Pages }}
+    {{ range .Site.Home.Translations }}
+    {{ $pages = $pages | lang.Merge .Paginator.Pages }}
+    {{ end }}
+    {{ $pages = (where $pages "Section" "sessions") }}
+
+    <div class="row">
+      <nav class="p-tabs" aria-label="Example tabs navigation" style="position:sticky; top:0px; background: white;">
+        <ul class="p-tabs__list" role="tablist">
+          {{ range $pages.GroupByDate "2006-01-02" "asc"}}
+          <li class="p-tabs__item" role="presentation">
+            <a href="#{{ .Key }}" class="p-tabs__link" role="tab" aria-controls="section1">{{ .Key }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </nav>
+      {{ range $pages.GroupByDate "2006-01-02" "asc"}}
+      <h3 id="{{ .Key }}">{{ .Key }}</h3>
+      {{ range .Pages.GroupByDate "03:04 MST" "asc" }}
+      <h4>{{ .Key }}</h4>
+      {{ range .Pages }}
+      <div class="p-card col-6">
+        <a href="{{ .RelPermalink }}">
+          <h3>{{.Title}}</h3>
+        </a>
+        <ul class="p-inline-list--middot">
+          {{range .Params.speakers}}
+          <li class="p-inline-list__item">
+            {{.name}}
+          </li>
+          {{end}}
+        </ul>
+        <div class="p-label--new">Track {{.Params.track}}</div>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
 </main>
 {{ end }}
