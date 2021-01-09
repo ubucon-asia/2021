@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:sukso96100@gmail.com
-ATTENDEE;CN="Speaker0";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:a@b.c
-SUMMARY:Keynote session kr
-UID:20201122T010000@2021.asia.ubucon.org
+ATTENDEE;CN="N/A";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
+SUMMARY:*아직 세션 없음
+UID:20210109T010000@2021.asia.ubucon.org
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20201122T010000Z
-DTSTART:20201122T010000
-DTEND:20201122T010000
+DTSTAMP:20210109T010000Z
+DTSTART:20210109T010000
+DTEND:20210109T010000
 LOCATION:우부콘 아시아 2021 - Track 0
-DESCRIPTION:<p>Welcome to keynote session</p>
+DESCRIPTION:<p>아직 연사 모집 일정과 세션 프로그램 정보가 없습니다.
+연사 모집 일정과 세션 프로그램이 정해지면 본 웹사이트에 업데이트 될 예정입니다.</p>
 
-URL:https://ubucon-asia.github.io/2021/ko/sessions/d0_t0_0/
+URL:https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/
 END:VEVENT
 END:VCALENDAR

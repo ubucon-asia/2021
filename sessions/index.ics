@@ -5,32 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:sukso96100@gmail.com
-ATTENDEE;CN="Speaker0";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:a@b.c
-SUMMARY:Keynote session
-UID:20201122T010000@2021.asia.ubucon.org
+ATTENDEE;CN="N/A";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
+SUMMARY:*No sessions yet
+UID:20210109T010000@2021.asia.ubucon.org
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20201122T010000Z
-DTSTART:20201122T010000
-DTEND:20201122T010000
+DTSTAMP:20210109T010000Z
+DTSTART:20210109T010000
+DTEND:20210109T010000
 LOCATION:Ubucon Asia 2021 - Track 0
-DESCRIPTION:<p>Welcome to keynote session</p>
+DESCRIPTION:<p>We don&rsquo;t have any scheduled sessions and schedules for calling for papers yet.
+Notice for CFPs and session informations will be updated later.</p>
 
-URL:https://ubucon-asia.github.io/2021/sessions/d0_t0_0/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:sukso96100@gmail.com
-ATTENDEE;CN="Speaker0";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:a@b.c
-SUMMARY:Keynote session
-UID:20201122T010000@2021.asia.ubucon.org
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20201122T010000Z
-DTSTART:20201122T010000
-DTEND:20201122T010000
-LOCATION:Ubucon Asia 2021 - Track 1
-DESCRIPTION:<p>Welcome to keynote session</p>
-
-URL:https://ubucon-asia.github.io/2021/sessions/d0_t1_0/
+URL:https://ubucon-asia.github.io/2021/sessions/no-sessions-yet/
 END:VEVENT
 END:VCALENDAR

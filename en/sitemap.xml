@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ubucon-asia.github.io/2021/sessions/no-sessions-yet/</loc>
+    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/sessions/no-sessions-yet/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/sessions/</loc>
+    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/sessions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/</loc>
+    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
@@ -29,56 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ubucon-asia.github.io/2021/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/</loc>
-    <lastmod>2021-01-07T01:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/sessions/d0_t0_0/</loc>
-    <lastmod>2020-11-22T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sessions/d0_t0_0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/sessions/d0_t0_0/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/sessions/d0_t1_0/</loc>
-    <lastmod>2020-11-22T10:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/sessions/</loc>
-    <lastmod>2020-11-22T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sessions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/sessions/"
                 />
   </url>
   
