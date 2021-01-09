@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>뉴스 on 우부콘 아시아 2021</title>
+    <title>소식 on 우부콘 아시아 2021</title>
     <link>https://ubucon-asia.github.io/2021/ko/news/</link>
-    <description>Recent content in 뉴스 on 우부콘 아시아 2021</description>
+    <description>Recent content in 소식 on 우부콘 아시아 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 13:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ko/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ko/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ubucon Asia 2021 조직 팀 구성원 모집</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/2021-01-05-calling-for-core-organizers/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
+      <title>컨퍼런스를 함께 조직할 분을 찾습니다</title>
+      <link>https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/</link>
+      <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/news/2021-01-05-calling-for-core-organizers/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
+      <guid>https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/</guid>
+      <description>아시아 지역에는 다양한 오픈소스 및 리눅스 커뮤니티 컨퍼런스가 있습니다. 좋은 예를 몇가지 들자면,
+ OpenSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit 그 외 더 다양한 컨퍼런스&amp;hellip;  저는 지난 몇 년 동안, 우분투한국커뮤니티 대표일 때, 몇몇 해외 컨퍼런스에 참여해 왔습니다. 새로운 것을 배우고 새로운 사람을 만나기 위한 목적도 있지만, 해외에 있는 우분투 지역 커뮤니티, 특히 한국과 가까운 지역의 커뮤니티와 교류를 하기위한 목적도 있었습니다. 해외 컨퍼런스 참여로 다양한 지역의 다양한 커뮤니티 사람들을 만날 수 있었지만, 안타깝게도 해외 우분투 커뮤니티 사람을 거의 만나지 못했습니다.</description>
     </item>
     
   </channel>

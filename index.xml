@@ -6,17 +6,15 @@
     <description>Recent content on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 13:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calling for core organizers</title>
-      <link>https://ubucon-asia.github.io/2021/news/2021-01-05-calling-for-core-organizers/</link>
-      <pubDate>Sun, 22 Nov 2020 13:00:00 +0900</pubDate>
+      <title>Looking for organizers</title>
+      <link>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</link>
+      <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/news/2021-01-05-calling-for-core-organizers/</guid>
-      <description>H1 H2 H3 H4  List Item  Subitem  subitem       Number list item  subitem  subitem       Quotes
- Bold and Italic and Link
-   Table Head Head     Content Content Content   Content Content Content   Content Content Content    code blocks
-def hello(): print(&amp;#34;hello&amp;#34;) </description>
+      <guid>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</guid>
+      <description>In Asia, You can find various community conferences about open source and linux that covers Asia region. Good examples of this are:
+ OpenSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit and more&amp;hellip;  For past a few years, when I was the leader of Ubuntu Korea Community, I attended several conferences overseas to not just meet and learn but also to interact with Ubuntu local communities overseas. Especially, communities located near South Korea region.</description>
     </item>
     
     <item>
@@ -47,21 +45,15 @@ def hello(): print(&amp;#34;hello&amp;#34;) </description>
     </item>
     
     <item>
-      <title>Global name</title>
-      <link>https://ubucon-asia.github.io/2021/sponsors/global0/</link>
+      <title>Become a sponsor</title>
+      <link>https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/sponsors/global0/</guid>
-      <description>Sponsor description</description>
-    </item>
-    
-    <item>
-      <title>Sponsor name</title>
-      <link>https://ubucon-asia.github.io/2021/sponsors/local0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ubucon-asia.github.io/2021/sponsors/local0/</guid>
-      <description>Sponsor description</description>
+      <guid>https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/</guid>
+      <description>Thank you for your interest in Ubuntu and Ubucon Asia.
+For this moment, We don&amp;rsquo;t have any plans for gathering sponsors yet.
+Once we got details for sponsorship, We&amp;rsquo;ll post on this website.
+If you have any questions, feel free to contact and ask by email sukso96100@gmail.com</description>
     </item>
     
   </channel>

@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/news/2021-01-05-calling-for-core-organizers/</loc>
-    <lastmod>2020-11-22T13:00:00+09:00</lastmod>
+    <loc>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</loc>
+    <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/news/2021-01-05-calling-for-core-organizers/"
+                href="https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubucon-asia.github.io/2021/news/2021-01-05-calling-for-core-organizers/"
+                href="https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/"
                 />
   </url>
   
   <url>
     <loc>https://ubucon-asia.github.io/2021/news/</loc>
-    <lastmod>2020-11-22T13:00:00+09:00</lastmod>
+    <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://ubucon-asia.github.io/2021/</loc>
-    <lastmod>2020-11-22T13:00:00+09:00</lastmod>
+    <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -50,6 +50,16 @@
   <url>
     <loc>https://ubucon-asia.github.io/2021/sessions/d0_t0_0/</loc>
     <lastmod>2020-11-22T10:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sessions/d0_t0_0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/sessions/d0_t0_0/"
+                />
   </url>
   
   <url>
@@ -87,6 +97,20 @@
   </url>
   
   <url>
+    <loc>https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ubucon-asia.github.io/2021/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,14 +122,6 @@
                 hreflang="en"
                 href="https://ubucon-asia.github.io/2021/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/sponsors/global0/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/sponsors/local0/</loc>
   </url>
   
   <url>
