@@ -35,7 +35,7 @@ languages:
     # contentDir: content/korean
     params:
       description: >-
-        아시아 지역 우분투 LoCo 에서 준비한 첫 우분투 아시아 컨퍼런스.
+        아시아에 있는 다양한 우분투 지역 커뮤니티에서 준비한 첫 우분투 아시아 컨퍼런스.
       period: 2021년 3~4분기 중 개최 예정.
     menu:
       main:
@@ -66,7 +66,7 @@ languages:
     # contentDir: content/english
     params:
       description: >-
-        The first Ubuntu Asia conference organized by Ubuntu LoCos in Asia.
+        The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
       period: Expected to take place in 2021 Q3 or Q4
 params:
   contact: sukso96100@gmail.com
