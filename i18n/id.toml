@@ -1,0 +1,24 @@
+[learn_more]
+other = "Pelajari lebih lanjut"
+[featured] 
+other = "Sesi unggulan"
+[all_sessions] 
+other = "Semua sesi"
+[more_sessions]
+other = "Sesi lainnya"
+[sponsors] 
+other = "Sponsor"
+[more_sponsors]
+other = "Sponsor lainnya"
+[about]
+other = "Tentang"
+[news]
+other = "Berita"
+[sessions]
+other = "Sesi"
+[ical_add]
+other = "Tambah ke kalender(berkas *.ics)"
+[ical_subscribe]
+other = "Berlangganan ke kalender(webcal)"
+[ical]
+other = "Kalender jadwal sesi"

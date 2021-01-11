@@ -68,6 +68,37 @@ languages:
       description: >-
         The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
       period: Expected to take place in 2021 Q3 or Q4
+  id:
+    languageName: Bahasa Indonesia
+    title: Ubucon Asia 2021
+    weight: 2
+    # contentDir: content/indonesia
+    params:
+      description: >-
+        Konferensi Ubuntu Asia pertama yang diselenggarakan oleh Komunitas Lokal Ubuntu di Asia.
+      period: Diharapkan berlangsung pada 2021 Q3 atau Q4
+    menu:
+      main:
+        - identifier: about
+          name: Tentang
+          url: about
+          weight: 1
+        - identifier: sessions
+          name: Sesi
+          url: sessions
+          weight: 2
+        - identifier: sponsors
+          name: Sponsor
+          url: sponsors
+          weight: 3
+        - identifier: news
+          name: Berita
+          url: news
+          weight: 4
+        - identifier: wiki
+          name: Wiki
+          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          weight: 5
 params:
   contact: sukso96100@gmail.com
   calendarOrganizer: Ubucon Asia 2021 Organizers
