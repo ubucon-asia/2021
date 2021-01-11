@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/sessions/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/sessions/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -32,18 +32,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/sessions/"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sessions/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sessions/"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/sessions/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -52,18 +52,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/news/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/news/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -72,18 +72,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/news/"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/news/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/news/"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/news/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -92,37 +92,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/about/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/about/"
+                href="https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/categories/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,56 +111,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/tags/"
+                href="https://ubucon-asia.github.io/2021/id/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/sponsors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/sponsors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/sponsors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sponsors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/</loc>
+    <loc>https://ubucon-asia.github.io/2021/id/sponsors/become-a-sponsor/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -187,13 +130,70 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="id"
                 href="https://ubucon-asia.github.io/2021/id/sponsors/become-a-sponsor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/id/sponsors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/sponsors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/"
+                href="https://ubucon-asia.github.io/2021/ko/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/sponsors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/id/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/about/"
                 />
   </url>
   

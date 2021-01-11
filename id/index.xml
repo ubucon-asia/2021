@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubucon Asia 2021</title>
+    <link>https://ubucon-asia.github.io/2021/id/</link>
+    <description>Recent content on Ubucon Asia 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>*Belum Ada Sesi</title>
+      <link>https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/</link>
+      <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/</guid>
+      <description>Kami belum memiliki sesi dan jadwal untuk CFP. Pemberitahuan untuk CFP dan informasi sesi akan diperbarui nanti.</description>
+    </item>
+    
+    <item>
+      <title>Mencari Penyelenggara</title>
+      <link>https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/</link>
+      <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/</guid>
+      <description>Di Asia, Anda dapat menemukan berbagai konferensi komunitas tentang open source dan Linux yang mencakup wilayah Asia. Contoh bagusnya adalah:
+ openSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit dan banyak lagi &amp;hellip;  Selama beberapa tahun terakhir, ketika saya menjadi pemimpin Komunitas Ubuntu Korea, saya menghadiri beberapa konferensi di luar negeri tidak hanya untuk bertemu dan belajar tetapi juga untuk berinteraksi dengan komunitas lokal Ubuntu di luar negeri. Terutama komunitas yang berada di dekat kawasan Korea Selatan.</description>
+    </item>
+    
+    <item>
+      <title>Menjadi Sponsor</title>
+      <link>https://ubucon-asia.github.io/2021/id/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/sponsors/become-a-sponsor/</guid>
+      <description>Terima kasih atas minat Anda pada Ubuntu dan Ubucon Asia. Untuk saat ini, Kami belum memiliki rencana untuk mengumpulkan sponsor. Setelah kami mendapat detail untuk sponsorship, kami akan memposting di situs web ini.
+Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi dan bertanya melalui surel sukso96100@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Tentang Ubucon Asia 2021</title>
+      <link>https://ubucon-asia.github.io/2021/id/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/about/</guid>
+      <description>Tentang Ubucon Asia 2021</description>
+    </item>
+    
+  </channel>
+</rss>

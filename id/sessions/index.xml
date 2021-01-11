@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sesi&#34; on Ubucon Asia 2021</title>
+    <link>https://ubucon-asia.github.io/2021/id/sessions/</link>
+    <description>Recent content in Sesi&#34; on Ubucon Asia 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/id/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>*Belum Ada Sesi</title>
+      <link>https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/</link>
+      <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/sessions/no-sessions-yet/</guid>
+      <description>Kami belum memiliki sesi dan jadwal untuk CFP. Pemberitahuan untuk CFP dan informasi sesi akan diperbarui nanti.</description>
+    </item>
+    
+  </channel>
+</rss>

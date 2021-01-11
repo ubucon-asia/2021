@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berita on Ubucon Asia 2021</title>
+    <link>https://ubucon-asia.github.io/2021/id/news/</link>
+    <description>Recent content in Berita on Ubucon Asia 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/id/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mencari Penyelenggara</title>
+      <link>https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/</link>
+      <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
+      
+      <guid>https://ubucon-asia.github.io/2021/id/news/2021-01-07-looking-for-organizers/</guid>
+      <description>Di Asia, Anda dapat menemukan berbagai konferensi komunitas tentang open source dan Linux yang mencakup wilayah Asia. Contoh bagusnya adalah:
+ openSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit dan banyak lagi &amp;hellip;  Selama beberapa tahun terakhir, ketika saya menjadi pemimpin Komunitas Ubuntu Korea, saya menghadiri beberapa konferensi di luar negeri tidak hanya untuk bertemu dan belajar tetapi juga untuk berinteraksi dengan komunitas lokal Ubuntu di luar negeri. Terutama komunitas yang berada di dekat kawasan Korea Selatan.</description>
+    </item>
+    
+  </channel>
+</rss>
