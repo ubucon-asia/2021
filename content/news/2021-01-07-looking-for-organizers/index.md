@@ -13,7 +13,7 @@ authors:
 ---
 
 In Asia, You can find various community conferences about open source and linux that covers Asia region. Good examples of this are:
-- OpenSUSE.Asia
+- openSUSE.Asia
 - GNOME.Asia
 - LibreOffice Asia Conference 
 - PyCon APAC
