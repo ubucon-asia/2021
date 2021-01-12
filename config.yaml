@@ -99,6 +99,36 @@ languages:
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2021
           weight: 5
+  ja:
+    languageName: 日本語
+    title: Ubucon Asia 2021
+    weight: 3
+    params:
+      description: >-
+        アジア各地域のUbuntuコミュニティが集結する、アジア地域初のUbuntuカンファレンス開催
+      period: 2021年 第3〜4四半期開催予定
+    menu:
+      main:
+        - identifier: about
+          name: Ubucon Asiaとは
+          url: about
+          weight: 1
+        - identifier: sessions
+          name: セッション
+          url: sessions
+          weight: 2
+        - identifier: sponsors
+          name: スポンサー
+          url: sponsors
+          weight: 3
+        - identifier: news
+          name: ニュース
+          url: news
+          weight: 4
+        - identifier: wiki
+          name: Wiki
+          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          weight: 5
 params:
   contact: sukso96100@gmail.com
   calendarOrganizer: Ubucon Asia 2021 Organizers
