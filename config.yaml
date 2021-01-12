@@ -105,8 +105,8 @@ languages:
     weight: 3
     params:
       description: >-
-        アジア各地域のUbuntuコミュニティが集結する、アジア地域初のUbuntuカンファレンス開催
-      period: 2021年 第3〜4四半期開催予定
+        アジアのUbuntuコミュニティが集結する、アジア地域初のUbuntuカンファレンス開催
+      period: 2021年 第3〜4四半期に開催準備中
     menu:
       main:
         - identifier: about
