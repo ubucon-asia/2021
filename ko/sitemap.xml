@@ -103,25 +103,6 @@
   </url>
   
   <url>
-    <loc>https://ubucon-asia.github.io/2021/ko/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubucon-asia.github.io/2021/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://ubucon-asia.github.io/2021/id/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubucon-asia.github.io/2021/ko/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ubucon-asia.github.io/2021/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,6 +137,25 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ubucon-asia.github.io/2021/ko/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubucon-asia.github.io/2021/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ubucon-asia.github.io/2021/id/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubucon-asia.github.io/2021/ko/about/"
                 />
   </url>
   
