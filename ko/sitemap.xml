@@ -17,6 +17,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/sessions/no-sessions-yet/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/"
                 />
@@ -34,6 +39,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://ubucon-asia.github.io/2021/id/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/sessions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,6 +67,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/"
                 />
@@ -74,6 +89,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://ubucon-asia.github.io/2021/id/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -97,6 +117,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/news/2021-01-07-looking-for-organizers/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/"
                 />
@@ -113,6 +138,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://ubucon-asia.github.io/2021/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -135,6 +165,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/tags/"
                 />
@@ -154,6 +189,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://ubucon-asia.github.io/2021/ko/about/"
                 />
@@ -170,6 +210,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://ubucon-asia.github.io/2021/id/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ubucon-asia.github.io/2021/ja/sponsors/"
                 />
     <xhtml:link
                 rel="alternate"
