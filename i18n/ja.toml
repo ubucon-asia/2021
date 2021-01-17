@@ -1,0 +1,24 @@
+[learn_more]
+other = "詳細について"
+[featured] 
+other = "注目のセッション"
+[all_sessions] 
+other = "すべてのセッション"
+[more_sessions]
+other = "セッション詳細"
+[sponsors] 
+other = "スポンサー"
+[more_sponsors]
+other = "スポンサー詳細"
+[about]
+other = "Ubucon Asiaについて"
+[news]
+other = "ニュース"
+[sessions]
+other = "セッション"
+[ical_add]
+other = "カレンダーに追加（icsファイル）"
+[ical_subscribe]
+other = "カレンダーを購読（webcal）"
+[ical]
+other = "セッションスケジュール カレンダー"
