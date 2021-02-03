@@ -36,7 +36,7 @@ languages:
     params:
       description: >-
         아시아에 있는 다양한 우분투 지역 커뮤니티에서 준비한 첫 우분투 아시아 컨퍼런스.
-      period: 2021년 3~4분기 중 개최 예정.
+      period: 2021년 9월 25일 ~ 26일
     menu:
       main:
         - identifier: about
@@ -67,7 +67,7 @@ languages:
     params:
       description: >-
         The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
-      period: Expected to take place in 2021 Q3 or Q4
+      period: September 25th ~ 26th, 2021 
   id:
     languageName: Bahasa Indonesia
     title: Ubucon Asia 2021
