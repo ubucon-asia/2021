@@ -3,6 +3,30 @@
 Ubucon Asia 2021 Website
 Built with [Hugo](https://gohugo.io) and [Vanilla framework](https://vanillaframework.io/)
 
+# Adding contents
+You will need to install [Hugo CLI](https://gohugo.io/getting-started/installing/) to easily add contents.
+
+To create new content, run the following command
+```bash
+# Create session content
+hugo new --kind sessions sessions/<session-name>/_index.md
+# Example: Create session content with title "Keynote session"
+hugo new --kind sessions sessions/keynote-session/_index.md
+
+# Create sponsor content
+hugo new --kind sponsors sponsors/<sponsor-name>/_index.md
+# Example: Create sponsor content with title "Canonical Ltd"
+hugo new --kind sponsors sponsors/canonical-ltd/_index.md
+
+# Create news content
+hugo new --kind news news/YYYY-MM-DD-post-title/_index.md
+# Example: Create news content with title "Welcome to Ubucon Asia" and date "2021-02-04"
+hugo new --kind news news/2021-02-04-welcome-to-ubucon-asia/_index.md
+```
+
+After that, You will find generated markdown file under `content` directory. Edit the markdown file to add details.
+To add photo files, put files on content item directory.(The same path where content item's `_index.md` exists.)
+
 # How to localize
 
 1. Add language info in `config.yml` under `languages:` section. And fill out translation for site title, description and navigation menu. 

@@ -12,3 +12,5 @@ authors:
       linkurl:
       linklabel:
 ---
+
+Put news content here
