@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ニュース on Ubucon Asia 2021</title>
-    <link>https://ubucon-asia.github.io/2021/ja/news/</link>
+    <link>https://2021.ubucon.asia/ja/news/</link>
     <description>Recent content in ニュース on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ja/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一緒にカンファレンスを作りませんか</title>
-      <link>https://ubucon-asia.github.io/2021/ja/news/2021-01-07-looking-for-organizers/</link>
+      <link>https://2021.ubucon.asia/ja/news/2021-01-07-looking-for-organizers/</link>
       <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ja/news/2021-01-07-looking-for-organizers/</guid>
+      <guid>https://2021.ubucon.asia/ja/news/2021-01-07-looking-for-organizers/</guid>
       <description>アジアには、さまざまなLinuxとオープンソースのカンファレンスがあります。たとえば、このようなカンファレンスです。
  openSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit その他いろいろなカンファレンス…  私が以前、Ubuntu Koreaコミュニティの代表だったとき、海外のいくつかのカンファレンスに参加してきました。 新しいことを学んだり、新しい人に会う目的もありましたが海外のローカルUbuntuコミュニティ、特に韓国に近い地域のコミュニティと交流という目的もありました。海外のカンファレンスに参加して、いろんな地域の、さまざまな方たちと会いましたが残念ながら海外のUbuntuコミュニティの人たちと会うことは、ほとんど、ありませんでした。また、アジアのUbuntuカンファレンスもありませんでした。
 イベントから帰国して、アジアにカンファレンスは多いのに、なぜ、Ubuntuのカンファレンスだけがないのだろうと考えていました。Ubuntuは、ポピュラーなLinuxディストリビューションで、さまざまな分野で利用されています。また、組織化された大規模なコミュニティもあるなら、国際的なカンファレンスがあってもいいのではないか。 もちろん、国際的なカンファレンスはあります（Ubucon EuropeやUbucon Latin America、Ubucon@SCALEなど）。ですが、アジア向けのカンファレンスは、まだ、ありませんでした。

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>セッション on Ubucon Asia 2021</title>
-    <link>https://ubucon-asia.github.io/2021/ja/sessions/</link>
+    <link>https://2021.ubucon.asia/ja/sessions/</link>
     <description>Recent content in セッション on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ja/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/ja/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*セッションはありません</title>
-      <link>https://ubucon-asia.github.io/2021/ja/sessions/no-sessions-yet/</link>
+      <link>https://2021.ubucon.asia/ja/sessions/no-sessions-yet/</link>
       <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ja/sessions/no-sessions-yet/</guid>
+      <guid>https://2021.ubucon.asia/ja/sessions/no-sessions-yet/</guid>
       <description>現在、予定されているセッションや発表者の募集はありません。 セッション情報やCFPについては後日、お知らせします。</description>
     </item>
     

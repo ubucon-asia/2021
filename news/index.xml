@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Ubucon Asia 2021</title>
-    <link>https://ubucon-asia.github.io/2021/news/</link>
+    <link>https://2021.ubucon.asia/news/</link>
     <description>Recent content in News on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 01:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Looking for organizers</title>
-      <link>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</link>
+      <link>https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/</link>
       <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</guid>
+      <guid>https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/</guid>
       <description>In Asia, You can find various community conferences about open source and linux that covers Asia region. Good examples of this are:
  openSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit and more&amp;hellip;  For past a few years, when I was the leader of Ubuntu Korea Community, I attended several conferences overseas to not just meet and learn but also to interact with Ubuntu local communities overseas. Especially, communities located near South Korea region.</description>
     </item>

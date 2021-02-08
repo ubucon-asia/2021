@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubucon Asia 2021</title>
-    <link>https://ubucon-asia.github.io/2021/</link>
+    <link>https://2021.ubucon.asia/</link>
     <description>Recent content on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*No sessions yet</title>
-      <link>https://ubucon-asia.github.io/2021/sessions/no-sessions-yet/</link>
+      <link>https://2021.ubucon.asia/sessions/no-sessions-yet/</link>
       <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/sessions/no-sessions-yet/</guid>
+      <guid>https://2021.ubucon.asia/sessions/no-sessions-yet/</guid>
       <description>We don&amp;rsquo;t have any scheduled sessions and schedules for calling for papers yet. Notice for CFPs and session informations will be updated later.</description>
     </item>
     
     <item>
       <title>Looking for organizers</title>
-      <link>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</link>
+      <link>https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/</link>
       <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/news/2021-01-07-looking-for-organizers/</guid>
+      <guid>https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/</guid>
       <description>In Asia, You can find various community conferences about open source and linux that covers Asia region. Good examples of this are:
  openSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit and more&amp;hellip;  For past a few years, when I was the leader of Ubuntu Korea Community, I attended several conferences overseas to not just meet and learn but also to interact with Ubuntu local communities overseas. Especially, communities located near South Korea region.</description>
     </item>
     
     <item>
       <title>About Ubucon Asia 2021</title>
-      <link>https://ubucon-asia.github.io/2021/about/</link>
+      <link>https://2021.ubucon.asia/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/about/</guid>
+      <guid>https://2021.ubucon.asia/about/</guid>
       <description>Welcome, and thank you for your interest on Ubucon Asia.
 Ubucon Asia is an event organized by Ubuntu Communities in Asia. It&amp;rsquo;s for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies. Ubucon Asia is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.
 Ubucon Asia 2021, the first Ubuntu conference in Asia will be a virtual conference driven by multiple Ubuntu LoCos from Asia.</description>
@@ -39,10 +39,10 @@ Ubucon Asia 2021, the first Ubuntu conference in Asia will be a virtual conferen
     
     <item>
       <title>Become a sponsor</title>
-      <link>https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/</link>
+      <link>https://2021.ubucon.asia/sponsors/become-a-sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/sponsors/become-a-sponsor/</guid>
+      <guid>https://2021.ubucon.asia/sponsors/become-a-sponsor/</guid>
       <description>Thank you for your interest in Ubuntu and Ubucon Asia.
 For this moment, We don&amp;rsquo;t have any plans for gathering sponsors yet.
 Once we got details for sponsorship, We&amp;rsquo;ll post on this website.

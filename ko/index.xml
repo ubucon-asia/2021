@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>우부콘 아시아 2021</title>
-    <link>https://ubucon-asia.github.io/2021/ko/</link>
+    <link>https://2021.ubucon.asia/ko/</link>
     <description>Recent content on 우부콘 아시아 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://ubucon-asia.github.io/2021/ko/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*아직 세션 없음</title>
-      <link>https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/</link>
+      <link>https://2021.ubucon.asia/ko/sessions/no-sessions-yet/</link>
       <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/sessions/no-sessions-yet/</guid>
+      <guid>https://2021.ubucon.asia/ko/sessions/no-sessions-yet/</guid>
       <description>아직 연사 모집 일정과 세션 프로그램 정보가 없습니다. 연사 모집 일정과 세션 프로그램이 정해지면 본 웹사이트에 업데이트 될 예정입니다.</description>
     </item>
     
     <item>
       <title>컨퍼런스를 함께 조직할 분을 찾습니다</title>
-      <link>https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/</link>
+      <link>https://2021.ubucon.asia/ko/news/2021-01-07-looking-for-organizers/</link>
       <pubDate>Thu, 07 Jan 2021 01:00:00 +0900</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/news/2021-01-07-looking-for-organizers/</guid>
+      <guid>https://2021.ubucon.asia/ko/news/2021-01-07-looking-for-organizers/</guid>
       <description>아시아 지역에는 다양한 오픈소스 및 리눅스 커뮤니티 컨퍼런스가 있습니다. 좋은 예를 몇가지 들자면,
  OpenSUSE.Asia GNOME.Asia LibreOffice Asia Conference PyCon APAC FOSSASIA Summit 그 외 더 다양한 컨퍼런스&amp;hellip;  저는 지난 몇 년 동안, 우분투한국커뮤니티 대표일 때, 몇몇 해외 컨퍼런스에 참여해 왔습니다. 새로운 것을 배우고 새로운 사람을 만나기 위한 목적도 있지만, 해외에 있는 우분투 지역 커뮤니티, 특히 한국과 가까운 지역의 커뮤니티와 교류를 하기위한 목적도 있었습니다. 해외 컨퍼런스 참여로 다양한 지역의 다양한 커뮤니티 사람들을 만날 수 있었지만, 안타깝게도 해외 우분투 커뮤니티 사람을 거의 만나지 못했습니다.</description>
     </item>
     
     <item>
       <title>우부콘 아시아 2021 소개</title>
-      <link>https://ubucon-asia.github.io/2021/ko/about/</link>
+      <link>https://2021.ubucon.asia/ko/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/about/</guid>
+      <guid>https://2021.ubucon.asia/ko/about/</guid>
       <description>우부콘 아시아(Ubucon Asia) 에 관심을 가져주셔서 감사합니다.
 우부콘 아시아는 아시아 지역의 다양한 우분투 커뮤니티가 모여 준비한 행사 입니다. 우분투, 리눅스 그리고 관련 오픈소스 기술에 연관되어 있거나 관심이 있는 사람 모두를 위한 행사이며, 아시아의 다양한 우분투 커뮤니티 사람을 연결하고 서로 배우고 지식을 공유하는 만남의 장 이기도 합니다.
 아시아의 첫 우분투 컨퍼런스인 우부콘 아시아 2021은, 온라인 컨퍼런스로 진행되며 아시아 지역 다수의 우분투 지역 커뮤니티의 주도로 준비됩니다. 집에서 첫 우부콘 아시아 행사에 참여하여, 전 세계 다양한 우분투 커뮤니티 사람들을 만나보세요.</description>
@@ -39,10 +39,10 @@
     
     <item>
       <title>후원사로 참여하기</title>
-      <link>https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/</link>
+      <link>https://2021.ubucon.asia/ko/sponsors/become-a-sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubucon-asia.github.io/2021/ko/sponsors/become-a-sponsor/</guid>
+      <guid>https://2021.ubucon.asia/ko/sponsors/become-a-sponsor/</guid>
       <description>우분투와 우부콘 아시아에 관심을 가져주셔서 감사합니다.
 현재 우부콘 아시아 2021 조직팀은 아직 후원사를 모집할 자세한 계획이 없습니다.
 후원사 모집에 대한 세부 사항이 정해지면 본 웹사이트에 게시될 예정입니다.

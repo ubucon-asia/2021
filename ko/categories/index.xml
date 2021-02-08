@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 우부콘 아시아 2021</title>
-    <link>https://ubucon-asia.github.io/2021/ko/categories/</link>
+    <link>https://2021.ubucon.asia/ko/categories/</link>
     <description>Recent content in Categories on 우부콘 아시아 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ubucon-asia.github.io/2021/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://2021.ubucon.asia/ko/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
