@@ -32,7 +32,6 @@ languages:
     languageName: 한국어
     title: 우부콘 아시아 2021
     weight: 2
-    # contentDir: content/korean
     params:
       description: >-
         아시아에 있는 다양한 우분투 지역 커뮤니티에서 준비한 첫 우분투 아시아 컨퍼런스.
@@ -63,7 +62,6 @@ languages:
     languageName: English
     title: Ubucon Asia 2021
     weight: 1
-    # contentDir: content/english
     params:
       description: >-
         The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
@@ -72,7 +70,6 @@ languages:
     languageName: Bahasa Indonesia
     title: Ubucon Asia 2021
     weight: 2
-    # contentDir: content/indonesia
     params:
       description: >-
         Konferensi Ubuntu Asia pertama yang diselenggarakan oleh Komunitas Lokal Ubuntu di Asia.
@@ -133,5 +130,13 @@ params:
   contact: sukso96100@gmail.com
   calendarOrganizer: Ubucon Asia 2021 Organizers
   calendarUidSuffix: 2021.asia.ubucon.org
+  facebook: ubuconasia
+  twitter: ubuconasia
+  github: ubucon-asia
+  repo: https://github.com/ubucon-asia/2021
+  copyright:  >-
+    © 2021 Ubucon Asia 2021 Website authors.
+    Unless specified, Website source code licensed under MIT, Contents licensed under CC BY 4.0
+  email: ubucon-asia@googlegroups.com
 outputs:
   section: ["HTML", "RSS", "Calendar"]
