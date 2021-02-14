@@ -4,6 +4,7 @@ title: Ubucon Asia 2021
 theme: ubuconasia
 Paginate: 5
 buildFuture: true
+enableRobotsTXT: true
 menu:
   main:
     - identifier: about
