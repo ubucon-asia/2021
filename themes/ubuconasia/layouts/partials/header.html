@@ -3,7 +3,6 @@
       <div class="p-navigation__banner">
         <div class="p-navigation__logo">
           <a class="p-navigation__item" href="{{ .Site.LanguagePrefix | relURL }}">
-            <!-- <h2>UbuconAsia</h2> -->
             <img class="p-navigation__image" src='{{ "/images/ubuCon_logo_or.png" | relURL }}' alt="Ubucon Asia 2021">
           </a>
         </div>
@@ -28,10 +27,23 @@
               🌏
             </a>
             <ul class="p-subnav__items--right" id="account-menu" aria-hidden="true">
-              {{ range $.Site.Home.AllTranslations }}
-              <li>
-                <a href="{{ .Permalink }}" class="p-subnav__item">{{ .Language.LanguageName }}</a>
-              </li>
+              {{ if eq (len .AllTranslations) (len $.Site.Home.AllTranslations) }}
+                {{ range .AllTranslations }}
+                <li>
+                  <a href="{{ .Permalink }}" class="p-subnav__item">{{ .Language.LanguageName }}</a>
+                </li>
+                {{ end }}
+              {{ else }}
+                {{ range .AllTranslations }}
+                <li>
+                  <a href="{{ .Permalink }}" class="p-subnav__item">📄 {{ .Language.LanguageName }}</a>
+                </li>
+                {{ end }}
+                {{ range $.Site.Home.AllTranslations }}
+                <li>
+                  <a href="{{ .Permalink }}" class="p-subnav__item">🏠 {{ .Language.LanguageName }}</a>
+                </li>
+                {{ end }}
               {{ end }}
             </ul>
           </li>
