@@ -4,7 +4,7 @@ PRODID:-//우부콘 아시아 2021//세션 일정 캘린더//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:sukso96100@gmail.com
+ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="N/A";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
 SUMMARY:*아직 세션 없음
 UID:20210109T010000@2021.asia.ubucon.org

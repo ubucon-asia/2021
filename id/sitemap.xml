@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://2021.ubucon.asia/id/sessions/no-sessions-yet/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
@@ -25,9 +24,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sessions/no-sessions-yet/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sessions/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
@@ -50,9 +47,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sessions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
@@ -75,9 +70,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/news/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
@@ -100,9 +93,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/news/2021-01-07-looking-for-organizers/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
@@ -125,9 +116,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/news/2021-01-07-looking-for-organizers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -149,9 +138,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/become-a-sponsor/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,9 +155,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sponsors/become-a-sponsor/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -192,9 +177,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sponsors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -216,9 +199,7 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://2021.ubucon.asia/id/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,5 +222,4 @@
                 href="https://2021.ubucon.asia/id/about/"
                 />
   </url>
-  
 </urlset>
