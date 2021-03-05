@@ -128,7 +128,7 @@ languages:
           url: https://wiki.ubuntu.com/UbuconAsia/2021
           weight: 5
 params:
-  contact: sukso96100@gmail.com
+  contact: contact@ubucon.asia
   calendarOrganizer: Ubucon Asia 2021 Organizers
   calendarUidSuffix: 2021.asia.ubucon.org
   facebook: ubuconasia
@@ -139,6 +139,6 @@ params:
     © 2021 Ubucon Asia 2021 Website authors.
     Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
     Ubuntu and Canonical are registered trademarks of Canonical Ltd.
-  email: ubucon-asia@googlegroups.com
+  email: contact@ubucon.asia
 outputs:
   section: ["HTML", "RSS", "Calendar"]
