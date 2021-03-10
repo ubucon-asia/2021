@@ -22,3 +22,9 @@ other = "캘린더에 저장(*.ics 파일)"
 other = "캘린더 구독(webcal)"
 [ical]
 other = "세션 일정 캘린더"
+[register_now]
+other = "지금 등록"
+[attendee]
+other = "참석자"
+[call_for_speakers]
+other = "발표 제안하기"

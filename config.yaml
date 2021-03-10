@@ -140,5 +140,8 @@ params:
     Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
     Ubuntu and Canonical are registered trademarks of Canonical Ltd.
   email: contact@ubucon.asia
+  registerURLs:
+    attendee: https://eventyay.com/e/75ac7f83
+    callForSpeakers: https://eventyay.com/e/75ac7f83/cfs
 outputs:
   section: ["HTML", "RSS", "Calendar"]
