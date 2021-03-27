@@ -30,7 +30,7 @@ hugo new --kind news news/2021-02-04-welcome-to-ubucon-asia/index.md
 ```
 
 After that, You will find generated markdown file under `content` directory. Edit the markdown file to add details.
-To add photo files, put files on content item directory.(The same path where content item's `_index.md` exists.)
+To add photo files, put files on content item directory.(The same path where content item's `index.md` exists.)
 
 # How to localize
 
