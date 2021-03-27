@@ -1,0 +1,58 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<main>
+    <section class="p-strip--light">
+        <div class="row">
+            <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;"/>
+            <b>{{ i18n "host_communities" }}</b>
+            <h2>{{.Title}}</h2>
+            <ul class="p-media-object__meta-list">
+              <li class="p-media-object__meta-list-item--location">
+                <span class="u-off-screen"></span>{{.Params.region}}
+              </li>
+            </ul>
+            <ul class="p-inline-list--middot">
+              {{with .Params.website}}<li class="p-inline-list__item"><a href="{{.}}">Web</a></li>{{end}}
+              {{with .Params.launchpad}}<li class="p-inline-list__item"><a href="{{.}}">Launchpad</a></li>{{end}}
+              {{with .Params.ubuntuwiki}}<li class="p-inline-list__item"><a href="{{.}}">Ubuntu Wiki</a></li>{{end}}
+              {{with .Params.github}}<li class="p-inline-list__item"><a href="{{.}}">GitHub</a></li>{{end}}
+              {{with .Params.facebook}}<li class="p-inline-list__item"><a href="{{.}}">Facebook</a></li>{{end}}
+              {{with .Params.fbgroup}}<li class="p-inline-list__item"><a href="{{.}}">Facebook Group</a></li>{{end}}
+              {{with .Params.twitter}}<li class="p-inline-list__item"><a href="{{.}}">Twitter</a></li>{{end}}
+              {{with .Params.youtube}}<li class="p-inline-list__item"><a href="{{.}}">YouTube</a></li>{{end}}
+            </ul>
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          {{ .Content }}
+          <hr/>
+          {{ range .Params.speakers }}
+          <div class="p-media-object">
+            {{with .profile}}
+              <img src="{{ . | relURL }}" class="p-media-object__image is-round" alt="">
+            {{ else }}
+              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
+            {{end}}
+            <div class="p-media-object__details">
+              <a href="mailto:{{.email}}">
+                <h3 class="p-media-object__title">
+                  {{.name}}
+                </h3>
+              </a>
+              <p class="p-media-object__content">{{.bio}}</p>
+              <p class="p-media-object__content">
+                {{with .launchpad}}<a href="https://launchpad.net/~{{.}}">Launchpad</a>{{end}}
+                {{with .github}}<a href="https://github.com/{{.}}">GitHub</a>{{end}}
+                <a href="{{.linkurl}}"> {{.linklabel}}</a>
+              </p>
+            </div>
+          </div>
+          {{ end }}
+          <a href='{{ ref . "/hosts/" }}'><button>{{ i18n "more_hosts" }}</button></a>
+        </div>
+      </section>
+</main>
+
+{{end}}

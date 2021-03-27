@@ -28,3 +28,7 @@ other = "Register now"
 other = "Attendee"
 [call_for_speakers]
 other = "Call for Speakers"
+[host_communities]
+other = "Host Communities"
+[more_hosts]
+other = "More host communities"

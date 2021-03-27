@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main>
+    <section class="p-strip--accent">
+        <div class="row">
+            <h2>{{.Title}}</h2>
+            <p>{{.Content}}</p>
+        </div>
+      </section>
+      <section class="p-strip">
+        {{ $pages := .Site.Pages }}
+        {{ range .Site.Home.Translations }}
+        {{ $pages = $pages | lang.Merge .Site.Pages }}
+        {{ end }}
+        {{ $pages = (where $pages "Section" "hosts") }}
+        <div class="row">
+            {{ range $pages }}
+                  {{ range .Pages }}
+                  <div class="p-card col-3">
+                    <a href="{{ .RelPermalink }}">
+                    <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+                    <h4>{{.Title}}</h4>
+                    </a>
+                  </div>
+                  {{ end }}
+            {{ end }}
+        </div>
+      </section>
+</main>
+{{ end }}

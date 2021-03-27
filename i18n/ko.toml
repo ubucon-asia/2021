@@ -28,3 +28,7 @@ other = "지금 등록"
 other = "참석자"
 [call_for_speakers]
 other = "발표 제안하기"
+[host_communities]
+other = "주최 커뮤니티"
+[more_hosts]
+other = "다른 주최 커뮤니티 더 보기"

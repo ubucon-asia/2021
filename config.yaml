@@ -11,22 +11,26 @@ menu:
       name: About
       url: about
       weight: 1
+    - identifier: hosts
+      name: Hosts
+      url: hosts
+      weight: 2
     - identifier: sessions
       name: Sessions
       url: sessions
-      weight: 2
+      weight: 3
     - identifier: sponsors
       name: Sponsors
       url: sponsors
-      weight: 3
+      weight: 4
     - identifier: news
       name: News
       url: news
-      weight: 4
+      weight: 5
     - identifier: wiki
       name: Wiki
       url: https://wiki.ubuntu.com/UbuconAsia/2021
-      weight: 5
+      weight: 6
 defaultContentLanguage: en
 languages:
   ko:
@@ -43,22 +47,26 @@ languages:
           name: 소개
           url: about
           weight: 1
+        - identifier: hosts
+          name: 주최
+          url: hosts
+          weight: 2
         - identifier: sessions
           name: 세션
           url: sessions
-          weight: 2
+          weight: 3
         - identifier: sponsors
           name: 후원사
           url: sponsors
-          weight: 3
+          weight: 4
         - identifier: news
           name: 소식
           url: news
-          weight: 4
+          weight: 5
         - identifier: wiki
           name: 위키
           url: https://wiki.ubuntu.com/UbuconAsia/2021
-          weight: 5
+          weight: 6
   en:
     languageName: English
     title: Ubucon Asia 2021
@@ -81,6 +89,10 @@ languages:
           name: Tentang
           url: about
           weight: 1
+        - identifier: hosts
+          name: Hosts
+          url: hosts
+          weight: 2
         - identifier: sessions
           name: Sesi
           url: sessions
@@ -111,6 +123,10 @@ languages:
           name: Ubucon Asiaとは
           url: about
           weight: 1
+        - identifier: hosts
+          name: Hosts
+          url: hosts
+          weight: 2
         - identifier: sessions
           name: セッション
           url: sessions
