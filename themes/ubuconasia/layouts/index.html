@@ -91,7 +91,7 @@
         {{ range .Pages }}
         <li class="p-inline-images__item">
           <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{.Params.photo | relURL}}" alt="" />
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
           </a>
         </li>
         {{ end }}
