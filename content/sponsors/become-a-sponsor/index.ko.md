@@ -1,6 +1,6 @@
 ---
 title: "후원사로 참여하기"
-photo: "sponsors/become-a-sponsor/placeholder.png"
+photo: "placeholder.png"
 group: "Sponsors"
 website: "https://ubucon-asia.github.io/2021/"
 ---

@@ -4,7 +4,7 @@
 <main>
     <section class="p-strip--accent">
         <div class="row">
-            <img src="{{.Params.photo | relURL}}" alt="" style="max-height: 150px; margin-bottom: 10px;"/>
+            <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;"/>
             <b>{{ i18n "sponsors" }}</b>
             <h2>{{.Title}}</h2>
             <div>
@@ -16,28 +16,6 @@
         <div class="row">
           {{ .Content }}
           <hr/>
-          {{ range .Params.speakers }}
-          <div class="p-media-object">
-            {{with .profile}}
-              <img src="{{ . | relURL }}" class="p-media-object__image is-round" alt="">
-            {{ else }}
-              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
-            {{end}}
-            <div class="p-media-object__details">
-              <a href="mailto:{{.email}}">
-                <h3 class="p-media-object__title">
-                  {{.name}}
-                </h3>
-              </a>
-              <p class="p-media-object__content">{{.bio}}</p>
-              <p class="p-media-object__content">
-                {{with .launchpad}}<a href="https://launchpad.net/~{{.}}">Launchpad</a>{{end}}
-                {{with .github}}<a href="https://github.com/{{.}}">GitHub</a>{{end}}
-                <a href="{{.linkurl}}"> {{.linklabel}}</a>
-              </p>
-            </div>
-          </div>
-          {{ end }}
           <a href='{{ ref . "/sponsors/" }}'><button>{{ i18n "more_sponsors" }}</button></a>
         </div>
       </section>

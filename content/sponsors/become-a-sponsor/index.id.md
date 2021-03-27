@@ -1,6 +1,6 @@
 ---
 title: "Menjadi Sponsor"
-photo: "sponsors/become-a-sponsor/placeholder.png"
+photo: "placeholder.png"
 group: "Sponsors"
 website: "https://ubucon-asia.github.io/2021/"
 ---
