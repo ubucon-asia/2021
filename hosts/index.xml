@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Host Communities on Ubucon Asia 2021</title>
+    <link>https://2021.ubucon.asia/hosts/</link>
+    <description>Recent content in Host Communities on Ubucon Asia 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2021.ubucon.asia/hosts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu Korea Community</title>
+      <link>https://2021.ubucon.asia/hosts/ubuntu-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/hosts/ubuntu-kr/</guid>
+      <description>Ubuntu Korea Community is an official verified LoCo(Local Community) Team by Ubuntu Community Council in South Korea.
+The Ubuntu Korean community started in 2005, very small. But it&amp;rsquo;s now one of the most active Open Source communities in South Korea. We are continuing to carry out activities that can be helpful to Ubuntu users in Korea and broadly to people related to IT in Korea.
+We hold various seminars, conferences, community-driven projects, joint seminars with other communities, and contribution workshops every year, and we also exchange with various overseas open source communities.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -178,6 +178,18 @@
                 href="https://2021.ubucon.asia/categories/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/hosts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/hosts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -220,6 +232,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/tags/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/hosts/ubuntu-kr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/hosts/ubuntu-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-kr/"
                 />
   </url>
 </urlset>

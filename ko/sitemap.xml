@@ -183,6 +183,30 @@
                 href="https://2021.ubucon.asia/ko/about/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/hosts/ubuntu-kr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/hosts/ubuntu-kr/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/ko/hosts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/hosts/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
