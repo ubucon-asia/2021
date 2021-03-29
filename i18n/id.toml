@@ -17,8 +17,18 @@ other = "Berita"
 [sessions]
 other = "Sesi"
 [ical_add]
-other = "Tambah ke kalender(berkas *.ics)"
+other = "Tambah ke kalender (berkas *.ics)"
 [ical_subscribe]
-other = "Berlangganan ke kalender(webcal)"
+other = "Berlangganan ke kalender (webcal)"
 [ical]
 other = "Kalender jadwal sesi"
+[register_now]
+other = "Daftar sekarang"
+[attendee]
+other = "Peserta"
+[call_for_speakers]
+other = "Panggilan untuk Pembicara"
+[host_communities]
+other = "Host Komunitas"
+[more_hosts]
+other = "Host Komunitas Lainnya"

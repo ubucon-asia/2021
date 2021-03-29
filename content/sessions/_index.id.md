@@ -1,3 +1,3 @@
 ---
-title: Sesi"
+title: Sesi
 ---
