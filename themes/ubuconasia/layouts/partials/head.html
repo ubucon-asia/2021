@@ -30,4 +30,9 @@
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
     {{ end }}
+
+    <!-- Redirect to external website -->
+    {{ if .Params.externalRedirect }}
+    <meta http-equiv="refresh" content="0; url={{.Params.externalRedirect}}"></meta>
+    {{ end }}
 </head>

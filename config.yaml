@@ -158,6 +158,6 @@ params:
   email: contact@ubucon.asia
   registerURLs:
     attendee: https://eventyay.com/e/75ac7f83
-    callForSpeakers: https://eventyay.com/e/75ac7f83/cfs
+    callForSpeakers: /cfs
 outputs:
   section: ["HTML", "RSS", "Calendar"]
