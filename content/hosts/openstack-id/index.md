@@ -1,6 +1,6 @@
 ---
 title: "OpenStack Indonesia Community"
-photo: "openstackind.png"
+photo: "openstackindo.png"
 region: Indonesia
 website: "https://www.openstack.id"
 github: "https://github.com/openstackindo/"
