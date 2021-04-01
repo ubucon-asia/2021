@@ -1,6 +1,6 @@
 ---
 title: "OpenStack Indonesia Community"
-photo: "[openstackind.png](https://www.openstack.id/wp-content/uploads/2019/09/openstackind.png)"
+photo: [openstackind.png](https://www.openstack.id/wp-content/uploads/2019/09/openstackind.png)
 region: Indonesia
 website: "https://www.openstack.id"
 github: "https://github.com/openstackindo/"
