@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://2021.ubucon.asia/hosts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenStack Indonesia Community</title>
+      <link>https://2021.ubucon.asia/hosts/openstack-id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/hosts/openstack-id/</guid>
+      <description>OpenStack Indonesia (OS-ID) is an official OpenStack community (under Open Infrastructure Foundation) based in Indonesia. This community was established for all Indonesians who are interested in OpenStack projects/services.
+In 2019, we held the first official community meetup in Jakarta and repeated monthly in several cities around Indonesia. First Indonesia Open Infrastructure Day was successfully held in November 2019 in Surabaya, and Last 2020 held the Open Infrastructure Day Indonesia event virtually.</description>
+    </item>
+    
+    <item>
       <title>Ubuntu Korea Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-kr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
