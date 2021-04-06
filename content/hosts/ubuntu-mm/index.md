@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu Myanmar Community"
+title: "Ubuntu Myanmar Local Community"
 photo: "logo.png"
 region: Myanmar
 website: "https://www.ubuntu-mm.net/"

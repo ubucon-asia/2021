@@ -1,5 +1,5 @@
 ---
-title: "우분투 한국 커뮤니티"
+title: "우분투 한국 로컬 커뮤니티"
 photo: "logo.png"
 region: 대한민국
 website: "https://www.ubuntu-kr.org/"
