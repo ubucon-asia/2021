@@ -191,6 +191,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/hosts/ubuntu-kr/"
                 />
@@ -200,6 +205,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/hosts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/"
                 />
     <xhtml:link
                 rel="alternate"
