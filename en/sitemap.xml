@@ -183,6 +183,16 @@
     <loc>https://2021.ubucon.asia/hosts/debian-malaysia/</loc>
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/gnome-id/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/gnome-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/gnome-id/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/</loc>
     <xhtml:link
