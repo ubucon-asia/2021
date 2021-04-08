@@ -1,5 +1,5 @@
 ---
-title: "Komunitas Ubuntu Korea"
+title: "Komunitas Lokal Ubuntu Korea"
 photo: "logo.png"
 region: South Korea
 website: "https://www.ubuntu-kr.org/"
