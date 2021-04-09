@@ -9,4 +9,4 @@ twitter: "https://twitter.com/GNOME_ID"
 # fbgroup: "https://fb.me/groups/{}"
 # youtube: "https://www.youtube.com/{}"
 ---
-GNOME Indonesia (GNOME ID) is a non-profit community founded to support the use, promotion and assistance of users of the GNOME desktop environment in Indonesia.
+GNOME Indonesia (GNOME-ID) is a non-profit community founded to support the use, promotion and assistance of users of the GNOME desktop environment in Indonesia.
