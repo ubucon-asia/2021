@@ -1,6 +1,7 @@
 ---
 title: "GNOME Indonesia"
 photo: "logo.png"
+group: OtherLoCos
 region: Indonesia # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 website: "https://gnome.id/"
 github: "https://github.com/gnome-id"

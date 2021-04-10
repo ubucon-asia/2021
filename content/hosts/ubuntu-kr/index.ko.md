@@ -1,6 +1,7 @@
 ---
 title: "우분투 한국 로컬 커뮤니티"
 photo: "logo.png"
+group: UbuntuLoCos
 region: 대한민국
 website: "https://www.ubuntu-kr.org/"
 launchpad: "https://launchpad.net/~ubuntu-ko"

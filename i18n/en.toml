@@ -32,3 +32,7 @@ other = "Call for Speakers"
 other = "Host Communities"
 [more_hosts]
 other = "More host communities"
+[ubuntu_locos]
+other = "Ubuntu Local Communities"
+[other_foss]
+other = "Other Free and Open Source Communities"

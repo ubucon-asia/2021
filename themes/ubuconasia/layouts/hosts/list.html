@@ -6,15 +6,15 @@
       <p>{{.Content}}</p>
     </div>
   </section>
-  <section class="p-strip">
+ <section class="p-strip">
     {{ $pages := .Site.Pages }}
     {{ range .Site.Home.Translations }}
     {{ $pages = $pages | lang.Merge .Site.RegularPages }}
     {{ end }}
     {{ $pages = (where $pages "Section" "hosts") }}
     <div class="row">
-      {{ range $pages }}
-      {{ if not .Params.hideOnList }}
+    <h3>{{ i18n "ubuntu_locos" }}</h3>
+      {{ range where $pages "Params.group" "UbuntuLoCos" }}
       <div class="p-card col-3">
         <a href="{{ .RelPermalink }}">
           <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;" />
@@ -22,6 +22,14 @@
         </a>
       </div>
       {{ end }}
+      <h3>{{ i18n "other_foss" }}</h3>
+      {{ range where $pages "Params.group" "OtherLoCos" }}
+      <div class="p-card col-3">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;" />
+          <h4>{{.Title}}</h4>
+        </a>
+      </div>
       {{ end }}
     </div>
   </section>

@@ -1,6 +1,7 @@
 ---
 title: "Debian Malaysia"
 photo: "debian.png"
+group: OtherLoCos
 region: Malaysia # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 website: "https://wiki.debian.org/LocalGroups/Debian-Malaysia"
 github: "https://github.com/Debian-Malaysia"

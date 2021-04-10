@@ -1,6 +1,7 @@
 ---
 title: "Komunitas Lokal Ubuntu Korea"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Korea Selatan
 website: "https://www.ubuntu-kr.org/"
 launchpad: "https://launchpad.net/~ubuntu-ko"

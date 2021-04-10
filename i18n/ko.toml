@@ -32,3 +32,7 @@ other = "발표 제안하기"
 other = "주최 커뮤니티"
 [more_hosts]
 other = "다른 주최 커뮤니티 더 보기"
+[ubuntu_locos]
+other = " 우분투 로컬 커뮤니티"
+[other_foss]
+other = "다른 자유-오픈소스 커뮤니티"
