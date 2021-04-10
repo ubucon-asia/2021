@@ -1,7 +1,7 @@
 ---
 title: "Community name"
 photo: "logo.png"
-region: Country or region name # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
+group:UbuntuLoCos\n region: Country or region name # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 website: "https://{}/"
 launchpad: "https://launchpad.net/~{}"
 ubuntuwiki: "https://wiki.ubuntu.com/{}"

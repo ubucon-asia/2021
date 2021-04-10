@@ -1,6 +1,7 @@
 ---
 title: "FOSSASIA"
 photo: "logo.jpg"
+group: OtherLoCos
 region: Asia # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 website: "https://fossasia.org/"
 # launchpad: "https://launchpad.net/~{}"

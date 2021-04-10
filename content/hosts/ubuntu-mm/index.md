@@ -1,6 +1,7 @@
 ---
 title: "Ubuntu Myanmar Local Community"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Myanmar
 website: "https://www.ubuntu-mm.net/"
 launchpad: "https://launchpad.net/~ubuntu-mm"

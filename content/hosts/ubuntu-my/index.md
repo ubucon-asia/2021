@@ -1,6 +1,7 @@
 ---
 title: "Ubuntu Malaysia Local Community"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Malaysia
 launchpad: "https://launchpad.net/~ubuntu-my"
 ubuntuwiki: "https://wiki.ubuntu.com/MalaysianTeam"

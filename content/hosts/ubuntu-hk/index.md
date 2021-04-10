@@ -1,6 +1,7 @@
 ---
 title: "Ubuntu Hong Kong Local Community"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Hong Kong # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 # website: "https://{}/"
 launchpad: "https://launchpad.net/~ubuntu-hk"
