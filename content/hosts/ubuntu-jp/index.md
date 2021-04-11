@@ -11,3 +11,4 @@ ubuntuwiki: "https://wiki.ubuntu.com/JapaneseTeam"
 # fbgroup: "https://fb.me/groups/{}"
 # youtube: "https://www.youtube.com/{}"
 ---
+ Ubuntu Japanese Team is voluntary group that intent improving and expanding Ubuntu in Japan, and is verified as an official Ubuntu LoCo till 2005. 
