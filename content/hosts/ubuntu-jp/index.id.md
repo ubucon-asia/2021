@@ -1,6 +1,7 @@
 ---
 title: "Komunitas Lokal Ubuntu Jepang"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Jepang
 website: "http://ubuntulinux.jp/"
 launchpad: "https://launchpad.net/~japaneseteam"

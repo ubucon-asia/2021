@@ -1,6 +1,7 @@
 ---
 title: "Komunitas Lokal Ubuntu Taiwan"
 photo: "logo.png"
+group: UbuntuLoCos
 region: Taiwan
 website: "https://www.ubuntu-tw.org/"
 launchpad: "https://launchpad.net/~ubuntu-tw"

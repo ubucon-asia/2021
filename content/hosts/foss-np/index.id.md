@@ -1,6 +1,7 @@
 ---
 title: "Komunitas FOSS Nepal"
 photo: "logo.png"
+group: OtherLoCos
 region: Nepal # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 website: "http://foss-np.github.io/"
 # launchpad: "https://launchpad.net/~{}"
