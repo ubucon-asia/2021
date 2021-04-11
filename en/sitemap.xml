@@ -181,8 +181,28 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/debian-malaysia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/debian-malaysia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/debian-malaysia/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/foss-np/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/foss-np/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/foss-np/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/fossasia/</loc>
   </url><url>
@@ -272,10 +292,40 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-cn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-cn/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-hk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-hk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-hk/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-jp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-jp/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-kr/</loc>
     <xhtml:link
@@ -295,6 +345,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-my/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-my/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-my/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-mm/</loc>
     <xhtml:link
@@ -309,5 +369,15 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-tw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-tw/"
+                />
   </url>
 </urlset>

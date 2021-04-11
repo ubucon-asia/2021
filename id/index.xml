@@ -27,12 +27,60 @@
     </item>
     
     <item>
+      <title>Debian Malaysia</title>
+      <link>https://2021.ubucon.asia/id/hosts/debian-malaysia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/debian-malaysia/</guid>
+      <description>Komunitas Debian GNU/Linux Malaysia
+Anda dapat menghubungi kami dengan berbagai cara:
+ Obrolan: Grup Telegram (https://t.me/debianmalaysia) / IRC #debian-malaysia di Freenode / Matrix /join #freenode_#debian-malaysia:matrix.org Situs web: http://debianmalaysia.gitlab.io (cermin: https://malaysia-team.pages.debian.net) Milis: Debmal google group (https://groups.google.com/g/debmal) Media sosial: Twitter - https://twitter.com/debianmalaysia / Mastodon - https://linuxrocks.online/@debianmalaysia (keduanya dikirim silang)  Silakan pilih saluran komunikasi apa pun dan Anda dipersilakan bergabung!</description>
+    </item>
+    
+    <item>
       <title>GNOME Indonesia</title>
       <link>https://2021.ubucon.asia/id/hosts/gnome-id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2021.ubucon.asia/id/hosts/gnome-id/</guid>
-      <description>GNOME Indonesia (GNOME ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</description>
+      <description>GNOME Indonesia (GNOME-ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</description>
+    </item>
+    
+    <item>
+      <title>Komunitas FOSS Nepal</title>
+      <link>https://2021.ubucon.asia/id/hosts/foss-np/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/foss-np/</guid>
+      <description>Komunitas FOSS Nepal adalah tim relawan yang percaya pada penggunaan Perangkat Lunak Bebas/Sumber Terbuka (FOSS). Tujuan utama komunitas ini adalah untuk mempromosikan, mengembangkan, dan mendiversifikasi penggunaan Perangkat Lunak Bebas/Sumber Terbuka di Nepal.
+ Untuk meningkatkan kesadaran masyarakat umum, badan pemerintah, sektor swasta, masyarakat sipil, lembaga pendidikan dan media untuk memperluas ruang lingkup Teknologi Informasi dan Komunikasi (TIK) melalui Perangkat Lunak Bebas dan Sumber Terbuka Untuk menyadarkan masyarakat umum, badan pemerintah, masyarakat sipil dan media untuk implementasi e-governance melalui FOSS; solusi optimal untuk e-governance Advokasi untuk alternatif Hak Kekayaan Intelektual (HAKI) khusus untuk TIK Untuk meningkatkan kapasitas profesional TI dengan mempromosikan penyertaan Perangkat Lunak Bebas dan Sumber Terbuka dalam sistem pendidikan dan menyediakan platform bagi profesional TI agar mereka dapat dijual secara global.</description>
+    </item>
+    
+    <item>
+      <title>Komunitas Lokal Ubuntu Cina</title>
+      <link>https://2021.ubucon.asia/id/hosts/ubuntu-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/ubuntu-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Komunitas Lokal Ubuntu Hong Kong</title>
+      <link>https://2021.ubucon.asia/id/hosts/ubuntu-hk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/ubuntu-hk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Komunitas Lokal Ubuntu Jepang</title>
+      <link>https://2021.ubucon.asia/id/hosts/ubuntu-jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/ubuntu-jp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -47,6 +95,16 @@ Kami mengadakan berbagai seminar, konferensi, proyek berbasis komunitas, seminar
     </item>
     
     <item>
+      <title>Komunitas Lokal Ubuntu Malaysia</title>
+      <link>https://2021.ubucon.asia/id/hosts/ubuntu-my/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/ubuntu-my/</guid>
+      <description>Komunitas Lokal Ubuntu Malaysia dimulai pada Juli 2005, Tim Malaysia telah disetujui sebagai Tim LoCo resmi sejak 2009 dan kami telah berkembang menjadi lebih dari 200 anggota. Kami bertujuan untuk memberikan dukungan komunitas gratis kepada pengguna versi Ubuntu apa pun serta menganjurkan penggunaan Ubuntu untuk individu dan organisasi sejenis.
+LoCo ditujukan untuk siapa saja yang tinggal di Malaysia yang menggunakan atau tertarik dengan Ubuntu. Setiap orang dipersilakan untuk bergabung dan berkontribusi ke grup terlepas dari apakah Anda pemula Linux atau pakar terkenal di bidangnya.</description>
+    </item>
+    
+    <item>
       <title>Komunitas Lokal Ubuntu Myanmar</title>
       <link>https://2021.ubucon.asia/id/hosts/ubuntu-mm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +113,15 @@ Kami mengadakan berbagai seminar, konferensi, proyek berbasis komunitas, seminar
       <description>Catatan: Karena situasi komunitas lokal di negara ini, Komunitas Ubuntu Myanmar menjadi sukarelawan hanya jika mereka memiliki kesempatan untuk berpartisipasi.
  Kami, tim Ubuntu Myanmar Loco adalah Tim Loco yang diakui Dewan Ubuntu yang menawarkan dukungan dalam kemudahan penggunaan Sistem Operasi Ubuntu di komputer di seluruh Myanmar.
 Ubuntu untuk Myanmar memulai aksi pada tahun 2009. Itu adalah organisasi pemuda yang terus menyelenggarakan acara perangkat lunak Open Source terkait Ubuntu dan Ubuntu, lokakarya gratis dan telah menjadi organisasi yang aktif.</description>
+    </item>
+    
+    <item>
+      <title>Komunitas Lokal Ubuntu Taiwan</title>
+      <link>https://2021.ubucon.asia/id/hosts/ubuntu-tw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/hosts/ubuntu-tw/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -83,7 +150,9 @@ Pada tahun 2019, kami mengadakan pertemuan komunitas resmi pertama di Jakarta da
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2021.ubucon.asia/id/about/</guid>
-      <description>Tentang Ubucon Asia 2021</description>
+      <description>Selamat datang, dan terima kasih atas minat Anda pada Ubucon Asia.
+Ubucon Asia adalah acara yang diselenggarakan oleh Komunitas Ubuntu di Asia. Ini untuk semua orang yang terlibat atau tertarik dengan Ubuntu, Linux, dan teknologi Free dan Open source lainnya. Ubucon Asia juga menjadi tempat bagi orang-orang Ubuntu dari Asia untuk saling terhubung, belajar, dan saling berbagi pengetahuan.
+Ubucon Asia 2021, konferensi Ubuntu pertama di Asia akan menjadi konferensi virtual yang digerakkan oleh beberapa Ubuntu LoCo dari Asia.</description>
     </item>
     
   </channel>
