@@ -85,26 +85,22 @@
     <div class="row">
       <h2>{{ i18n "host_communities" }}</h2>
       {{ $hosts := (where $allPages "Section" "hosts") }}
-      <h4>{{ i18n "ubuntu_locos" }}</h4>
-      <ul class="p-inline-images">
       {{ range where $hosts "Params.group" "UbuntuLoCos" }}
-      <li class="p-inline-images__item">
-          <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="{{.Title}}" />
-          </a>
-        </li>
+      <div class="p-card col-3">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
+          <h5>{{.Title}}</h5>
+        </a>
+      </div>
       {{ end }}
-      </ul>
-      <h4>{{ i18n "other_foss" }}</h4>
-      <ul class="p-inline-images">
       {{ range where $hosts "Params.group" "OtherLoCos" }}
-      <li class="p-inline-images__item">
-          <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
-          </a>
-        </li>
+      <div class="p-card col-3">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
+          <h5>{{.Title}}</h5>
+        </a>
+      </div>
       {{ end }}
-      </ul>
   </section>
   <section class="p-strip">
     <div class="row">
