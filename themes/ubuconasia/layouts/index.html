@@ -83,11 +83,36 @@
   </section>
   <section class="p-strip">
     <div class="row">
+      <h2>{{ i18n "host_communities" }}</h2>
+      {{ $hosts := (where $allPages "Section" "hosts") }}
+      <h4>{{ i18n "ubuntu_locos" }}</h4>
+      <ul class="p-inline-images">
+      {{ range where $hosts "Params.group" "UbuntuLoCos" }}
+      <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="{{.Title}}" />
+          </a>
+        </li>
+      {{ end }}
+      </ul>
+      <h4>{{ i18n "other_foss" }}</h4>
+      <ul class="p-inline-images">
+      {{ range where $hosts "Params.group" "OtherLoCos" }}
+      <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+      {{ end }}
+      </ul>
+  </section>
+  <section class="p-strip">
+    <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
       {{ $sponsors := (where $allPages "Section" "sponsors") }}
-      <div class="row">
         {{ range $sponsors.GroupByParam "group" }}
         <h4>{{ .Key }}</h4>
+        <ul class="p-inline-images">
         {{ range .Pages }}
         <li class="p-inline-images__item">
           <a href="{{ .RelPermalink }}">
@@ -96,7 +121,8 @@
         </li>
         {{ end }}
         {{ end }}
-      </div>
+      </ul>
+       </div>
   </section>
 </main>
 {{ end }}
