@@ -369,15 +369,5 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-tw/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/hosts/ubuntu-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/hosts/ubuntu-tw/"
-                />
   </url>
 </urlset>
