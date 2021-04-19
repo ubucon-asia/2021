@@ -62,6 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/"
                 />
@@ -171,6 +176,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/categories/"
                 />
@@ -223,6 +233,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/hosts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/hosts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -279,6 +294,11 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -369,5 +389,20 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/ubuntu-tw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/ubuntu-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/hosts/ubuntu-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/ubuntu-tw/"
+                />
   </url>
 </urlset>

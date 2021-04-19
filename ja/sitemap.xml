@@ -44,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/"
                 />
@@ -135,6 +140,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/categories/"
                 />
@@ -154,6 +164,11 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
