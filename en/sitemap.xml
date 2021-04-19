@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/sessions/"
                 />
@@ -113,6 +118,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/news/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2021.ubucon.asia/ja/news/"
                 />
@@ -123,6 +133,11 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -231,13 +246,13 @@
     <loc>https://2021.ubucon.asia/hosts/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/hosts/"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/hosts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2021.ubucon.asia/zh-hant-tw/hosts/"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -267,6 +282,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/sponsors/"
                 />
     <xhtml:link
                 rel="alternate"
