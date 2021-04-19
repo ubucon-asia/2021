@@ -143,6 +143,40 @@ languages:
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2021
           weight: 5
+  zh-hant-tw:
+    languageName: 正體中文(臺灣)
+    title: Ubucon Asia 2021
+    weight: 2
+    params:
+      description: >-
+        The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
+      period: September 25th ~ 26th, 2021 
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: about
+          weight: 1
+        - identifier: hosts
+          name: Hosts
+          url: hosts
+          weight: 2
+        - identifier: sessions
+          name: Sessions
+          url: sessions
+          weight: 3
+        - identifier: sponsors
+          name: Sponsors
+          url: sponsors
+          weight: 4
+        - identifier: news
+          name: News
+          url: news
+          weight: 5
+        - identifier: wiki
+          name: Wiki
+          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          weight: 6
 params:
   contact: contact@ubucon.asia
   calendarOrganizer: Ubucon Asia 2021 Organizers

@@ -1,0 +1,38 @@
+[learn_more]
+other = "Learn more"
+[featured] 
+other = "Featured sessions"
+[all_sessions] 
+other = "All sessions"
+[more_sessions]
+other = "More sessions"
+[sponsors] 
+other = "Sponsors"
+[more_sponsors]
+other = "More sponsors"
+[about]
+other = "About"
+[news]
+other = "News"
+[sessions]
+other = "Sessions"
+[ical_add]
+other = "Add to calendar(*.ics file)"
+[ical_subscribe]
+other = "Subscribe to calendar(webcal)"
+[ical]
+other = "Session schedules calendar"
+[register_now]
+other = "Register now"
+[attendee]
+other = "Attendee"
+[call_for_speakers]
+other = "Call for Speakers"
+[host_communities]
+other = "Host Communities"
+[more_hosts]
+other = "More host communities"
+[ubuntu_locos]
+other = "Ubuntu Local Communities"
+[other_foss]
+other = "Other Free and Open Source Communities"
