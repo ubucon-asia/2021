@@ -12,4 +12,12 @@ Ikut sertalah dalam Ubucon Asia pertama dari rumah Anda, dan terhubunglah ke Kom
 
 ## Penyelenggara
 Ubucon Asia 2021 diselenggarakan dan digerakkan oleh berbagai Ubuntu LoCo dan komunitas FLOSS lainnya di seluruh Asia.
-Untuk melihat daftar lengkap penyelenggara, [kunjungi halaman ini di Wiki Ubuntu.](https://wiki.ubuntu.com/UbuconAsia/2021/Organizers)
+- [Lihat daftar host komunitas di sini untuk mengetahui komunitas mana yang berpartisipasi](../hosts)
+- Untuk melihat daftar lengkap penyelenggara, [kunjungi halaman ini di Wiki Ubuntu.](https://wiki.ubuntu.com/UbuconAsia/2021/Organizers)
+
+## Kode Etik
+Untuk menyediakan lingkungan yang aman bagi setiap peserta, Kami telah menyesuaikan Kode Etik Ubucon Asia dan Kode Etik Ubuntu.
+Keduanya berlaku bagi siapa saja yang berpartisipasi dalam acara Ubucon Asia. Pastikan untuk membaca kedua Kode Etik dengan saksama sebelum berpartisipasi.
+Pelanggaran Kode Etik dapat mengakibatkan sanksi atau pengusiran dari acara tersebut jika diperlukan.
+- [Kode Etik Ubucon Asia](https://github.com/ubucon-asia/CodeOfConduct/blob/main/UbuconAsiaCodeOfConduct.md)
+- [Kode Etik Ubuntu 2.0](https://ubuntu.com/community/code-of-conduct)
