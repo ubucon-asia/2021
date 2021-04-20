@@ -1,7 +1,7 @@
 ---
 title: "Menjadi Sponsor"
 photo: "placeholder.png"
-group: "Sponsors"
+group: gols
 website: "https://ubucon-asia.github.io/2021/"
 ---
 Terima kasih atas minat Anda pada Ubuntu dan Ubucon Asia.

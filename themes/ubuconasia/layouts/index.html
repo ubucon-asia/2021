@@ -105,20 +105,95 @@
   <section class="p-strip">
     <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
-      {{ $sponsors := (where $allPages "Section" "sponsors") }}
-        {{ range $sponsors.GroupByParam "group" }}
-        <h4>{{ .Key }}</h4>
+
+        <h3>{{ i18n "gold_sp" }}</h3>
         <ul class="p-inline-images">
-        {{ range .Pages }}
+        {{ range where $allPages "Params.group" "gold" }}
         <li class="p-inline-images__item">
           <a href="{{ .RelPermalink }}">
             <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
           </a>
         </li>
         {{ end }}
+        </ul>
+
+        <h3>{{ i18n "silver_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "silver" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
         {{ end }}
-      </ul>
-       </div>
+        </ul>
+
+        <h3>{{ i18n "bronze_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "bronze" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "supporter_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "supporter" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "infra_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "infra" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "record_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "record" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "videoi18n_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "videoi18n" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "swag_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "swag" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>       
+         </div>
   </section>
 </main>
 {{ end }}

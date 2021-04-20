@@ -6,23 +6,91 @@
         </div>
       </section>
       <section class="p-strip">
+        <div class="row">
         {{ $pages := .Site.Pages }}
         {{ range .Site.Home.Translations }}
         {{ $pages = $pages | lang.Merge .Site.Pages }}
         {{ end }}
-        {{ $pages = (where $pages "Section" "sponsors") }}
-        <div class="row">
-            {{ range $pages.GroupByParam "group" }}
-              <h3>{{ .Key }}</h3>
-                  {{ range .Pages }}
-                  <div class="p-card col-3">
-                    <a href="{{ .RelPermalink }}">
-                    <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
-                    <h4>{{.Title}}</h4>
-                    </a>
-                  </div>
-                  {{ end }}
-            {{ end }}
+        
+        <h3>{{ i18n "gold_sp" }}</h3>
+        {{ range where $pages "Params.group" "gold" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "silver_sp" }}</h3>
+        {{ range where $pages "Params.group" "silver" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "bronze_sp" }}</h3>
+        {{ range where $pages "Params.group" "bronze" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "supporter_sp" }}</h3>
+        {{ range where $pages "Params.group" "supporter" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "infra_sp" }}</h3>
+        {{ range where $pages "Params.group" "infra" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "record_sp" }}</h3>
+        {{ range where $pages "Params.group" "record" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "videoi18n_sp" }}</h3>
+        {{ range where $pages "Params.group" "videoi18n" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
+        <h3>{{ i18n "swag_sp" }}</h3>
+        {{ range where $pages "Params.group" "swag" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
         </div>
       </section>
 </main>
