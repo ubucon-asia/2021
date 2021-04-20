@@ -171,6 +171,18 @@
                 href="https://2021.ubucon.asia/id/hosts/debian-malaysia/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/id/hosts/fossasia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/fossasia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/fossasia/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/id/hosts/gnome-id/</loc>
     <xhtml:link
                 rel="alternate"

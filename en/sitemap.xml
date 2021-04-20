@@ -230,6 +230,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/fossasia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/hosts/fossasia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/hosts/fossasia/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/hosts/gnome-id/</loc>
     <xhtml:link
