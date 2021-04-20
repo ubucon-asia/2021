@@ -11,4 +11,6 @@ ubuntuwiki: "https://wiki.ubuntu.com/ChinaTeam"
 # fbgroup: "https://fb.me/groups/{}"
 # youtube: "https://www.youtube.com/{}"
 ---
-<!-- Detailed description about the community -->
+Ubuntu China LoCo Team is an official local community in China approved by Ubuntu Community Council.
+
+In 2005, the Ubuntu community in China started to form a team to take care of localization efforts of Ubuntu and the team soon transformed into an active community to promote Ubuntu and attract new comers. The Ubuntu China LoCo Team have so far organized over 100 local Ubuntu events and even more joint events, with very wide cooperation with academic institutions and commercial companies.
