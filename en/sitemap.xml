@@ -2,6 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://2021.ubucon.asia/news/</loc>
+    <lastmod>2021-04-21T00:10:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://2021.ubucon.asia/ja/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/</loc>
+    <lastmod>2021-04-21T00:10:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://2021.ubucon.asia/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/news/2021-04-21-some-updates/</loc>
+    <lastmod>2021-04-21T00:10:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-04-21-some-updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-04-21-some-updates/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/sessions/no-sessions-yet/</loc>
     <lastmod>2021-01-09T10:00:00+09:00</lastmod>
     <xhtml:link
@@ -53,34 +122,6 @@
                 href="https://2021.ubucon.asia/sessions/"
                 />
   </url><url>
-    <loc>https://2021.ubucon.asia/</loc>
-    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2021.ubucon.asia/zh-hant-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://2021.ubucon.asia/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/"
-                />
-  </url><url>
     <loc>https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
@@ -102,34 +143,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/news/2021-01-07-looking-for-organizers/"
-                />
-  </url><url>
-    <loc>https://2021.ubucon.asia/news/</loc>
-    <lastmod>2021-01-07T01:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2021.ubucon.asia/zh-hant-tw/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://2021.ubucon.asia/ja/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/news/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/about/</loc>
