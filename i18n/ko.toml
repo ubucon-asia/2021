@@ -36,3 +36,19 @@ other = "다른 주최 커뮤니티 더 보기"
 other = " 우분투 로컬 커뮤니티"
 [other_foss]
 other = "다른 자유-오픈소스 커뮤니티"
+[gold_sp]
+other = "골드 후원사"
+[silver_sp]
+other = "실버 후원사"
+[bronze_sp]
+other = "브론즈 후원사"
+[supporter_sp]
+other = "서포터 후원사"
+[infra_sp]
+other = "행사 인프라 후원사"
+[record_sp]
+other = "영산 촬영 후원사"
+[videoi18n_sp]
+other = "영상 국제화(번역) 후원사"
+[swag_sp]
+other = "기념품 후원사"
