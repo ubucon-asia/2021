@@ -1,7 +1,7 @@
 ---
 title: "후원사로 참여하기"
 photo: "placeholder.png"
-group: gold
+group: diamond
 website: "https://ubucon-asia.github.io/2021/"
 ---
 우분투와 우부콘 아시아에 관심을 가져주셔서 감사합니다.  
