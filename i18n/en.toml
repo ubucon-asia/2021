@@ -36,6 +36,8 @@ other = "More host communities"
 other = "Ubuntu Local Communities"
 [other_foss]
 other = "Other Free and Open Source Communities"
+[diamond_sp]
+other = "Diamond Sponsors"
 [gold_sp]
 other = "Gold Sponsors"
 [silver_sp]
@@ -52,3 +54,5 @@ other = "Video Recording Sponsors"
 other = "Video Internalization Sponsors"
 [swag_sp]
 other = "Swag Sponsors"
+[partner_cm]
+other = "Partner Communities"

@@ -106,6 +106,17 @@
     <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
 
+      <h3>{{ i18n "diamond_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "diamond" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
         <h3>{{ i18n "gold_sp" }}</h3>
         <ul class="p-inline-images">
         {{ range where $allPages "Params.group" "gold" }}
@@ -192,7 +203,18 @@
           </a>
         </li>
         {{ end }}
-        </ul>       
+        </ul>    
+
+        <h3>{{ i18n "partner_cm" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "partner" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>      
          </div>
   </section>
 </main>
