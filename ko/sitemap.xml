@@ -265,6 +265,18 @@
                 href="https://2021.ubucon.asia/ko/hosts/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/join-as-partner-community/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/join-as-partner-community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/join-as-partner-community/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
