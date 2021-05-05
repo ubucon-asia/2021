@@ -1,7 +1,6 @@
 ---
 title: "Calling for Video Translation Volunteers"
 date: 2021-05-05T12:01:51+09:00
-draft: true
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2021 / Advisor, Ubuntu Korea Community 

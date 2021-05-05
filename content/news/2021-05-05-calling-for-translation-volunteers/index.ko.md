@@ -1,7 +1,6 @@
 ---
 title: "영상 자막 번역 자원 봉사자 모집 안내"
 date: 2021-05-05T12:01:51+09:00
-draft: true
 authors:
     - name: 한영빈
       bio: Ubucon Asia 2021 조직위원회 구성원 / 우분투 한국 커뮤니티 - 고문 
