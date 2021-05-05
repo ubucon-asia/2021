@@ -26,9 +26,9 @@ Here's the reference topics for you to discuss in Ubucon Asia 2021:
 - Security
 - Community/Social Context
 - Case Studies
-- etc
+- etc.
 
-We have some sessions to talk with two days event. We usually to recommend to give presentation in English. But GOOD NEWS if you are not confident with your English, for Talks and Panels you may consider to give presentation in following languages (Korean, Japanese, Chinese(China), Chinese(Taiwan), Cantonese(Hong Kong), Indonesia).
+We have some sessions to talk with two days event. We usually recommend to give presentation in English. But GOOD NEWS if you are not confident with your English, for Talks and Panels you may consider to give presentation in following languages (Korean, Japanese, Chinese(China), Chinese(Taiwan), Cantonese(Hong Kong), Indonesia).
 
 Please review all details or submit your talks in this page https://2021.ubucon.asia/cfs
 
