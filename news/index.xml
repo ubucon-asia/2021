@@ -6,7 +6,18 @@
     <description>Recent content in News on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:10:16 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 09:50:20 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calling for Speakers</title>
+      <link>https://2021.ubucon.asia/news/2021-05-05-call-for-speakers/</link>
+      <pubDate>Wed, 05 May 2021 09:50:20 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/news/2021-05-05-call-for-speakers/</guid>
+      <description>The first Ubuntu Conference in Asia (Ubucon Asia 2021) is four months ahead! Ubucon Asia 2021 Call for Speakers is now open until 30 June, and talks acceptance will be on 30 July.
+Here&amp;rsquo;s the reference topics for you to discuss in Ubucon Asia 2021:
+ Desktop Server/Infrastructure/Cloud Windows Subsystem for Linux(WSL) Localization(L10n)/Fonts/Input Methods Internet of Things(IoT)/Embedded Security Community/Social Context Case Studies etc  We have some sessions to talk with two days event.</description>
+    </item>
+    
     <item>
       <title>Ubucon Asia 2021 Plan updates</title>
       <link>https://2021.ubucon.asia/news/2021-04-21-some-updates/</link>
