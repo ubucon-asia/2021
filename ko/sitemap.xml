@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2021.ubucon.asia/ko/news/2021-05-05-call-for-speakers/</loc>
-    <lastmod>2021-05-05T09:50:20+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/news/2021-05-05-call-for-speakers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/2021-05-05-call-for-speakers/"
-                />
-  </url><url>
     <loc>https://2021.ubucon.asia/ko/news/</loc>
-    <lastmod>2021-05-05T09:50:20+09:00</lastmod>
+    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,8 +30,21 @@
                 href="https://2021.ubucon.asia/ko/news/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/news/2021-05-05-calling-for-translation-volunteers/</loc>
+    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-05-05-calling-for-translation-volunteers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-05-05-calling-for-translation-volunteers/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/</loc>
-    <lastmod>2021-05-05T09:50:20+09:00</lastmod>
+    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,6 +69,19 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/ko/news/2021-05-05-call-for-speakers/</loc>
+    <lastmod>2021-05-05T09:50:20+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-05-05-call-for-speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-05-05-call-for-speakers/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/ko/news/2021-04-21-some-updates/</loc>
