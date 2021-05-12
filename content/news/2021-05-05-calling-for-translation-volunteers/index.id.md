@@ -12,7 +12,7 @@ authors:
       linklabel: Website
 ---
 
-Saat kami mulai [Panggilan untuk Pembicara](../ 2021-05-05-call-for-speaker), kami sekarang juga memanggil relawan penerjemahan mulai hari ini.
+Saat kami mulai [panggilan untuk pembicara](../2021-05-05-call-for-speakers), kami sekarang juga memanggil relawan penerjemahan mulai hari ini.
 Relawan penerjemah akan berkolaborasi dengan komunitas lokal untuk menerjemahkan sesi rekaman dengan bahasa berikut.
 
 - Korea - Anda akan bekerja sama dengan Komunitas Korea Ubuntu

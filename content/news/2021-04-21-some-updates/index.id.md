@@ -13,7 +13,7 @@ authors:
       linklabel: Website
 ---
 
-Sudah sekitar 3 bulan setelah saya menerbitkan posting ["Mencari penyelenggara"](../ 2021-01-07-mencari-penyelenggara).
+Sudah sekitar 3 bulan setelah saya menerbitkan posting ["Mencari penyelenggara"](../2021-01-07-looking-for-organizers).
 3 bulan terakhir, banyak komunitas Lokal Ubuntu dan komunitas FLOSS lainnya menghubungi saya untuk bergabung dengan tim Ubucon Asia 2021.
 Saat ini, Kami memiliki 12 komunitas host dari 10 wilayah berbeda di dalam tim. Beberapa penyelenggara dari komunitas dengan pengalaman luar biasa dalam menyelenggarakan acara internasional juga bergabung dengan tim kami.
 
