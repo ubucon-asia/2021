@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-05-05-calling-for-translation-volunteers/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/2021-05-05-calling-for-translation-volunteers/"
                 />
@@ -80,6 +85,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-05-05-call-for-speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/2021-05-05-call-for-speakers/"
                 />
@@ -90,6 +100,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/news/2021-04-21-some-updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-04-21-some-updates/"
                 />
     <xhtml:link
                 rel="alternate"
