@@ -13,7 +13,7 @@ authors:
 ---
 
 As we begin [calling for speakers](../2021-05-05-call-for-speakers), We're now also calling for translation volunteers from today.
-Translation volunteers will colloborate local community to translate pre-recorded sessions with following languages.
+Translation volunteers will colloborate local community to **translate pre-recorded sessions from following languages to English.**
 
 - Korean - You will collaborate with Ubuntu Korea Community
 - Japanese - You will collaborate with Ubuntu Japanese Community

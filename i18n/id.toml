@@ -32,3 +32,27 @@ other = "Panggilan untuk Pembicara"
 other = "Host Komunitas"
 [more_hosts]
 other = "Host Komunitas Lainnya"
+[ubuntu_locos]
+other = "Komunitas Lokal Ubuntu"
+[other_foss]
+other = "Komunitas FOSS Lainnya"
+[diamond_sp]
+other = "Sponsor Berlian"
+[gold_sp]
+other = "Sponsor Emas"
+[silver_sp]
+other = "Sponsor Perak"
+[bronze_sp]
+other = "Sponsor Perunggu"
+[supporter_sp]
+other = "Sponsor Pendukung"
+[infra_sp]
+other = "Sponsor Infrastruktur Acara"
+[record_sp]
+other = "Sponsor Perekaman Video"
+[videoi18n_sp]
+other = "Sponsor Internasionalisasi Video"
+[swag_sp]
+other = "Sponsor Swag"
+[partner_cm]
+other = "Komunitas Mitra"
