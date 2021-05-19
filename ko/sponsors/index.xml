@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://2021.ubucon.asia/ko/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WSLHUB (WSL Korea User Group)</title>
+      <link>https://2021.ubucon.asia/ko/sponsors/wslhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/ko/sponsors/wslhub/</guid>
+      <description> WSLHUB is a local user group community in South Korea. Our community members are especially interested in WSL and the Linux Ecosystem. Our community currently runs several open-source projects(such as WslManager, WslQuery) and a Facebook group to communicate with our members.  </description>
+    </item>
+    
+    <item>
       <title>파트너 커뮤니티로 참여하기</title>
       <link>https://2021.ubucon.asia/ko/sponsors/join-as-partner-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

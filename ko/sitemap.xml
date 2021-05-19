@@ -240,6 +240,18 @@
                 href="https://2021.ubucon.asia/ko/tags/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/wslhub/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/wslhub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/wslhub/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/about/</loc>
     <xhtml:link
                 rel="alternate"
