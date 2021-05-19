@@ -2,14 +2,37 @@
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
 <main>
-  <section class="p-strip--accent" 
-  {{with .Params.cover}} style="background: linear-gradient( rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) ), url({{.}}) center / cover;"{{end}}>
+  <section class="p-strip--accent" {{with .Params.cover}}
+    style="background: linear-gradient( rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) ), url({{.}}) center / cover;" {{end}}>
     <div class="row">
       <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;" />
-      <b>{{ i18n "sponsors" }}</b>
+     
       <h2>{{.Title}}</h2>
       <div>
-        <div class="p-label--new">{{.Params.group}}</div>
+        <div class="p-label--new">
+          {{if eq .Params.group "diamond"}}
+          {{ i18n "diamond_sp" }}
+          {{ else if eq .Params.group "gold"}}
+          {{ i18n "gold_sp" }}
+          {{ else if eq .Params.group "silver"}}
+          {{ i18n "silver_sp" }}
+          {{ else if eq .Params.group "bronze"}}
+          {{ i18n "bronze_sp" }}
+          {{ else if eq .Params.group "supporter"}}
+          {{ i18n "supporter_sp" }}
+          {{ else if eq .Params.group "infra"}}
+          {{ i18n "infra_sp" }}
+          {{ else if eq .Params.group "record"}}
+          {{ i18n "record_sp" }}
+          {{ else if eq .Params.group "videoi18n"}}
+          {{ i18n "videoi18n_sp" }}
+          {{ else if eq .Params.group "swag"}}
+          {{ i18n "swag_sp" }}
+          {{else}}
+          {{ i18n "partner_cm" }}
+          {{end}}
+          </b>
+        </div>
       </div>
       {{with .Params.region}}
       <ul class="p-media-object__meta-list">
@@ -33,11 +56,9 @@
       {{ .Content }}
       {{with .Params.brochure}}
       <div>
-        <object data='{{.}}'
-          type="application/pdf" width="100%" height="700">
+        <object data='{{.}}' type="application/pdf" width="100%" height="700">
 
-          <iframe src='{{.}}' width="500"
-            height="678">
+          <iframe src='{{.}}' width="500" height="678">
             <p>This browser does not support PDF!</p>
           </iframe>
 
