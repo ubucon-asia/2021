@@ -11,6 +11,13 @@
       <div>
         <div class="p-label--new">{{.Params.group}}</div>
       </div>
+      {{with .Params.region}}
+      <ul class="p-media-object__meta-list">
+        <li class="p-media-object__meta-list-item--location" style="color: white;">
+          <span class="u-off-screen"></span>{{.}}
+        </li>
+      </ul>
+      {{end}}
       <ul class="p-inline-list--middot">
         {{with .Params.website}}<li class="p-inline-list__item"><a href="{{.}}">Web</a></li>{{end}}
         {{with .Params.github}}<li class="p-inline-list__item"><a href="{{.}}">GitHub</a></li>{{end}}
