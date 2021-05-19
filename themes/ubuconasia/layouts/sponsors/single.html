@@ -2,7 +2,8 @@
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
 <main>
-  <section class="p-strip--accent">
+  <section class="p-strip--accent" 
+  {{with .Params.cover}} style="background: linear-gradient( rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) ), url({{.}}) center / cover;"{{end}}>
     <div class="row">
       <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;" />
       <b>{{ i18n "sponsors" }}</b>
