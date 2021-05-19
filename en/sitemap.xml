@@ -500,5 +500,7 @@
                 hreflang="en"
                 href="https://2021.ubucon.asia/hosts/ubuntu-tw/"
                 />
+  </url><url>
+    <loc>https://2021.ubucon.asia/sponsors/wslhub/</loc>
   </url>
 </urlset>

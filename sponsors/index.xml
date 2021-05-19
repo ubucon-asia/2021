@@ -28,5 +28,14 @@ Your contribution makes it possible for us to bring a large number of Ubuntu use
 To learn more about our partner community program, please refer to our brochure.</description>
     </item>
     
+    <item>
+      <title>WSLHUB (WSL Korea User Group)</title>
+      <link>https://2021.ubucon.asia/sponsors/wslhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sponsors/wslhub/</guid>
+      <description> WSLHUB is a local user group community in South Korea. Our community members are especially interested in WSL and the Linux Ecosystem. Our community currently runs several open-source projects and a Facebook group to communicate with our members.  </description>
+    </item>
+    
   </channel>
 </rss>

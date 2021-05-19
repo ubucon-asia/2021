@@ -212,5 +212,14 @@ Our aim is make Ubuntu more easily to get start and more friendly to use for Tra
 We involving in localization, making workshop and collaborate with other FLOSS/Open-culture Communities like Mozilla Taiwan Community(MozTW), Open Culture Foundation(OCF), Linux user groups in Taiwan, etc.</description>
     </item>
     
+    <item>
+      <title>WSLHUB (WSL Korea User Group)</title>
+      <link>https://2021.ubucon.asia/sponsors/wslhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sponsors/wslhub/</guid>
+      <description> WSLHUB is a local user group community in South Korea. Our community members are especially interested in WSL and the Linux Ecosystem. Our community currently runs several open-source projects and a Facebook group to communicate with our members.  </description>
+    </item>
+    
   </channel>
 </rss>
