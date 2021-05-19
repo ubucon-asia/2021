@@ -9,11 +9,12 @@ fbgroup: "https://fb.me/groups/wslhub"
 # youtube: "https://www.youtube.com/{}"
 brochure: WSLHUB_brochure.pdf
 cover: cover.jpg
+region: Seoul, South Korea
 ---
 
 - WSLHUB is a local user group community in South Korea.
 - Our community members are especially interested in WSL and the Linux Ecosystem.
-- Our community currently runs several open-source projects and a Facebook group to communicate with our members.
+- Our community currently runs several open-source projects(such as WslManager, WslQuery) and a Facebook group to communicate with our members.
 
 
 
