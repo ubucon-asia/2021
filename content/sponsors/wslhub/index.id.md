@@ -1,5 +1,5 @@
 ---
-title: "WSLHUB (Geup Pengguna WSL Korea)" # Name of the sponsor
+title: "WSLHUB (Grup Pengguna WSL Korea)" # Name of the sponsor
 photo: "wslhub.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: partner # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag
 website: "https://wslhub.com"
