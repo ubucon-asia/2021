@@ -486,5 +486,22 @@
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/about/"
                 />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/wslhub/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/wslhub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/wslhub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/wslhub/"
+                />
   </url>
 </urlset>

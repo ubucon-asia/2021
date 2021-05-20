@@ -199,5 +199,14 @@ Ubucon Asia adalah acara yang diselenggarakan oleh Komunitas Ubuntu di Asia. Ini
 Ubucon Asia 2021, konferensi Ubuntu pertama di Asia akan menjadi konferensi virtual yang digerakkan oleh beberapa Ubuntu LoCo dari Asia.</description>
     </item>
     
+    <item>
+      <title>WSLHUB (Geup Pengguna WSL Korea)</title>
+      <link>https://2021.ubucon.asia/id/sponsors/wslhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/sponsors/wslhub/</guid>
+      <description> WSLHUB adalah komunitas kelompok pengguna lokal di Korea Selatan. Anggota komunitas kami sangat tertarik dengan WSL dan Ekosistem Linux. Komunitas kami saat ini menjalankan beberapa proyek sumber terbuka (seperti WslManager, WslQuery) dan grup Facebook untuk berkomunikasi dengan anggota kami.  </description>
+    </item>
+    
   </channel>
 </rss>
