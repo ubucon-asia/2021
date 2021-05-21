@@ -11,7 +11,10 @@
 {{ end }}
 
 <main>
-  <section class="p-strip--accent">
+  <section class="p-strip--accent"
+  style='background:
+   linear-gradient( rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) ), 
+   url({{ "/images/cover.jpg" | relURL }}) center / cover'>
     <div class="row">
       <div class="col-8">
         <h1>{{.Title}}</h1>
