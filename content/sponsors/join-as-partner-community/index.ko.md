@@ -3,6 +3,7 @@ title: "파트너 커뮤니티로 참여하기"
 photo: "placeholder.png"
 group: partner
 website: "https://ubucon-asia.github.io/2021/"
+brochure: UbuConAsia2021_Partner_Community_Brochure.pdf
 ---
 우부콘 아시아 행사를 더 널리 알리기 위해, 파트너 커뮤니티를 모집하고 있습니다.
 파트너 커뮤니티가 되면, 우부콘 아시아 팀과 협력하여 서로의 커뮤니티와 행사 정보를 각자의 마케팅 채널을 통해 홍보하게 됩니다.
@@ -12,5 +13,3 @@ website: "https://ubucon-asia.github.io/2021/"
 파트너 커뮤니티로 참여하려면, 코디네이션 팀에 연락해 주시기 바랍니다. (조직위원회 팀에 다양한 국적의 구성원이 있으므로 영어로 연락해 주시면 감사하겠습니다.)
 
 contact@ubucon.asia
-
-[파트너 커뮤니티 브로슈어 보기(영문)](UbuConAsia2021_Partner_Community_Brochure.pdf)

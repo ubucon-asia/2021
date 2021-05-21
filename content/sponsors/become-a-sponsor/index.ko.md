@@ -3,6 +3,7 @@ title: "후원사로 참여하기"
 photo: "placeholder.png"
 group: diamond
 website: "https://ubucon-asia.github.io/2021/"
+brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
 ---
 우분투와 우부콘 아시아에 관심을 가져 주셔서 감사합니다.
 우부콘 아시아 2021은 온라인 행사이지만, 여러 커뮤니티가 준비한 비영리 행사이기도 합니다.
@@ -16,5 +17,3 @@ website: "https://ubucon-asia.github.io/2021/"
 후원사로 참여를 원하시는 경우, 스폰서쉽 팀에 연락해 주세요. (조직위원회 팀에 다양한 국적의 구성원이 있으므로 영어로 연락해 주시면 감사하겠습니다.)
 
 sponsorship@ubucon.asia
-
-[후원사 브로슈어 보기(영문)](UbuConAsia2021_Sponsorship_Brochure.pdf)
