@@ -16,7 +16,7 @@ Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS)은(는) 수라바�
 
 1. Cangkrukan KLAS
 2. 지역 컨퍼런스 행사 (Open Infrastucture Day 2019)
-3. 국제 컨퍼런스 행사 (OpenSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
+3. 국제 컨퍼런스 행사 (openSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
 
 - 웹사이트 : https://klas.or.id/
 - 단축 URL : s.klas.or.id
