@@ -16,12 +16,12 @@ Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS)은(는) 수라바�
 몇가지 고정적으로 하는 활동이 있으며, 수라바야에서의 자유/오픈소스 활동 지원을 위해 아래와 같은 다양한 활동을 해 왔습니다:
 
 1. Cangkrukan KLAS
-2. 지역 컨퍼런스 행사 (open infrastucture day 2019)
+2. 지역 컨퍼런스 행사 (Open Infrastucture Day 2019)
 3. 국제 컨퍼런스 행사 (OpenSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
 
-웹사이트			: www.klas.or.id
-단축 URL	: s.klas.or.id
-페이스북		: http://fb.com/kelompoklinuxareksuroboyo
-인스타그램		: instagram.com/klas_activity (@klas_activity)
-트위터         : @klas_activity
-링크드인		: Kelompok Linux Arek Suroboyo
+- 웹사이트 : www.klas.or.id
+- 단축 URL : s.klas.or.id
+- 페이스북 : http://fb.com/kelompoklinuxareksuroboyo
+- 인스타그램 : instagram.com/klas_activity (@klas_activity)
+- 트위터 : @klas_activity
+- 링크드인 : Kelompok Linux Arek Suroboyo
