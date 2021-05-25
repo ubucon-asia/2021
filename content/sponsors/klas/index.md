@@ -2,7 +2,7 @@
 title: "KLAS (Kelompok Linux Arek Suroboyo)" # Name of the sponsor
 photo: "klas.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: partner # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag
-website: "https://www.klas.or.id"
+website: "https://klas.or.id/"
 github: "https://github.com/wslhub"
 facebook: "https://fb.me/kelompoklinuxareksuroboyo"
 fbgroup: "https://fb.me/groups/wslhub"
@@ -18,7 +18,7 @@ Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS) is one of the Linux
 2. Local Conferences (Open Infrastucture Day 2019)
 3. International Conferences (OpenSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
 
-- Website : www.klas.or.id
+- Website : https://klas.or.id/
 - Shortner Link : s.klas.or.id
 - Facebook : http://fb.com/kelompoklinuxareksuroboyo
 - Instagram : instagram.com/klas_activity (@klas_activity)
