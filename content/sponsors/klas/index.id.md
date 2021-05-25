@@ -10,14 +10,14 @@ cover: cover.png
 region: Surabaya, Indonesia
 ---
 
-Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS) is one of the Linux user groups in the city of Surabaya. We have been around since 1995, and are still active today. We have several routine agendas and facilities that we do and until now we have facilitated them to support Go FOSS activities in Surabaya, such as:
+KLAS (Kelompok Linux Arek Suroboyo) adalah salah satu kelompok pengguna Linux yang ada di kota Surabaya. Kami sudah ada sejak 1995, dan masih aktif sampai sekarang. Kami memiliki beberapa agenda dan fasilitas rutin yang kami lakukan. Hingga saat ini kami telah memfasilitasi untuk mendukung kegiatan FOSS di Surabaya, seperti:
 
 1. Cangkrukan KLAS
-2. Local Conferences (Open Infrastucture Day 2019)
-3. International Conferences (openSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
+2. Konferensi Lokal (Open Infrastucture Day 2019)
+3. Konferensi Internasional (openSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)
 
-- Website : https://klas.or.id/
-- Shortner Link : s.klas.or.id
+- Situs Web : https://klas.or.id/
+- Pemendek Tautan : s.klas.or.id
 - Facebook : http://fb.com/kelompoklinuxareksuroboyo
 - Instagram : instagram.com/klas_activity (@klas_activity)
 - Twitter : @klas_activity
