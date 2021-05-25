@@ -3,7 +3,6 @@ title: "KLAS (Kelompok Linux Arek Suroboyo)" # Name of the sponsor
 photo: "klas.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: partner # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag
 website: "https://klas.or.id/"
-github: "https://github.com/wslhub"
 facebook: "https://fb.me/kelompoklinuxareksuroboyo"
 youtube: "https://www.youtube.com/channel/UCv40EWaEduwhCFm2t2dl2lw"
 brochure: KLAS_Brochure.pdf
