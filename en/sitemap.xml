@@ -341,6 +341,18 @@
                 href="https://2021.ubucon.asia/sponsors/join-as-partner-community/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/sponsors/klas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/klas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/klas/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/hosts/openstack-id/</loc>
     <xhtml:link
                 rel="alternate"
