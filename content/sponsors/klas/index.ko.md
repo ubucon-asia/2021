@@ -9,7 +9,7 @@ fbgroup: "https://fb.me/groups/wslhub"
 youtube: "https://www.youtube.com/channel/UCv40EWaEduwhCFm2t2dl2lw"
 brochure: KLAS_Brochure.pdf
 cover: cover.png
-region: 수라바야, 인도네시아
+region: 인도네시아, 수라바야
 ---
 
 Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS)은(는) 수라바야에 있는 리눅스 사용자 그룹 입니다. 1995년부터 활동을 시작했으며, 지금까지 활발히 활동하고 있습니다. 

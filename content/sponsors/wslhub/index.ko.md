@@ -9,7 +9,7 @@ fbgroup: "https://fb.me/groups/wslhub"
 # youtube: "https://www.youtube.com/{}"
 brochure: WSLHUB_brochure.pdf
 cover: cover.jpg
-region: 대한민국 서울
+region: 대한민국, 서울
 ---
 
 - 한국 WSL 사용자 그룹은 국내 WSL(Windows Subsystem for Linux) 및 리눅스 사용자를 위한 커뮤니티 입니다.
