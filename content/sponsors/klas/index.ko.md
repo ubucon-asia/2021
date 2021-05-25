@@ -5,7 +5,6 @@ group: partner # One of followings: gold, silver, bronze, supporter, infra, reco
 website: "https://klas.or.id/"
 github: "https://github.com/wslhub"
 facebook: "https://fb.me/kelompoklinuxareksuroboyo"
-fbgroup: "https://fb.me/groups/wslhub"
 youtube: "https://www.youtube.com/channel/UCv40EWaEduwhCFm2t2dl2lw"
 brochure: KLAS_Brochure.pdf
 cover: cover.png
