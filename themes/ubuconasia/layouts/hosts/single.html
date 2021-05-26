@@ -4,7 +4,7 @@
 <main>
     <section class="p-strip--light">
         <div class="row">
-            <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;"/>
+            <img src="{{.Params.photo}}" alt="{{.Params.title}} logo" style="max-height: 150px; margin-bottom: 10px;"/>
             <b>{{ i18n "host_communities" }}</b>
             <h2>{{.Title}}</h2>
             <ul class="p-media-object__meta-list">
@@ -28,7 +28,7 @@
         <div class="row">
           {{ .Content }}
           <hr/>
-          <a href='{{ ref . "/hosts/" }}'><button>{{ i18n "more_hosts" }}</button></a>
+          <p><a href='{{ ref . "/hosts/" }}' class="p-button">{{ i18n "more_hosts" }}</a></p>
         </div>
       </section>
 </main>

@@ -17,7 +17,7 @@
       {{ range where $pages "Params.group" "UbuntuLoCos" }}
       <div class="p-card col-3">
         <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;" />
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="{{.Params.title}}" style="max-height: 100px;" />
           <h4>{{.Title}}</h4>
         </a>
       </div>
@@ -26,7 +26,7 @@
       {{ range where $pages "Params.group" "OtherLoCos" }}
       <div class="p-card col-3">
         <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;" />
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="{{.Params.title}}" style="max-height: 100px;" />
           <h4>{{.Title}}</h4>
         </a>
       </div>
