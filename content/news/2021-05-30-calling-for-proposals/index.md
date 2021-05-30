@@ -49,5 +49,5 @@ This is a reminder post that includes all details for each items and URL link to
 
 - To promote UbuCon Asia event across Asia much further, We’re looking for partner communities.
 - Your community will collaborate with UbuCon Asia team to cross-promote each other’s community and event.
-- [See partner community program details and brochure](../../join-as-partner-community)
+- [See partner community program details and brochure](../../sponsors/join-as-partner-community)
 - Contact us to become our partner community: contact@ubucon.asia
