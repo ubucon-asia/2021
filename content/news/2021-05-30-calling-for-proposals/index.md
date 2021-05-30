@@ -1,7 +1,6 @@
 ---
 title: "Calling for Proposals"
 date: 2021-05-30T22:39:21+09:00
-draft: true
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2021 / Advisor, Ubuntu Korea Community 
