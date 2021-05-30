@@ -199,6 +199,18 @@
                 href="https://2021.ubucon.asia/ko/news/2021-01-07-looking-for-organizers/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/dotnetdevkr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/dotnetdevkr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/dotnetdevkr/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
