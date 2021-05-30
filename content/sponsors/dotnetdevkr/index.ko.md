@@ -12,7 +12,7 @@ brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국
 ---
 
-- .Net Dev 대한민국의 지역 .Net 사용자 커뮤니티 입니다.
+- .Net Dev는 대한민국에서 활동하는 .Net 사용자 커뮤니티 입니다.
 - 주로 .Net 개발 및 .Net 에코시스템에 관심이 있는 분들이 모인 커뮤니티 입니다.
   - ASP.NET, EF, Blazor 등 .NET 에코시스템 기술에 대해서도 많이 다룹니다.
 - 지역 컨퍼런스인 ".NET Conf x Seoul"을 매년, ".NET Conf Mini"를 매 분기마다 열고 있습니다.
