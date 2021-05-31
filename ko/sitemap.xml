@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-05-30-calling-for-proposals/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/2021-05-30-calling-for-proposals/"
                 />
@@ -207,6 +212,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/dotnetdevkr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/sponsors/dotnetdevkr/"
                 />
@@ -370,6 +380,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/sponsors/join-as-partner-community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/join-as-partner-community/"
                 />
     <xhtml:link
                 rel="alternate"

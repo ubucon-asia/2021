@@ -6,6 +6,11 @@
     <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-05-30-calling-for-proposals/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/2021-05-30-calling-for-proposals/"
                 />
@@ -19,13 +24,13 @@
     <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,13 +52,13 @@
     <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -200,6 +205,11 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/dotnetdevkr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/dotnetdevkr/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -355,6 +365,11 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/join-as-partner-community/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/join-as-partner-community/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"

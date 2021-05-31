@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://2021.ubucon.asia/id/news/</loc>
-    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
+    <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,26 +30,26 @@
                 href="https://2021.ubucon.asia/id/news/"
                 />
   </url><url>
-    <loc>https://2021.ubucon.asia/id/news/2021-05-05-calling-for-translation-volunteers/</loc>
-    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
+    <loc>https://2021.ubucon.asia/id/news/2021-05-30-calling-for-proposals/</loc>
+    <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://2021.ubucon.asia/news/2021-05-05-calling-for-translation-volunteers/"
+                href="https://2021.ubucon.asia/news/2021-05-30-calling-for-proposals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/2021-05-05-calling-for-translation-volunteers/"
+                href="https://2021.ubucon.asia/ko/news/2021-05-30-calling-for-proposals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://2021.ubucon.asia/id/news/2021-05-05-calling-for-translation-volunteers/"
+                href="https://2021.ubucon.asia/id/news/2021-05-30-calling-for-proposals/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/</loc>
-    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
+    <lastmod>2021-05-30T22:39:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +74,24 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/news/2021-05-05-calling-for-translation-volunteers/</loc>
+    <lastmod>2021-05-05T12:01:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-05-05-calling-for-translation-volunteers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-05-05-calling-for-translation-volunteers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-05-05-calling-for-translation-volunteers/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/news/2021-05-05-call-for-speakers/</loc>
@@ -184,6 +202,40 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/news/2021-01-07-looking-for-organizers/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/dotnetdevkr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/dotnetdevkr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/dotnetdevkr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/dotnetdevkr/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/join-as-partner-community/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/join-as-partner-community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/join-as-partner-community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/join-as-partner-community/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/categories/</loc>
