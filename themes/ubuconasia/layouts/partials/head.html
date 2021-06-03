@@ -12,7 +12,15 @@
     <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <meta property="og:image" content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+
+    {{ if .Params.group }}
+    <meta property="og:image" 
+        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}&imgurl2={{ .Params.photo }}' />
+    {{ else }}
+    <meta property="og:image" 
+        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+    {{ end }}
+
 
 
     <!-- Description Meta  -->
