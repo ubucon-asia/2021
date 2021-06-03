@@ -45,9 +45,9 @@ Ini adalah posting pengingat yang menyertakan semua detail untuk setiap item dan
 - [Lihat detail program sponsorship dan brosur sponsorship](../../sponsors/become-a-sponsor/)
 - Hubungi kami untuk menjadi sponsor kami: sponsorship@ubucon.asia
 
-## Panggilan untuk Komunitas Mitra
+## Panggilan untuk Mitra Komunitas
 
-- Untuk mempromosikan acara UbuCon Asia di Asia lebih jauh, Kami mencari komunitas mitra.
+- Untuk mempromosikan acara UbuCon Asia di Asia lebih jauh, Kami mencari mitra komunitas.
 - Komunitas Anda akan berkolaborasi dengan tim UbuCon Asia untuk saling mempromosikan komunitas dan acara.
-- [Lihat detail dan brosur program komunitas mitra](../../sponsors/join-as-partner-community)
-- Hubungi kami untuk menjadi komunitas mitra kami: contact@ubucon.asia
+- [Lihat detail dan brosur program mitra komunitas](../../sponsors/join-as-partner-community)
+- Hubungi kami untuk menjadi mitra komunitas kami: contact@ubucon.asia
