@@ -411,6 +411,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/openstack-kr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/openstack-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/openstack-kr/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/</loc>
     <xhtml:link
