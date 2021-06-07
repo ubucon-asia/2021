@@ -9,6 +9,7 @@ fbgroup: "https://fb.me/groups/{}"
 youtube: "https://www.youtube.com/{}"
 cover: cover.jpg
 brochure: brochure.pdf # path to brochure pdf file
+region: Country or region name # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
 put descriptions of the sponsor here
