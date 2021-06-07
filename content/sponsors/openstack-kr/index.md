@@ -6,7 +6,7 @@ website: "https://openstack-kr.org/"
 github: "https://github.com/openstack-kr"
 fbgroup: "https://www.facebook.com/groups/openstack.kr"
 youtube: "https://www.youtube.com/c/OpenStackKoreaGroup"
-cover: cover.jpg
+cover: cover.png
 brochure: brochure.pdf # path to brochure pdf file
 region: South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
