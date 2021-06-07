@@ -28,6 +28,18 @@
     <meta itemprop="description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
     <meta property="og:og:description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
 
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    {{ if .Params.group }}
+    <meta name="twitter:image"
+        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}' />
+    {{ else }}
+    <meta name="twitter:image"
+        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+    {{ end }}
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}"/>
+    <meta name="twitter:description" content=""/>
+
     <!-- URL Meta  -->
 <!--    <base href="{{ .Permalink }}">-->
     <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
