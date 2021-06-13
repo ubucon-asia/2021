@@ -15,7 +15,7 @@
 
     {{ if .Params.group }}
     <meta property="og:image" 
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&bgimgurl={{ .Params.cover }}&bgstartcolor=F5B29B&isdark=false' />
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&bgimgurl={{ .Permalink }}{{ .Params.cover }}&bgstartcolor=F5B29B&isdark=false' />
     {{ else }}
     <meta property="og:image" 
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
