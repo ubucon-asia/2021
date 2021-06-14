@@ -32,10 +32,10 @@
     <meta name="twitter:card" content="summary_large_image"/>
     {{ if .Params.group }}
     <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}' />
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
     {{ else }}
     <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/render?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
     {{ end }}
     <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}"/>
     <meta name="twitter:description" content=""/>
