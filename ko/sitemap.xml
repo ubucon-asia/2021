@@ -248,6 +248,18 @@
                 href="https://2021.ubucon.asia/ko/categories/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/gimpscape-id/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/gimpscape-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/gimpscape-id/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/sponsors/klas/</loc>
     <xhtml:link
                 rel="alternate"
