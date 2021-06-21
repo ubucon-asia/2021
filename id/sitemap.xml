@@ -289,6 +289,23 @@
                 href="https://2021.ubucon.asia/id/hosts/fossasia/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/gimpscape-id/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/gimpscape-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/gimpscape-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/gimpscape-id/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/id/hosts/gnome-id/</loc>
     <xhtml:link
                 rel="alternate"
