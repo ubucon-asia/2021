@@ -30,6 +30,8 @@ To become our patron, Visit [our event page on eventyay.com](https://eventyay.co
 9. To make payment, Sign in with your PayPal account to make payment, or just choose "Pay with a Card" to pay without PayPal account.
 10. After succesful payment, you will be able to download invoice, see payment result, and cancel order in case if you want.
 
+> To purchase donation ticket, You will need a debit or credit card that PayPal supports.
+
 To appreciate supports from our patrons, We'll feature names of patrons on our website.
 If you have any questions or need any help regarding purchasing donation ticket or cancaeling order, feel free to reach our our sponsorship team (Email: [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia))
 
