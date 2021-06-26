@@ -7,7 +7,7 @@ youtube: "https://www.youtube.com/channel/UClMqqFSY7qqakeumfAB8zbA"
 github: "https://github.com/UbuntuKylin"
 twitter: https://twitter.com/Ubuntu_Kylin
 brochure: brochure.pdf
-cover: cover.png
+cover: cover.jpg
 region: China
 ---
 
