@@ -13,8 +13,7 @@ region: China
 
 - Ubuntu Kylin is an official flavor of Ubuntu.
 - It committed to bringing an easy, excellent, expert, and elaborate Linux distribution to users worldwide.
-- It integrates the independently developed UKUI desktop environment which adheres to the friendly and simple design, aka
-- Ubuntu Kylin User Interface.
+- It integrates the independently developed UKUI desktop environment which adheres to the friendly and simple design, aka Ubuntu Kylin User Interface.
 - It includes more than 20 applications developed for ordinary users to enjoy a pleasant life and easy office operating system experience.
 
 Links to social media
