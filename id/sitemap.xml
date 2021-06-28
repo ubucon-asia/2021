@@ -603,6 +603,23 @@
                 href="https://2021.ubucon.asia/id/about/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/ubuntu-kylin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/ubuntu-kylin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/ubuntu-kylin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/ubuntu-kylin/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/wslhub/</loc>
     <xhtml:link
                 rel="alternate"
