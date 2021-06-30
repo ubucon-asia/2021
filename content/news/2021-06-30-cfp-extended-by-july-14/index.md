@@ -1,7 +1,6 @@
 ---
 title: "Calling for proposals extended by July 14"
 date: 2021-06-30T08:31:29+09:00
-draft: true
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2021 / Leader, Ubuntu Korea Community 
