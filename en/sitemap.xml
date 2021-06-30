@@ -2,26 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2021.ubucon.asia/news/2021-06-24-donation-ticket/</loc>
-    <lastmod>2021-06-24T00:20:21+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/2021-06-24-donation-ticket/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/2021-06-24-donation-ticket/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/news/2021-06-24-donation-ticket/"
-                />
+    <loc>https://2021.ubucon.asia/news/2021-06-30-cfp-extended-by-july-14/</loc>
+    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
   </url><url>
     <loc>https://2021.ubucon.asia/news/</loc>
-    <lastmod>2021-06-24T00:20:21+09:00</lastmod>
+    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -49,7 +34,7 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/</loc>
-    <lastmod>2021-06-24T00:20:21+09:00</lastmod>
+    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -74,6 +59,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/news/2021-06-24-donation-ticket/</loc>
+    <lastmod>2021-06-24T00:20:21+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-06-24-donation-ticket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-06-24-donation-ticket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-06-24-donation-ticket/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/news/2021-05-30-calling-for-proposals/</loc>
