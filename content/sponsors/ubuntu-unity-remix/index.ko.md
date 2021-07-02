@@ -16,4 +16,4 @@ Ubuntu Unity Remix(우분투 유니티 리믹스)는 Gnome Shell(그놈 셸) 대
 - Twitter: https://twitter.com/ubuntu_unity
 - Telegram: https://t.me/ubuntuunityannouncements
 - Discord: https://discord.gg/M2AWuCK
-- GitLab: https://gitlab.com/ubuntu_unity
+- GitLab: https://gitlab.com/ubuntu-unity

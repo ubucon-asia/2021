@@ -16,4 +16,4 @@ The latest stable release of Ubuntu Unity is 21.04 and we are also working on th
 - Twitter: https://twitter.com/ubuntu_unity
 - Telegram: https://t.me/ubuntuunityannouncements
 - Discord: https://discord.gg/M2AWuCK
-- GitLab: https://gitlab.com/ubuntu_unity
+- GitLab: https://gitlab.com/ubuntu-unity
