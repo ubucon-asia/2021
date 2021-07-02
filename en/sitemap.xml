@@ -640,6 +640,18 @@
                 href="https://2021.ubucon.asia/hosts/ubuntu-tw/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/sponsors/ubuntu-unity-remix/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/ubuntu-unity-remix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/ubuntu-unity-remix/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/sponsors/wslhub/</loc>
     <xhtml:link
                 rel="alternate"
