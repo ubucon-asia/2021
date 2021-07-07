@@ -56,3 +56,7 @@ other = "Video Internalization Sponsors"
 other = "Swag Sponsors"
 [partner_cm]
 other = "Partner Communities"
+[name]
+other = "Name"
+[donated_at]
+other = "Purchased donation ticket at"

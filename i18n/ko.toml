@@ -56,3 +56,7 @@ other = "영상 국제화(번역) 후원사"
 other = "기념품 후원사"
 [partner_cm]
 other = "파트너 커뮤니티"
+[name]
+other = "이름"
+[donated_at]
+other = "후원 티켓 구입 일시"
