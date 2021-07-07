@@ -1,54 +1,68 @@
 <header id="navigation" class="p-navigation">
-    <div class="p-navigation__row">
-      <div class="p-navigation__banner">
-        <div class="p-navigation__logo">
-          <a class="p-navigation__item" href="{{ .Site.LanguagePrefix | relURL }}">
-            <img class="p-navigation__image" src='{{ "/images/ubuCon_logo_or.png" | relURL }}' alt="Ubucon Asia 2021">
-          </a>
-        </div>
-        <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
-        <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__item" href="{{ .Site.LanguagePrefix | relURL }}">
+          <img class="p-navigation__image" src='{{ "/images/ubuCon_logo_or.png" | relURL }}' alt="Ubucon Asia 2021">
+        </a>
       </div>
-      <nav class="p-navigation__nav" aria-label="Example main navigation">
-        <span class="u-off-screen">
-          <a href="#main-content">Jump to main content</a>
-        </span>
-        <ul class="p-navigation__items">
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.main }}
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" aria-label="Example main navigation">
+      <span class="u-off-screen">
+        <a href="#main-content">Jump to main content</a>
+      </span>
+      <ul class="p-navigation__items">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="p-navigation__item p-subnav" id="link-{{ .Identifier }}">
+            <a class="p-subnav__toggle p-navigation__link" aria-controls="{{ .Identifier }}-menu">
+              {{ .Name }}
+            </a>
+            <ul class="p-subnav__items--right" id="{{ .Identifier }}-menu" aria-hidden="true">
+              {{ range .Children }}
+              <li>
+                <a href="{{ .URL | relLangURL }}" class="p-subnav__item">{{ .Name }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
           <li class="p-navigation__item">
             <a class="p-navigation__link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
           </li>
           {{ end }}
-        </ul>
-        <ul class="p-navigation__items">
-          <li class="p-navigation__item p-subnav" id="link-4">
-            <a class="p-subnav__toggle p-navigation__link" aria-controls="account-menu">
-              🌏
-            </a>
-            <ul class="p-subnav__items--right" id="account-menu" aria-hidden="true">
-              {{ if eq (len .AllTranslations) (len $.Site.Home.AllTranslations) }}
-                {{ range .AllTranslations }}
-                <li>
-                  <a href="{{ .Permalink }}" class="p-subnav__item">{{ .Language.LanguageName }}</a>
-                </li>
-                {{ end }}
-              {{ else }}
-                {{ range .AllTranslations }}
-                <li>
-                  <a href="{{ .Permalink }}" class="p-subnav__item">📄 {{ .Language.LanguageName }}</a>
-                </li>
-                {{ end }}
-                {{ range $.Site.Home.AllTranslations }}
-                <li>
-                  <a href="{{ .Permalink }}" class="p-subnav__item">🏠 {{ .Language.LanguageName }}</a>
-                </li>
-                {{ end }}
-              {{ end }}
-            </ul>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-  
+        {{ end }}
+      </ul>
+      <ul class="p-navigation__items">
+        <li class="p-navigation__item p-subnav" id="link-4">
+          <a class="p-subnav__toggle p-navigation__link" aria-controls="account-menu">
+            🌏
+          </a>
+          <ul class="p-subnav__items--right" id="account-menu" aria-hidden="true">
+            {{ if eq (len .AllTranslations) (len $.Site.Home.AllTranslations) }}
+            {{ range .AllTranslations }}
+            <li>
+              <a href="{{ .Permalink }}" class="p-subnav__item">{{ .Language.LanguageName }}</a>
+            </li>
+            {{ end }}
+            {{ else }}
+            {{ range .AllTranslations }}
+            <li>
+              <a href="{{ .Permalink }}" class="p-subnav__item">📄 {{ .Language.LanguageName }}</a>
+            </li>
+            {{ end }}
+            {{ range $.Site.Home.AllTranslations }}
+            <li>
+              <a href="{{ .Permalink }}" class="p-subnav__item">🏠 {{ .Language.LanguageName }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

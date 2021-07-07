@@ -30,9 +30,19 @@ languages:
           name: 세션
           url: sessions
           weight: 3
+        - identifier: sponsors-group
+          name: 후원사/개인후원
+          url: sponsors
+          weight: 4
         - identifier: sponsors
+          parent: sponsors-group
           name: 후원사
           url: sponsors
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: 개인 후원자
+          url: patrons
           weight: 4
         - identifier: news
           name: 소식
@@ -64,9 +74,19 @@ languages:
           name: Sessions
           url: sessions
           weight: 3
+        - identifier: sponsors-group
+          name: Sponsors/Patrons
+          url: sponsors
+          weight: 4
         - identifier: sponsors
+          parent: sponsors-group
           name: Sponsors
           url: sponsors
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Individual patrons
+          url: patrons
           weight: 4
         - identifier: news
           name: News
@@ -97,19 +117,29 @@ languages:
         - identifier: sessions
           name: Sesi
           url: sessions
-          weight: 2
-        - identifier: sponsors
-          name: Sponsor
-          url: sponsors
           weight: 3
+        - identifier: sponsors-group
+          name: Sponsors/Patrons
+          url: sponsors
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Sponsors
+          url: sponsors
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Individual patrons
+          url: patrons
+          weight: 4
         - identifier: news
           name: Berita
           url: news
-          weight: 4
+          weight: 5
         - identifier: wiki
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2021
-          weight: 5
+          weight: 6
   ja:
     languageName: 日本語
     title: Ubucon Asia 2021
@@ -132,10 +162,20 @@ languages:
           name: セッション
           url: sessions
           weight: 2
+        - identifier: sponsors-group
+          name: スポンサー/Patrons
+          url: sponsors
+          weight: 4
         - identifier: sponsors
+          parent: sponsors-group
           name: スポンサー
           url: sponsors
-          weight: 3
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Individual patrons
+          url: patrons
+          weight: 4
         - identifier: news
           name: ニュース
           url: news
@@ -166,9 +206,19 @@ languages:
           name: Sessions
           url: sessions
           weight: 3
+        - identifier: sponsors-group
+          name: Sponsors/Patrons
+          url: sponsors
+          weight: 4
         - identifier: sponsors
+          parent: sponsors-group
           name: Sponsors
           url: sponsors
+          weight: 4
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Individual patrons
+          url: patrons
           weight: 4
         - identifier: news
           name: News
