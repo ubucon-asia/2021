@@ -39,7 +39,7 @@ languages:
           name: 후원사
           url: sponsors
           weight: 4
-        - identifier: sponsors
+        - identifier: patrons
           parent: sponsors-group
           name: 개인 후원자
           url: patrons
@@ -83,7 +83,7 @@ languages:
           name: Sponsors
           url: sponsors
           weight: 4
-        - identifier: sponsors
+        - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
@@ -127,7 +127,7 @@ languages:
           name: Sponsors
           url: sponsors
           weight: 4
-        - identifier: sponsors
+        - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
@@ -171,7 +171,7 @@ languages:
           name: スポンサー
           url: sponsors
           weight: 4
-        - identifier: sponsors
+        - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
@@ -215,7 +215,7 @@ languages:
           name: Sponsors
           url: sponsors
           weight: 4
-        - identifier: sponsors
+        - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
