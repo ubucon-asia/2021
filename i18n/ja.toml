@@ -8,6 +8,8 @@ other = "すべてのセッション"
 other = "セッション詳細"
 [sponsors] 
 other = "スポンサー"
+[become_sponsor]
+other = "Become a sponsor"
 [more_sponsors]
 other = "スポンサー詳細"
 [about]

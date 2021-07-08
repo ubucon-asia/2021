@@ -8,6 +8,8 @@ other = "모든 세션"
 other = "다른 세션 더 보기"
 [sponsors] 
 other = "후원사"
+[become_sponsor]
+other = "후원사로 참여하기"
 [more_sponsors]
 other = "다른 후원사 더 보기"
 [about]
