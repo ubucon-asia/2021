@@ -119,17 +119,17 @@ languages:
           url: sessions
           weight: 3
         - identifier: sponsors-group
-          name: Sponsors/Patrons
+          name: Sponsor/Patron
           url: sponsors
           weight: 4
         - identifier: sponsors
           parent: sponsors-group
-          name: Sponsors
+          name: Sponsor
           url: sponsors
           weight: 4
         - identifier: patrons
           parent: sponsors-group
-          name: Individual patrons
+          name: Patron Individual
           url: patrons
           weight: 4
         - identifier: news
