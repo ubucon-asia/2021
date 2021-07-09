@@ -421,6 +421,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/patrons/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/patrons/"
                 />

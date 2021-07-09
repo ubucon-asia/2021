@@ -540,6 +540,23 @@
                 href="https://2021.ubucon.asia/id/hosts/openstack-id/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/id/patrons/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/patrons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/patrons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/patrons/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
