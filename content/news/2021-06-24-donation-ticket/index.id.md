@@ -1,5 +1,5 @@
 ---
-title: "Jadilah patron individual kami hari ini"
+title: "Jadilah Patron Individual Kami Hari Ini"
 date: 2021-06-24T00:20:21+09:00
 authors:
     - name: Youngbin Han
