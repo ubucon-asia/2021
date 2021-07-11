@@ -2,35 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2021.ubucon.asia/news/2021-06-30-cfp-extended-by-july-14/</loc>
-    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/2021-06-30-cfp-extended-by-july-14/"
-                />
+    <loc>https://2021.ubucon.asia/news/2021-07-11-double-check-proposal-submission/</loc>
+    <lastmod>2021-07-11T15:34:54+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/2021-06-30-cfp-extended-by-july-14/"
+                href="https://2021.ubucon.asia/ko/news/2021-07-11-double-check-proposal-submission/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://2021.ubucon.asia/news/2021-06-30-cfp-extended-by-july-14/"
+                href="https://2021.ubucon.asia/news/2021-07-11-double-check-proposal-submission/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/news/</loc>
-    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/"
-                />
+    <lastmod>2021-07-11T15:34:54+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,16 +44,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/</loc>
-    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/"
-                />
+    <lastmod>2021-07-11T15:34:54+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -74,6 +69,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://2021.ubucon.asia/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/news/2021-06-30-cfp-extended-by-july-14/</loc>
+    <lastmod>2021-06-30T08:31:29+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-06-30-cfp-extended-by-july-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-06-30-cfp-extended-by-july-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-06-30-cfp-extended-by-july-14/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/news/2021-06-24-donation-ticket/</loc>
