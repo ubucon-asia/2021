@@ -30,7 +30,7 @@ Untuk informasi Anda, lihat detail yang perlu Anda ketahui dari bawah sebelum me
 - Jika Anda memerlukan bantuan untuk mengirimkan proposal, (Apakah karena Anda menghadapi kesalahan dari sistem eventyay atau tidak yakin tentang konten proposal Anda) jangan ragu untuk menghubungi kapan saja!
 - Pertanyaan: content@ubucon.asia
 
-## Calling for video translation volunteers
+## Panggilan untuk Relawan Penerjemah Video
 
 - Pengiriman aplikasi hingga **14 Juli 2021 23:59 UTC+9**. Pemberitahuan hasil aplikasi akan diumumkan pada 30 Juli 2021
 - Bantu kami menerjemahkan sesi rekaman **non-Inggris** ke dalam **bahasa Inggris**
