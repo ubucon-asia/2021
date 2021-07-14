@@ -3,7 +3,7 @@ title: "발표 제안 마감 전 제출하신 발표 제안서를 다시 한번 
 date: 2021-07-11T15:34:54+09:00
 authors:
     - name: 한영빈
-      bio: Ubucon Asia 2021 조직위원회 구성원 / 우분투 한국 커뮤니티 - 고문 
+      bio: Ubucon Asia 2021 조직위원회 구성원 / 우분투 한국 커뮤니티 - 대표
       email: youngbin@ubuntu-kr.org
       launchpad: sukso96100
       github: sukso96100
