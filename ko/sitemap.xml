@@ -381,6 +381,18 @@
                 href="https://2021.ubucon.asia/ko/tags/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/ubuntu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/ubuntu/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/sponsors/ubuntu-kylin/</loc>
     <xhtml:link
                 rel="alternate"
