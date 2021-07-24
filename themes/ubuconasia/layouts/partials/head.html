@@ -13,6 +13,9 @@
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
 
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary_large_image" />
     {{ if .Params.group }}
 
     {{ $sponsor_class := "Sponsor" }}
@@ -38,10 +41,18 @@
     {{ $sponsor_class = i18n "partner_cm" }}
     {{end}}
 
+    <!-- OGP card -->
     <meta property="og:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubuCon_logo_or.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
+    <!-- Twitter card -->
+    <meta name="twitter:image"
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubuCon_logo_or.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
     {{ else }}
+    <!-- OGP card -->
     <meta property="og:image"
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+    <!-- Twitter card -->
+    <meta name="twitter:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
     {{ end }}
 
@@ -53,15 +64,6 @@
     <meta property="og:og:description"
         content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
 
-    <!-- Twitter card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    {{ if .Params.group }}
-    <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_or_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
-    {{ else }}
-    <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
-    {{ end }}
     <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta name="twitter:description" content="" />
 
