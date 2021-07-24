@@ -21,7 +21,7 @@ The Ubuntu desktop as we know is the world's most widely used Linux workstation 
 As the publisher of Ubuntu, the OS for most public cloud workloads to advanced robots, Canonical provides enterprise security, support, and services for commercial users of Ubuntu. Canonical is responsible for delivering six-monthly milestone releases and regular LTS releases for enterprise production use including the entire online infrastructure for community interaction. Enterprises count on Canonical to support, secure and manage Ubuntu infrastructure and devices.
 
 With joining **Ubucon Asia 2021**, Ubuntu and Canonical also helps and support community and its lifecycle to keep developing, collaborating, innovating, and contributing to open-source. 
-Please check and find out more about our Diamond Sponsor, Ubuntu [at here!](../sponsors/ubuntu/) 
-Want to become one of our sponsors? [Have a look at this page for details and instructions!](../sponsors/become-a-sponsor/)
+Please check and find out more about our Diamond Sponsor, Ubuntu [at here!](../../sponsors/ubuntu/) 
+Want to become one of our sponsors? [Have a look at this page for details and instructions!](../../sponsors/become-a-sponsor/)
 
 Don't forget to have reservation and come to Ubucon Asia 2021 on Sept 25th - 26th. See the registration https://eventyay.com/e/75ac7f83
