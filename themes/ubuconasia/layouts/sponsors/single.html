@@ -9,29 +9,44 @@
           <img src="{{.Params.photo}}" alt="" style="max-height: 150px; margin-bottom: 10px;" />
         
           <h2>{{.Title}}</h2>
-            <div class="p-chip">
+
+          {{ $sponsor_class_text := "Sponsor" }}
+          {{ $sponsor_class_color := "grey" }}
+          {{if eq .Params.group "diamond"}}
+            {{ $sponsor_class_text = i18n "diamond_sp" }}
+            {{ $sponsor_class_color = "#b9f2ff" }}
+          {{ else if eq .Params.group "gold"}}
+            {{ $sponsor_class_text = i18n "gold_sp" }}
+            {{ $sponsor_class_color = "gold" }}
+          {{ else if eq .Params.group "silver"}}
+            {{ $sponsor_class_text = i18n "silver_sp" }}
+            {{ $sponsor_class_color = "silver" }}
+          {{ else if eq .Params.group "bronze"}}
+            {{ $sponsor_class_color = "#9c5221" }}
+            {{ $sponsor_class_text = i18n "bronze_sp" }}
+          {{ else if eq .Params.group "supporter"}}
+            {{ $sponsor_class_text = i18n "supporter_sp" }}
+            {{ $sponsor_class_color = "#8ddd61" }}
+          {{ else if eq .Params.group "infra"}}
+            {{ $sponsor_class_text = i18n "infra_sp" }}
+            {{ $sponsor_class_color = "grey" }}
+          {{ else if eq .Params.group "record"}}
+            {{ $sponsor_class_text = i18n "record_sp" }}
+            {{ $sponsor_class_color = "grey" }}
+          {{ else if eq .Params.group "videoi18n"}}
+            {{ $sponsor_class_text = i18n "videoi18n_sp" }}
+            {{ $sponsor_class_color = "grey" }}
+          {{ else if eq .Params.group "swag"}}
+            {{ $sponsor_class_text = i18n "swag_sp" }}
+            {{ $sponsor_class_color = "grey" }}
+          {{else}}
+            {{ $sponsor_class_text = i18n "partner_cm" }}
+            {{ $sponsor_class_color = "#2887bb" }}
+          {{end}}
+
+            <div class="p-chip" style="background-color: {{$sponsor_class_color}};">
               <span class="p-chip__value">
-                {{if eq .Params.group "diamond"}}
-                {{ i18n "diamond_sp" }}
-                {{ else if eq .Params.group "gold"}}
-                {{ i18n "gold_sp" }}
-                {{ else if eq .Params.group "silver"}}
-                {{ i18n "silver_sp" }}
-                {{ else if eq .Params.group "bronze"}}
-                {{ i18n "bronze_sp" }}
-                {{ else if eq .Params.group "supporter"}}
-                {{ i18n "supporter_sp" }}
-                {{ else if eq .Params.group "infra"}}
-                {{ i18n "infra_sp" }}
-                {{ else if eq .Params.group "record"}}
-                {{ i18n "record_sp" }}
-                {{ else if eq .Params.group "videoi18n"}}
-                {{ i18n "videoi18n_sp" }}
-                {{ else if eq .Params.group "swag"}}
-                {{ i18n "swag_sp" }}
-                {{else}}
-                {{ i18n "partner_cm" }}
-                {{end}}
+               {{ $sponsor_class_text }}
               </span>
             </div>
           {{with .Params.region}}
