@@ -1,8 +1,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href='{{ "/css/vanilla.css" | relURL }}'/>
-    <link rel="stylesheet" href='{{ "/css/ubuconasia.css" | relURL }}'/>
+    <link rel="stylesheet" href='{{ "/css/vanilla.css" | relURL }}' />
+    <link rel="stylesheet" href='{{ "/css/ubuconasia.css" | relURL }}' />
     <link rel="apple-touch-icon" sizes="180x180" href='{{ "/images/favicon/apple-touch-icon.png" | relURL }}'>
     <link rel="icon" type="image/png" sizes="32x32" href='{{ "/images/favicon/favicon-32x32.png" | relURL }}'>
     <link rel="icon" type="image/png" sizes="16x16" href='{{ "/images/favicon/favicon-16x16.png" | relURL }}'>
@@ -14,10 +14,34 @@
     <meta property="og:site_name" content="{{ .Site.Title }}" />
 
     {{ if .Params.group }}
-    <meta property="og:image" 
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&logoimgurl={{"/images/ubuCon_logo_or_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
+
+    {{ $sponsor_class := "Sponsor" }}
+    {{if eq .Params.group "diamond"}}
+    {{ $sponsor_class = i18n "diamond_sp" }}
+    {{ else if eq .Params.group "gold"}}
+    {{ $sponsor_class = i18n "gold_sp" }}
+    {{ else if eq .Params.group "silver"}}
+    {{ $sponsor_class = i18n "silver_sp" }}
+    {{ else if eq .Params.group "bronze"}}
+    {{ $sponsor_class = i18n "bronze_sp" }}
+    {{ else if eq .Params.group "supporter"}}
+    {{ $sponsor_class = i18n "supporter_sp" }}
+    {{ else if eq .Params.group "infra"}}
+    {{ $sponsor_class = i18n "infra_sp" }}
+    {{ else if eq .Params.group "record"}}
+    {{ $sponsor_class = i18n "record_sp" }}
+    {{ else if eq .Params.group "videoi18n"}}
+    {{ $sponsor_class = i18n "videoi18n_sp" }}
+    {{ else if eq .Params.group "swag"}}
+    {{ $sponsor_class = i18n "swag_sp" }}
+    {{else}}
+    {{ $sponsor_class = i18n "partner_cm" }}
+    {{end}}
+
+    <meta property="og:image"
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubuCon_logo_or_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
     {{ else }}
-    <meta property="og:image" 
+    <meta property="og:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
     {{ end }}
 
@@ -26,10 +50,11 @@
     <!-- Description Meta  -->
     <meta name="description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
     <meta itemprop="description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
-    <meta property="og:og:description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+    <meta property="og:og:description"
+        content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
 
     <!-- Twitter card -->
-    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:card" content="summary_large_image" />
     {{ if .Params.group }}
     <meta name="twitter:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_or_square.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
@@ -37,12 +62,12 @@
     <meta name="twitter:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
     {{ end }}
-    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}"/>
-    <meta name="twitter:description" content=""/>
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="twitter:description" content="" />
 
     <!-- URL Meta  -->
-<!--    <base href="{{ .Permalink }}">-->
-    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+    <!--    <base href="{{ .Permalink }}">-->
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
     <meta name="url" content="{{ .Permalink }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
 
@@ -55,6 +80,7 @@
 
     <!-- Redirect to external website -->
     {{ if .Params.externalRedirect }}
-    <meta http-equiv="refresh" content="0; url={{.Params.externalRedirect}}"></meta>
+    <meta http-equiv="refresh" content="0; url={{.Params.externalRedirect}}">
+    </meta>
     {{ end }}
 </head>
