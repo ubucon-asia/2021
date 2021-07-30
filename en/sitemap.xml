@@ -6,6 +6,11 @@
     <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-07-30-speaker-schedules/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/news/2021-07-30-speaker-schedules/"
                 />
@@ -19,13 +24,13 @@
     <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/news/"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,13 +52,13 @@
     <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -616,6 +621,11 @@
     <loc>https://2021.ubucon.asia/sponsors/ubuntu/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/sponsors/ubuntu/"
                 />
@@ -771,6 +781,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/whatap-labs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/whatap-labs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/whatap-labs/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/wslhub/</loc>
     <xhtml:link

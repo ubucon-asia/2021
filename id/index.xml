@@ -6,7 +6,17 @@
     <description>Recent content on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 01:49:00 +0700</lastBuildDate><atom:link href="https://2021.ubucon.asia/id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 12:47:39 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Halo Pembicara UbuCon Asia!</title>
+      <link>https://2021.ubucon.asia/id/news/2021-07-30-speaker-schedules/</link>
+      <pubDate>Fri, 30 Jul 2021 12:47:39 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/news/2021-07-30-speaker-schedules/</guid>
+      <description>Halo para pembicara UbuCon Asia 2021! Sekali lagi terima kasih telah mengirimkan proposal Anda untuk UbuCon Asia pertama! Kami baru saja menyelesaikan peninjauan proposal dan sekarang menghubungi setiap orang untuk mengonfirmasi partisipasi pembicara.
+Konfirmasikan partisipasi Anda Jika proposal Anda diterima, kami akan mengirimkan surel kepada Anda untuk mengonfirmasi apakah Anda akan memberikan presentasi di acara tersebut. Anda juga dapat memeriksa eventyay untuk melihat apakah proposal Anda diterima. Untuk mengonfirmasi partisipasi pembicara Anda, cukup balas kami dan beri tahu kami bahwa Anda akan berpartisipasi sebagai pembicara.</description>
+    </item>
+    
     <item>
       <title>Terima Kasih Ubuntu sebagai Sponsor Berlian!</title>
       <link>https://2021.ubucon.asia/id/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/</link>
@@ -312,6 +322,15 @@ Ubucon Asia 2021, konferensi Ubuntu pertama di Asia akan menjadi konferensi virt
     </item>
     
     <item>
+      <title>Ubuntu</title>
+      <link>https://2021.ubucon.asia/id/sponsors/ubuntu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/sponsors/ubuntu/</guid>
+      <description>Canonical adalah penerbit Ubuntu, sistem operasi untuk sebagian besar workload cloud publik serta kategori yang muncul dari smart gateways, mobil swakemudi, dan robot canggih. Canonical menyediakan keamanan, dukungan, dan layanan perusahaan untuk pengguna komersial Ubuntu.</description>
+    </item>
+    
+    <item>
       <title>Ubuntu Kylin</title>
       <link>https://2021.ubucon.asia/id/sponsors/ubuntu-kylin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -337,6 +356,15 @@ Ubucon Asia 2021, konferensi Ubuntu pertama di Asia akan menjadi konferensi virt
       
       <guid>https://2021.ubucon.asia/id/sponsors/ubuntu-dde-remix/</guid>
       <description>UbuntuDDE Remix adalah distribusi GNU/Linux berbasis Ubuntu dengan lingkungan destop yang paling indah. Ini adalah varian remix dari destop Ubuntu dengan Deepin Desktop Environment (DDE). Rilis awal adalah 20,04 (Fokal) karena proyek dimulai selama gelombang pertama Covid 19. Ini belum merupakan varian resmi yang diakui oleh Canonical Ltd. tetapi jadwal rilis selaras erat dengan varian Ubuntu lainnya. Rilis terbaru UbuntuDDE Remix adalah 21.04 (Hirsute Hippo) yang diluncurkan pada April 2021.</description>
+    </item>
+    
+    <item>
+      <title>WhaTap Labs</title>
+      <link>https://2021.ubucon.asia/id/sponsors/whatap-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/sponsors/whatap-labs/</guid>
+      <description>WhaTap Labs menyediakan layanan pemantauan TI &amp;ldquo;WhaTap&amp;rdquo;. Kami membuat layanan TI lebih mudah dan lebih dapat diandalkan untuk pengembang dan operator.</description>
     </item>
     
     <item>

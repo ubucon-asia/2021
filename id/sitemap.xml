@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://2021.ubucon.asia/id/news/</loc>
-    <lastmod>2021-07-24T01:49:00+07:00</lastmod>
+    <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,26 +30,26 @@
                 href="https://2021.ubucon.asia/id/news/"
                 />
   </url><url>
-    <loc>https://2021.ubucon.asia/id/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/</loc>
-    <lastmod>2021-07-24T01:49:00+07:00</lastmod>
+    <loc>https://2021.ubucon.asia/id/news/2021-07-30-speaker-schedules/</loc>
+    <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://2021.ubucon.asia/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
+                href="https://2021.ubucon.asia/news/2021-07-30-speaker-schedules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://2021.ubucon.asia/ko/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
+                href="https://2021.ubucon.asia/ko/news/2021-07-30-speaker-schedules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://2021.ubucon.asia/id/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
+                href="https://2021.ubucon.asia/id/news/2021-07-30-speaker-schedules/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/</loc>
-    <lastmod>2021-07-24T01:49:00+07:00</lastmod>
+    <lastmod>2021-07-30T12:47:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +74,24 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/</loc>
+    <lastmod>2021-07-24T01:49:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/news/2021-07-24-ubuntu-joins-as-diamond-sponsor/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/news/2021-07-15-cfs-is-now-closed/</loc>
@@ -692,6 +710,23 @@
                 href="https://2021.ubucon.asia/id/about/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/ubuntu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/ubuntu/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/ubuntu-kylin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -741,6 +776,18 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/sponsors/ubuntu-dde-remix/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/sponsors/whatap-labs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/whatap-labs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/whatap-labs/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/sponsors/wslhub/</loc>
