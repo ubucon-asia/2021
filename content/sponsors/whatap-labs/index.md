@@ -7,7 +7,7 @@ github: "https://github.com/{}"
 facebook: https://www.facebook.com/whatap.io
 youtube: https://www.youtube.com/channel/UCLjXEb1IhLuw4GspxHGmQPA
 # cover: 
-brochure: brochure.pdf # path to brochure pdf file
+# brochure: brochure.pdf # path to brochure pdf file
 region: South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
