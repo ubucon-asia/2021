@@ -135,7 +135,7 @@ languages:
           url: hosts
           weight: 2
         - identifier: programs-group
-          name: Programs
+          name: Program
           url: programs
           weight: 3
         - identifier: sessions
@@ -145,7 +145,7 @@ languages:
           weight: 3
         - identifier: confirmed
           parent: programs-group
-          name: Confirmed sessions
+          name: Sesi yang Dikonfirmasi
           url: confirmed
           weight: 3
         - identifier: sponsors-group
