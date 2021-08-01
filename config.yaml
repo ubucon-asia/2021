@@ -37,7 +37,7 @@ languages:
           weight: 3
         - identifier: confirmed
           parent: programs-group
-          name: 최종 확정된 세션
+          name: 참여 확인된 세션
           url: confirmed
           weight: 3
         - identifier: sponsors-group
