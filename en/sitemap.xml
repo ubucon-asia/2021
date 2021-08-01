@@ -402,6 +402,18 @@
                 href="https://2021.ubucon.asia/categories/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/confirmed/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/confirmed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/confirmed/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/hosts/debian-malaysia/</loc>
     <xhtml:link
                 rel="alternate"
