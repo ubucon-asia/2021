@@ -11,6 +11,6 @@ with open(sys.argv[1], 'r', encoding="utf-8") as csvfile:
                 "donated_at": row[1]
             })
 output = json.dumps(json_out)
-with open('patrons.json', 'w') as f:
+with open('patrons.json', 'w', encoding="utf-8") as f:
     f.write(output)
 print("Done, Check out patrons.json")
