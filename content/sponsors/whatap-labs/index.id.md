@@ -8,8 +8,8 @@ facebook: https://www.facebook.com/whatap.io
 youtube: https://www.youtube.com/channel/UCLjXEb1IhLuw4GspxHGmQPA
 # cover: 
 # brochure: brochure.pdf # path to brochure pdf file
-region: South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
+region: Korea Selatan # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
-WhaTap Labs provides IT monitoring service "WhaTap".
-We make IT services easier and more reliable for developers and operators.
+WhaTap Labs menyediakan layanan pemantauan TI "WhaTap".
+Kami membuat layanan TI lebih mudah dan lebih dapat diandalkan untuk pengembang dan operator.
