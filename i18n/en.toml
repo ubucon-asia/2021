@@ -62,3 +62,11 @@ other = "Partner Communities"
 other = "Name"
 [donated_at]
 other = "Purchased donation ticket at"
+[type]
+other = "Type"
+[title]
+other = "Title"
+[language]
+other = "Language"
+[speakers]
+other = "Speakers"

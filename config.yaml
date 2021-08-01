@@ -26,9 +26,19 @@ languages:
           name: 주최
           url: hosts
           weight: 2
+        - identifier: programs-group
+          name: 프로그램
+          url: programs
+          weight: 3
         - identifier: sessions
+          parent: programs-group
           name: 세션
           url: sessions
+          weight: 3
+        - identifier: confirmed
+          parent: programs-group
+          name: 최종 확정된 세션
+          url: confirmed
           weight: 3
         - identifier: sponsors-group
           name: 후원사/개인후원
@@ -70,9 +80,19 @@ languages:
           name: Hosts
           url: hosts
           weight: 2
+        - identifier: programs-group
+          name: Programs
+          url: programs
+          weight: 3
         - identifier: sessions
+          parent: programs-group
           name: Sessions
           url: sessions
+          weight: 3
+        - identifier: confirmed
+          parent: programs-group
+          name: Confirmed sessions
+          url: confirmed
           weight: 3
         - identifier: sponsors-group
           name: Sponsors/Patrons
@@ -114,9 +134,19 @@ languages:
           name: Host
           url: hosts
           weight: 2
+        - identifier: programs-group
+          name: Programs
+          url: programs
+          weight: 3
         - identifier: sessions
+          parent: programs-group
           name: Sesi
           url: sessions
+          weight: 3
+        - identifier: confirmed
+          parent: programs-group
+          name: Confirmed sessions
+          url: confirmed
           weight: 3
         - identifier: sponsors-group
           name: Sponsor/Patron
@@ -158,10 +188,20 @@ languages:
           name: Hosts
           url: hosts
           weight: 2
+        - identifier: programs-group
+          name: Programs
+          url: programs
+          weight: 3
         - identifier: sessions
+          parent: programs-group
           name: セッション
           url: sessions
-          weight: 2
+          weight: 3
+        - identifier: confirmed
+          parent: programs-group
+          name: Confirmed sessions
+          url: confirmed
+          weight: 3
         - identifier: sponsors-group
           name: スポンサー/Patrons
           url: sponsors
@@ -202,9 +242,19 @@ languages:
           name: Hosts
           url: hosts
           weight: 2
+        - identifier: programs-group
+          name: Programs
+          url: programs
+          weight: 3
         - identifier: sessions
+          parent: programs-group
           name: Sessions
           url: sessions
+          weight: 3
+        - identifier: confirmed
+          parent: programs-group
+          name: Confirmed sessions
+          url: confirmed
           weight: 3
         - identifier: sponsors-group
           name: Sponsors/Patrons

@@ -62,3 +62,11 @@ other = "파트너 커뮤니티"
 other = "이름"
 [donated_at]
 other = "후원 티켓 구입 일시"
+[type]
+other = "유형"
+[title]
+other = "제목"
+[language]
+other = "언어"
+[speakers]
+other = "연사"

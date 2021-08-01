@@ -1,0 +1,38 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<main>
+    <section class="p-strip--accent">
+        <div class="row">
+            <h2>{{.Title}}</h2>
+        </div>
+    </section>
+    <section class="p-strip">
+        <div class="row">
+            {{ .Content }}
+            <table aria-label="Example of formatting in the table">
+                <thead>
+                  <tr>
+                    <th>{{ i18n "type" }}</th>
+                    <th>{{ i18n "title" }}</th>
+                    <th>{{ i18n "language" }}</th>
+                    <th>{{ i18n "speakers" }}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                    {{ range .Site.Data.confirmed_sessions }}
+                  <tr>
+                    <td>{{.type}}</td>
+                    <th>{{.title}}</th>
+                    <td>{{.lang}}</td>
+                    <td>{{.speakers}}</td>
+                  </tr>
+                  {{ end }}
+                </tbody>
+              </table>
+        
+        </div>
+    </section>
+</main>
+
+{{end}}
