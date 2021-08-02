@@ -62,3 +62,11 @@ other = "Mitra Komunitas"
 other = "Nama"
 [donated_at]
 other = "Membeli tiket donasi di"
+[type]
+other = "Jenis"
+[title]
+other = "Judul"
+[language]
+other = "Bahasa"
+[speakers]
+other = "Pembicara"
