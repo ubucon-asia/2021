@@ -405,6 +405,11 @@
     <loc>https://2021.ubucon.asia/confirmed/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/confirmed/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://2021.ubucon.asia/ko/confirmed/"
                 />
