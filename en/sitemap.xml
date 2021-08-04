@@ -403,6 +403,16 @@
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/sponsors/cloudmate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sponsors/cloudmate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/cloudmate/"
+                />
   </url><url>
     <loc>https://2021.ubucon.asia/confirmed/</loc>
     <xhtml:link
