@@ -7,6 +7,6 @@ Anda juga dapat memeriksa apakah proposal Anda diterima di [situs web eventyay](
 
 Jika proposal Anda diterima, **Anda perlu mengkonfirmasi partisipasi Anda untuk memberikan presentasi Anda di acara tersebut.** Untuk melakukannya, Cukup kirim balasan ke surel notifikasi CFP yang dikirim dari sistem eventyay. Setelah partisipasi Anda dikonfirmasi, [silakan tinjau jadwal pembicara, dan mulailah mempersiapkan presentasi Anda segera.](../news/2021-07-30-speaker-schedules/)
 
-> If you found your session was accepted, but can't find CFP notification mail from your inbox, You may just contact content@ubucon.asia to confirm your speaker participation. In this case let us know your name and title of the session.
+> Jika Anda menemukan bahwa sesi Anda diterima, tetapi tidak dapat menemukan surel pemberitahuan CFP di kotak masuk Anda, Anda dapat menghubungi content@ubucon.asia untuk mengonfirmasi partisipasi pembicara Anda. Dalam hal ini, beri tahu kami nama dan judul sesi Anda.
 
 > Daftar sesi yang dikonfirmasi akan terus diperbarui hingga jadwal acara final dipublikasikan.

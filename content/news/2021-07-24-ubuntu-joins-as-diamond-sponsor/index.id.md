@@ -1,5 +1,5 @@
 ---
-title: "Terima Kasih Ubuntu sebagai Sponsor Berlian!"
+title: "Terima Kasih Ubuntu Sebagai Sponsor Berlian!"
 date: 2021-07-24T01:49:00+07:00
 authors:
     - name: Sartika Lestari
