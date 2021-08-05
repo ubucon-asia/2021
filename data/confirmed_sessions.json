@@ -120,6 +120,12 @@
         "lang": "English"
     },
     {
+        "title": "Ubuntu OS & Service patch management using Ansible (confirmed)",
+        "speakers": "Doni Kuswara",
+        "type": "Talk",
+        "lang": "Indonesian"
+    },
+    {
         "title": "Using kexec to speed-up reboot (confirmed)",
         "speakers": "Juhyung Park",
         "type": "Lightning Talk",
