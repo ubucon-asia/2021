@@ -144,7 +144,7 @@
         "lang": "English"
     },
     {
-        "title": "Mengetik Asara Pegon dengan Ubuntu 20.04.2 (confirmed)",
+        "title": "Mengetik Aksara Pegon dengan Ubuntu 20.04.2 (confirmed)",
         "speakers": "Faiq Aminuddin",
         "type": "Lightning Talk",
         "lang": "Indonesian"
@@ -154,6 +154,12 @@
         "speakers": "Nur Rahman",
         "type": "Talk",
         "lang": "English"
+    },
+    {
+        "title": "UKUI3 Technology Sharing In Tablet Mode (confirmed)",
+        "speakers": "zhang chao",
+        "type": "Talk",
+        "lang": "Chinese"
     },
     {
         "title": "Don't Judge A Book by Its Cover: Contributing to Open Source Communities with Graphic Design (confirmed)",
