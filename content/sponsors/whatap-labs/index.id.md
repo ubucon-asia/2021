@@ -6,7 +6,7 @@ website: "https://www.whatap.io/en/"
 github: "https://github.com/{}"
 facebook: https://www.facebook.com/whatap.io
 youtube: https://www.youtube.com/channel/UCLjXEb1IhLuw4GspxHGmQPA
-# cover: 
+cover: cover.png
 # brochure: brochure.pdf # path to brochure pdf file
 region: Korea Selatan # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
