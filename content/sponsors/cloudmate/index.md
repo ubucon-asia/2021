@@ -7,7 +7,7 @@ github: "https://github.com/cloudmatelabs"
 facebook: "https://www.facebook.com/cloudmatekr"
 youtube: "https://www.youtube.com/channel/UCidxBUgJUSPc-YYrTfX4vIg"
 cover: cover.jpg
-# brochure: brochure.pdf # path to brochure pdf file
+brochure: brochure.pdf # path to brochure pdf file
 region: Seoul, South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
