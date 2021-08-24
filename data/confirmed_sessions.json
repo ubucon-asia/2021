@@ -178,5 +178,17 @@
         "speakers": "Byongseung Cho / \uc870\ubcd1\uc2b9",
         "type": "Lightning Talk",
         "lang": "Korean"
+    },
+    {
+        "title": "Keynote - Flutter for Linux (confirmed)",
+        "speakers": "Ken VanDine; Ken VanDine",
+        "type": "Extended Talk",
+        "lang": "English"
+    },
+    {
+        "title": "CI/CD with Snap package deployment (confirmed)",
+        "speakers": "Taiten Peng",
+        "type": "Workshop 2 Hour",
+        "lang": "English"
     }
 ]
