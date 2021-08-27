@@ -1,7 +1,7 @@
 ---
 title: "Menjadi Sponsor"
 photo: "placeholder.png"
-group: gold
+group: bronze
 website: "https://ubucon-asia.github.io/2021/"
 brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
 ---
