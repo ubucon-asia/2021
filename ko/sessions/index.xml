@@ -5,16 +5,6 @@
     <link>https://2021.ubucon.asia/ko/sessions/</link>
     <description>Recent content in 세션 on 우부콘 아시아 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/ko/sessions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>*아직 세션 없음</title>
-      <link>https://2021.ubucon.asia/ko/sessions/no-sessions-yet/</link>
-      <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <guid>https://2021.ubucon.asia/ko/sessions/no-sessions-yet/</guid>
-      <description>아직 연사 모집 일정과 세션 프로그램 정보가 없습니다. 연사 모집 일정과 세션 프로그램이 정해지면 본 웹사이트에 업데이트 될 예정입니다.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://2021.ubucon.asia/ko/sessions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

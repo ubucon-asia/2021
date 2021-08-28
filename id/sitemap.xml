@@ -256,57 +256,6 @@
                 href="https://2021.ubucon.asia/id/news/2021-04-21-some-updates/"
                 />
   </url><url>
-    <loc>https://2021.ubucon.asia/id/sessions/no-sessions-yet/</loc>
-    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/sessions/no-sessions-yet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/sessions/no-sessions-yet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://2021.ubucon.asia/ja/sessions/no-sessions-yet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/sessions/no-sessions-yet/"
-                />
-  </url><url>
-    <loc>https://2021.ubucon.asia/id/sessions/</loc>
-    <lastmod>2021-01-09T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2021.ubucon.asia/sessions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2021.ubucon.asia/ko/sessions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2021.ubucon.asia/zh-hant-tw/sessions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://2021.ubucon.asia/ja/sessions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2021.ubucon.asia/id/sessions/"
-                />
-  </url><url>
     <loc>https://2021.ubucon.asia/id/news/2021-01-07-looking-for-organizers/</loc>
     <lastmod>2021-01-07T01:00:00+09:00</lastmod>
     <xhtml:link
@@ -657,6 +606,33 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://2021.ubucon.asia/id/patrons/"
+                />
+  </url><url>
+    <loc>https://2021.ubucon.asia/id/sessions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2021.ubucon.asia/zh-hant-tw/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://2021.ubucon.asia/ja/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://2021.ubucon.asia/id/sessions/"
                 />
   </url><url>
     <loc>https://2021.ubucon.asia/id/confirmed/</loc>

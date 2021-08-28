@@ -51,15 +51,19 @@
     
     <link rel="alternate" hreflang="id" href="https://2021.ubucon.asia/id/sessions/" title="Bahasa Indonesia">
     
-    <link rel="alternate" hreflang="ko" href="https://2021.ubucon.asia/ko/sessions/" title="한국어">
-    
     <link rel="alternate" hreflang="zh-hant-tw" href="https://2021.ubucon.asia/zh-hant-tw/sessions/" title="正體中文(臺灣)">
+    
+    <link rel="alternate" hreflang="ko" href="https://2021.ubucon.asia/ko/sessions/" title="한국어">
     
     <link rel="alternate" hreflang="ja" href="https://2021.ubucon.asia/ja/sessions/" title="日本語">
     
 
     
     
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.js"></script>
 </head><body><header id="navigation" class="p-navigation">
   <div class="p-navigation__row">
     <div class="p-navigation__banner">
@@ -158,11 +162,11 @@
             </li>
             
             <li>
-              <a href="https://2021.ubucon.asia/ko/sessions/" class="p-subnav__item">한국어</a>
+              <a href="https://2021.ubucon.asia/zh-hant-tw/sessions/" class="p-subnav__item">正體中文(臺灣)</a>
             </li>
             
             <li>
-              <a href="https://2021.ubucon.asia/zh-hant-tw/sessions/" class="p-subnav__item">正體中文(臺灣)</a>
+              <a href="https://2021.ubucon.asia/ko/sessions/" class="p-subnav__item">한국어</a>
             </li>
             
             <li>
@@ -185,52 +189,47 @@
     </div>
   </section>
   <section class="p-strip">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
     <div class="row">
-      <nav class="p-tabs" aria-label="Example tabs navigation" style="position:sticky; top:0px; background: white;">
-        <ul class="p-tabs__list" role="tablist">
-          
-          <li class="p-tabs__item" role="presentation">
-            <a href="#2021-01-09" class="p-tabs__link" role="tab" aria-controls="section1">2021-01-09</a>
-          </li>
-          
-        </ul>
-      </nav>
-      
-      <h3 id="2021-01-09">2021-01-09</h3>
-      
-      <h4>10:00 &#43;0900</h4>
-      
-      <div class="p-card col-6">
-        <a href="/ja/sessions/no-sessions-yet/">
-          <h3>*セッションはありません</h3>
-        </a>
-        <ul class="p-inline-list--middot">
-          
-          <li class="p-inline-list__item">
-            N/A
-          </li>
-          
-        </ul>
-        <div class="p-label--new">Track 0</div>
-      </div>
-      
-      
-      
+      <div id="calendar" style="height: 800px;"></div>
     </div>
   </section>
 </main>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      
+      initialView: 'timeGridDay',
+      initialDate: '2021-09-25',
+      slotDuration: '00:05:00',
+      slotMinTime: '13:00:00+09:00',
+      validRange: {
+        start: '2021-09-25',
+        end: '2021-09-27'
+      },
+      eventClick: function(info) {
+        window.location = info.event.url;
+      },
+      events: [
+        
+        
+        
+      ]
+    });
+    calendar.render();
+  });
+</script>
 
         </div><div class="p-strip--accent">
   <div class="row">

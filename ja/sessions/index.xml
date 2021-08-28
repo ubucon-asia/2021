@@ -5,16 +5,6 @@
     <link>https://2021.ubucon.asia/ja/sessions/</link>
     <description>Recent content in セッション on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/ja/sessions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>*セッションはありません</title>
-      <link>https://2021.ubucon.asia/ja/sessions/no-sessions-yet/</link>
-      <pubDate>Sat, 09 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <guid>https://2021.ubucon.asia/ja/sessions/no-sessions-yet/</guid>
-      <description>現在、予定されているセッションや発表者の募集はありません。 セッション情報やCFPについては後日、お知らせします。</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://2021.ubucon.asia/ja/sessions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

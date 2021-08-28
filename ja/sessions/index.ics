@@ -3,20 +3,4 @@ VERSION:2.0
 PRODID:-//Ubucon Asia 2021//セッションスケジュール カレンダー//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-BEGIN:VEVENT
-ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="N/A";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
-SUMMARY:*セッションはありません
-UID:20210109T010000@2021.asia.ubucon.org
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20210109T010000Z
-DTSTART:20210109T010000
-DTEND:20210109T010000
-LOCATION:Ubucon Asia 2021 - Track 0
-DESCRIPTION:<p>現在、予定されているセッションや発表者の募集はありません。
-セッション情報やCFPについては後日、お知らせします。</p>
-
-URL:https://2021.ubucon.asia/ja/sessions/no-sessions-yet/
-END:VEVENT
 END:VCALENDAR
