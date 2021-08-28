@@ -17,13 +17,12 @@
     </div>
   </section>
 </main>
+{{ $pages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $pages = $pages | lang.Merge .Site.Pages }}
+{{ end }}
+{{ $pages = (where $pages "Section" "sessions") }}
 <script>
-   {{ $pages := .Pages }}
-    {{ range .Site.Home.Translations }}
-    {{ $pages = $pages | lang.Merge .Pages }}
-    {{ end }}
-    {{ $pages = (where $pages "Section" "sessions") }}
-
   document.addEventListener('DOMContentLoaded', function () {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -31,7 +30,7 @@
       initialView: 'timeGridDay',
       initialDate: '2021-09-25',
       slotDuration: '00:05:00',
-      slotMinTime: '12:00:00+09:00',
+      slotMinTime: '13:00:00+09:00',
       validRange: {
         start: '2021-09-25',
         end: '2021-09-27'
@@ -41,12 +40,14 @@
       },
       events: [
         {{ range $pages }}
+        {{ if .Params.speakers }}
           {
             title: '{{.Title}} - {{range .Params.speakers}}{{.name}}; {{end}}',
             start: '{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}',
             end: '{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}',
             url: '{{.RelPermalink}}'
           },
+        {{ end }}
         {{ end }}
       ]
     });
