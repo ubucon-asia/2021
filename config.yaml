@@ -294,5 +294,9 @@ params:
   registerURLs:
     attendee: https://eventyay.com/e/75ac7f83
     callForSpeakers: /cfs
+  timetable:
+    dateStart: 2021-09-25
+    dateEnd: 2021-09-27
+    timeStart: 13:00:00+09:00
 outputs:
   section: ["HTML", "RSS", "Calendar"]
