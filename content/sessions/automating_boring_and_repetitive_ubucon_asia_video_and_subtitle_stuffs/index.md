@@ -1,0 +1,20 @@
+---
+title: >
+    Automating boring and repetitive UbuCon Asia video and subtitle stuffs 
+date: 2021-09-26T14:15:00+09:00
+end: 2021-09-26T14:45:00+09:00
+track: 0
+featured: false # If it's true. This session will appear on main page.
+speakers: # Speaker info
+    - name: Youngbin Han
+      bio: 
+      email: sukso96100@gmail.com # Email
+      launchpad: # link to launchpad.net profile
+      github: # link to github profile
+      profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
+      linkurl: # Other website link url
+      linklabel: # Label for linkurl
+---
+Whether it's online or offline event, There's always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them.UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it's first event we don't even know if we can gather enough volunteers or gain sponsorship to hire some workers.So, We decided to use some automation tools like CI/CD, Speech to text, Translation API, Video cover rendering template and so on to automate these boring job as much as possible and reduce cost at the same time.In this session, I would like to share how we did this and what we've learned while trying to automate stuffs.
+
+
