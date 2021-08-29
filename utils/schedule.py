@@ -17,7 +17,7 @@ title: >
     {}
 date: {}
 end: {}
-track: 0
+room: 0
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: {}

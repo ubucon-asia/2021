@@ -2,7 +2,7 @@
 title: "Session title"
 date: {{ .Date }}
 end: {{ .Date }}
-track: 0 # Track No.
+room: 0 # Room No.
 featured: true # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: N/A # Name

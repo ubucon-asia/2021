@@ -3,7 +3,7 @@ title: >
     Web Hosting Server using Ubuntu and Cyberpanel 
 date: 2021-09-26T15:45:00+09:00
 end: 2021-09-26T16:15:00+09:00
-track: 0
+room: 0
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Darian Rizaludin

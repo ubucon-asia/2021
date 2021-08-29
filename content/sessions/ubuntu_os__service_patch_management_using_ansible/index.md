@@ -3,7 +3,7 @@ title: >
     Ubuntu OS & Service patch management using Ansible 
 date: 2021-09-26T15:15:00+09:00
 end: 2021-09-26T15:45:00+09:00
-track: 0
+room: 0
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Doni Kuswara

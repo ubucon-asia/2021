@@ -3,7 +3,7 @@ title: >
     Engaging new l10n contributors through Open Source Contributhon 
 date: 2021-09-25T17:45:00+09:00
 end: 2021-09-25T18:30:00+09:00
-track: 0
+room: 0
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Youngbin Han; Bokmi Han(한복미); Joowon Jung

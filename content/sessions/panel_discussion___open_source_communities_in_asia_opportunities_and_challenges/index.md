@@ -3,7 +3,7 @@ title: >
     Panel Discussion - Open Source Communities in Asia: Opportunities and Challenges  
 date: 2021-09-25T18:30:00+09:00
 end: 2021-09-25T19:25:00+09:00
-track: 0
+room: 0
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Hong Phuc Dang
