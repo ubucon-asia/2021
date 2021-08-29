@@ -27,13 +27,14 @@
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
       // initialView: 'listDay',
+      locale: '{{ .Site.Language.Lang }}',
       initialView: 'timeGridDay',
-      initialDate: '2021-09-25',
+      initialDate: '{{ .Site.Params.timetable.dateStart }}',
       slotDuration: '00:05:00',
-      slotMinTime: '13:00:00+09:00',
+      slotMinTime: '{{ .Site.Params.timetable.timeStart }}',
       validRange: {
-        start: '2021-09-25',
-        end: '2021-09-27'
+        start: '{{ .Site.Params.timetable.dateStart }}',
+        end: '{{ .Site.Params.timetable.dateEnd }}'
       },
       eventClick: function(info) {
         window.location = info.event.url;
