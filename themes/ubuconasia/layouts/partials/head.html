@@ -47,6 +47,19 @@
     <!-- Twitter card -->
     <meta name="twitter:image"
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
+    {{ else if .Params.speakers }}
+
+    {{$speaker0 := index .Params.speakers 0}}
+    {{$speaker1 := index .Params.speakers 1}}
+    {{$speaker2 := index .Params.speakers 2}}
+    {{$permalink := .Permalink}}
+
+    <!-- OGP card -->
+    <meta property="og:image"
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}{{with $speaker0.profile }}&imgurl1={{ $permalink }}{{ . }}{{end}}{{with $speaker1.profile }}&imgurl2={{ $permalink }}{{ . }}{{end}}{{with $speaker2.profile }}&imgurl3={{ $permalink }}{{ . }}{{end}}' />
+    <!-- Twitter card -->
+    <meta name="twitter:image"
+        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}{{with $speaker0.profile }}&imgurl1={{ $permalink }}{{ . }}{{end}}{{with $speaker1.profile }}&imgurl2={{ $permalink }}{{ . }}{{end}}{{with $speaker2.profile }}&imgurl3={{ $permalink }}{{ . }}{{end}}' />
     {{ else }}
     <!-- OGP card -->
     <meta property="og:image"
