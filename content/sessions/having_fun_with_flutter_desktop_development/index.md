@@ -11,7 +11,7 @@ speakers: # Speaker info
       email: rwachol+ubuntucon@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github: https://github.com/charafau # link to github profile
-      profile: profiel.jpg # Speaker photo
+      profile: profile.jpg # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
