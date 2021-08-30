@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href='/css/vanilla.css' />
+    <link rel="stylesheet" href='/css/ubuconasia.css' />
+    <link rel="apple-touch-icon" sizes="180x180" href='/images/favicon/apple-touch-icon.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='/images/favicon/favicon-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='/images/favicon/favicon-16x16.png'>
+
+    
+    <title itemprop="name">Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+ | Ubucon Asia 2021</title>
+    <meta itemprop="name" content="Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+ | Ubucon Asia 2021" />
+    <meta property="og:title" content="Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+ | Ubucon Asia 2021" />
+    <meta property="og:site_name" content="Ubucon Asia 2021" />
+
+
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    
+    
+    <meta property="og:image"
+        content='https://srvogimg.youngbin.xyz/basic?text=Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+&imgurl=https://2021.ubucon.asia/images/ubuCon_logo_wh.png' />
+    
+    <meta name="twitter:image"
+        content='https://srvogimg.youngbin.xyz/basic?text=Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+&imgurl=https://2021.ubucon.asia/images/ubuCon_logo_wh.png' />
+    
+
+
+
+    
+    <meta name="description" content="Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.How to treat SD cards." />
+    <meta itemprop="description" content="Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.How to treat SD cards." />
+    <meta property="og:og:description"
+        content="Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.How to treat SD cards." />
+
+    <meta name="twitter:title" content="Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+ | Ubucon Asia 2021" />
+    <meta name="twitter:description" content="" />
+
+    
+    
+    <link rel="canonical" href="https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/" itemprop="url" />
+    <meta name="url" content="https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/" />
+    <meta property="og:url" content="https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/" />
+
+    
+    <meta property="og:locale" content="en">
+    <meta name="language" content="English">
+    
+    <link rel="alternate" hreflang="en" href="https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/" title="English">
+    
+
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.js"></script>
+</head><body><header id="navigation" class="p-navigation">
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__item" href="/">
+          <img class="p-navigation__image" src='/images/ubuCon_logo_or.png' alt="Ubucon Asia 2021">
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" aria-label="Example main navigation">
+      <span class="u-off-screen">
+        <a href="#main-content">Jump to main content</a>
+      </span>
+      <ul class="p-navigation__items">
+        
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="/about">About</a>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="/hosts">Hosts</a>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item p-subnav" id="link-programs-group">
+            <a class="p-subnav__toggle p-navigation__link" aria-controls="programs-group-menu">
+              Programs
+            </a>
+            <ul class="p-subnav__items--right" id="programs-group-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/confirmed" class="p-subnav__item">Confirmed sessions</a>
+              </li>
+              
+              <li>
+                <a href="/sessions" class="p-subnav__item">Sessions</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item p-subnav" id="link-sponsors-group">
+            <a class="p-subnav__toggle p-navigation__link" aria-controls="sponsors-group-menu">
+              Sponsors/Patrons
+            </a>
+            <ul class="p-subnav__items--right" id="sponsors-group-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/patrons" class="p-subnav__item">Individual patrons</a>
+              </li>
+              
+              <li>
+                <a href="/sponsors" class="p-subnav__item">Sponsors</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="/news">News</a>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="https://wiki.ubuntu.com/UbuconAsia/2021">Wiki</a>
+          </li>
+          
+        
+      </ul>
+      <ul class="p-navigation__items">
+        <li class="p-navigation__item p-subnav" id="link-4">
+          <a class="p-subnav__toggle p-navigation__link" aria-controls="account-menu">
+            🌏
+          </a>
+          <ul class="p-subnav__items--right" id="account-menu" aria-hidden="true">
+            
+            
+            <li>
+              <a href="https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/" class="p-subnav__item">📄 English</a>
+            </li>
+            
+            
+            <li>
+              <a href="https://2021.ubucon.asia/" class="p-subnav__item">🏠 English</a>
+            </li>
+            
+            <li>
+              <a href="https://2021.ubucon.asia/id/" class="p-subnav__item">🏠 Bahasa Indonesia</a>
+            </li>
+            
+            <li>
+              <a href="https://2021.ubucon.asia/ko/" class="p-subnav__item">🏠 한국어</a>
+            </li>
+            
+            <li>
+              <a href="https://2021.ubucon.asia/zh-hant-tw/" class="p-subnav__item">🏠 正體中文(臺灣)</a>
+            </li>
+            
+            <li>
+              <a href="https://2021.ubucon.asia/ja/" class="p-subnav__item">🏠 日本語</a>
+            </li>
+            
+            
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header><div id="content">
+<main>
+    <section class="p-strip--accent">
+        <div class="row">
+            <b>Sessions</b>
+            <h2>Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+</h2>
+            <p>2021-09-25 03:15 &#43;0900</p>
+            <div>
+              <div class="p-label--new">Room 0</div>
+            </div>
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          <p>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.<em>How to treat SD cards.<em>How to hack UEFI to optimize PC</em>Games on Ubuntu Desktop</em>Ubuntu Desktop and Raspberry Pi and more</p>
+
+          <hr/>
+          
+          <div class="p-media-object">
+            
+              <img src="/sessions/%3csession-item-dir%3e/%3cphoto-file%3e" class="p-media-object__image is-round" alt="">
+            
+            <div class="p-media-object__details">
+              <a href="mailto:masafumi@pid0.org">
+                <h3 class="p-media-object__title">
+                  Masafumi Ohta
+                </h3>
+              </a>
+              <p class="p-media-object__content"></p>
+              <p class="p-media-object__content">
+                
+                
+                <a href=""> </a>
+              </p>
+            </div>
+          </div>
+          
+          <a href='https://2021.ubucon.asia/sessions/'><button>More sessions</button></a>
+        </div>
+      </section>
+</main>
+
+
+        </div><div class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+      <h3>Ubucon Asia 2021</h3>
+      <ul class="p-inline-list--middot">
+        <li class="p-inline-list__item"><a class="p-link--inverted" href="mailto:contact@ubucon.asia">Contact us (Email)</a></li>
+        <li class="p-inline-list__item"><a class="p-link--inverted" href="https://fb.me/ubuconasia">Facebook</a></li>
+        <li class="p-inline-list__item"><a class="p-link--inverted" href="https://twitter.com/ubuconasia">Twitter</a></li>
+        <li class="p-inline-list__item"><a class="p-link--inverted" href="https://github.com/ubucon-asia">GitHub</a></li>
+        <li class="p-inline-list__item"><a class="p-link--inverted" href="https://www.ubucon.asia">Ubucon Asia in other years</a></li>
+      </ul>
+      <p>© 2021 Ubucon Asia 2021 Website authors. Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0.  Ubuntu and Canonical are registered trademarks of Canonical Ltd.</p>
+      <p><a class="p-link--inverted" href="https://github.com/ubucon-asia/2021">Source code on GitHub</a></p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src='/js/ubuconasia.js'></script></body>
+</html>

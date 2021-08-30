@@ -5,6 +5,373 @@
     <link>https://2021.ubucon.asia/sessions/</link>
     <description>Recent content in Sessions on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2021.ubucon.asia/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 19:45:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME.Asia Summit 2021 
+</title>
+      <link>https://2021.ubucon.asia/sessions/gnomeasia_summit_2021/</link>
+      <pubDate>Sun, 26 Sep 2021 19:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/gnomeasia_summit_2021/</guid>
+      <description>GNOME.Asia Summit 2021 hosted by Malaysia people will be on upcoming November! Learn some details about the event on this short session!</description>
+    </item>
+    
+    <item>
+      <title>UKUI3 Technology Sharing In Tablet Mode 
+</title>
+      <link>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</link>
+      <pubDate>Sun, 26 Sep 2021 19:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</guid>
+      <description>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&amp;rsquo;s experience and achievements in how to add support for tablet form and its future planning.</description>
+    </item>
+    
+    <item>
+      <title>Developing Integration Test with WSL APIs 
+</title>
+      <link>https://2021.ubucon.asia/sessions/developing_integration_test_with_wsl_apis/</link>
+      <pubDate>Sun, 26 Sep 2021 18:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/developing_integration_test_with_wsl_apis/</guid>
+      <description>This session delivers how you can develop your own integration-test environment build tool with the WSL SDK project. WSL SDK project is an open-source project that provides versatile and robust WSL management APIs without any restrictions.Also, I will share how I overcame technical hurdles with this project. If you are interested in the Win32 native programming aspect, you may obtain some insights from my talk.</description>
+    </item>
+    
+    <item>
+      <title>Getting Closer with Kelompok Linux Arek Suroboyo and Buaya Linux Repository Server 
+</title>
+      <link>https://2021.ubucon.asia/sessions/getting_closer_with_kelompok_linux_arek_suroboyo_and_buaya_linux_repository_server/</link>
+      <pubDate>Sun, 26 Sep 2021 18:30:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/getting_closer_with_kelompok_linux_arek_suroboyo_and_buaya_linux_repository_server/</guid>
+      <description>Kelompok Linux Arek Suroboyo is a community of Linux users based in Surabaya. This community was formed in 1995 by a group of information technology activists in Surabaya. Because of concern for open source software products in Surabaya. In its development, many ups and downs occurred in the community camp as well as on the way to introducing the city of Surabaya to information and communication technology in the field of open-source software.</description>
+    </item>
+    
+    <item>
+      <title>Having fun with Flutter Desktop development 
+</title>
+      <link>https://2021.ubucon.asia/sessions/having_fun_with_flutter_desktop_development/</link>
+      <pubDate>Sun, 26 Sep 2021 18:00:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/having_fun_with_flutter_desktop_development/</guid>
+      <description>Google and Canonical annouced Flutter support for Linux recently but have you wondered what exactly is Flutter? Why is it everywhere lately? Where can it run and is it easy to write apps in it? If you want to know more what is possible with Flutter and how it differs from other UI frameworks, join this session.</description>
+    </item>
+    
+    <item>
+      <title>OEM metapackages &amp; Concourse CI 
+</title>
+      <link>https://2021.ubucon.asia/sessions/oem_metapackages__concourse_ci/</link>
+      <pubDate>Sun, 26 Sep 2021 17:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/oem_metapackages__concourse_ci/</guid>
+      <description>What are OEM metapackages?What is Concourse CI?How to use Concourse CI on OEM metapackages?
+https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
+    </item>
+    
+    <item>
+      <title>Private Lab Virtualization Using Multipass and Deploy Apps web-based on Ubuntu Server. 
+</title>
+      <link>https://2021.ubucon.asia/sessions/private_lab_virtualization_using_multipass_and_deploy_apps_web_based_on_ubuntu_server/</link>
+      <pubDate>Sun, 26 Sep 2021 17:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/private_lab_virtualization_using_multipass_and_deploy_apps_web_based_on_ubuntu_server/</guid>
+      <description>Introduction:Multipass is a virtualization product from Ubuntu that we can use to create a virtual machine and support cloud-init like in a public cloud. Multipass can be run in a local environment for free and is very suitable for development.Here are some discussion points:- Reasons to use Multipass- Advantages and Disadvantages of Multipass- How to install Multipass- How to use Multipass and basic commands in Multipass- Basic Cloud-init- Install web-based applications demonstration on VMs Multipass- Additional material on Multipass integration</description>
+    </item>
+    
+    <item>
+      <title>The challenge of Using LibreOffice &amp; Building Local Community in Korea 
+</title>
+      <link>https://2021.ubucon.asia/sessions/the_challenge_of_using_libreoffice__building_local_community_in_korea/</link>
+      <pubDate>Sun, 26 Sep 2021 17:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/the_challenge_of_using_libreoffice__building_local_community_in_korea/</guid>
+      <description>In South Korea, Both HWPML(file format: hwp) and ODF are a Document format standard as a public sector. The Republic of Korea government adopted OpenDocument as a part of Korean Industrial Standards KS X ISO/IEC 26300 in 2007.However, In South Korea&amp;rsquo;s academic field, the public &amp;amp; private sector, It is still using HWP as a document standard. They are still made and distributed in .hwp format. I&amp;rsquo;m a Full-time worker(Developer) &amp;amp; University student in Korea.</description>
+    </item>
+    
+    <item>
+      <title>Mengetik Aksara Pegon dengan Ubuntu 20.04.2 
+</title>
+      <link>https://2021.ubucon.asia/sessions/mengetik_aksara_pegon_dengan_ubuntu_20042/</link>
+      <pubDate>Sun, 26 Sep 2021 17:10:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/mengetik_aksara_pegon_dengan_ubuntu_20042/</guid>
+      <description>Menurut wikipedia, Pegon is an Arabic script used to write the Javanese, Madurese and Sundanese languages, as an alternative to the Latin script or the Javanese script.Pada Ubuntu 20.04.2 belum tersedia Keyboard Pegon. Pegon merupakan penulisan abjad Jawa atau Sunda atau Indonesia menggunakan abjad Arab. Oleh karena itu sebagian besar karakter Pegon sudah tersedia pada blok Unicode Arab.Di MTs Irsyaduth Thullab, soal cbt mata pelajaran kitab kuning ditulis dengan aksara Pegon walau dengan berbagai kendala seperti;Pengetik Belum terbiasa mengetik dengan Arabic keyboard ( ar )Pengetik Masih asing dengan keyboard Pegon atau JawiPengetik Bingung/kagok antara layout keyboard Arabic dan Jawi atau Pegonkarena banyak huruf yang sama tapi letaknya beda.</description>
+    </item>
+    
+    <item>
+      <title>If you need LAMP Stack, Journey to Ubuntu with WSL2 
+</title>
+      <link>https://2021.ubucon.asia/sessions/if_you_need_lamp_stack_journey_to_ubuntu_with_wsl2/</link>
+      <pubDate>Sun, 26 Sep 2021 17:05:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/if_you_need_lamp_stack_journey_to_ubuntu_with_wsl2/</guid>
+      <description>I needed LAMP Stack for working with Wordpress.I&amp;rsquo;m not a developer or software engineer. and I just had only one small laptop.I couldn&amp;rsquo;t use public cloud for security.So, I fell in love with WSL2.At first, I was a little hard to set. but, It was not so hard to drive.Let me show you, how I started setting ubuntu with WSL2 For beginers.</description>
+    </item>
+    
+    <item>
+      <title>openEuler社区的开源合规实践(Open source compliance practice of the openEuler community) 
+</title>
+      <link>https://2021.ubucon.asia/sessions/openeuleropen_source_compliance_practice_of_the_openeuler_community/</link>
+      <pubDate>Sun, 26 Sep 2021 17:00:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/openeuleropen_source_compliance_practice_of_the_openeuler_community/</guid>
+      <description>openEuler通过社区合作，打造创新平台，构建支持多处理架构、统一和开放的操作系统，推动软硬件应用生态繁荣发展。openEuler is an innovative platform nurtured by community collaboration. It aims to build a unified and open OS that supports multiple processor architectures, and to advance the hardware/software application ecosystem.openEuler社区在开源合规方面还不是很成熟，但已经努力摸索出一条有自己特色的发展之路，希望借助UbuCon Asia 2021这个平台与更多的开源伙伴交流促进。OpenEuler community is not very mature in terms of open source compliance, but it has worked hard to find a development path with its own characteristics, hoping to use the platform of UbuCon Asia 2021 to communicate with more open source partners.</description>
+    </item>
+    
+    <item>
+      <title>Using kexec to speed-up reboot 
+</title>
+      <link>https://2021.ubucon.asia/sessions/using_kexec_to_speed_up_reboot/</link>
+      <pubDate>Sun, 26 Sep 2021 16:55:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/using_kexec_to_speed_up_reboot/</guid>
+      <description>kexec loads a new kernel image without going through the hardware&amp;rsquo;s initialization stage, drastically speeding up the reboot process.In this lightning talk, pros and cons of kexec will be listed along with how-to instructions on using kexec on Ubuntu 20.04.We&amp;rsquo;re currently using kexec to speed up our development and successfully reduced the reboot time from 2 minutes to 10 seconds on a server machine.</description>
+    </item>
+    
+    <item>
+      <title>Introduction Indonesia Communities 
+</title>
+      <link>https://2021.ubucon.asia/sessions/introduction_indonesia_communities/</link>
+      <pubDate>Sun, 26 Sep 2021 16:50:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/introduction_indonesia_communities/</guid>
+      <description>Introduction to Indonesia Communities</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu on Cloud Environments 
+</title>
+      <link>https://2021.ubucon.asia/sessions/ubuntu_on_cloud_environments/</link>
+      <pubDate>Sun, 26 Sep 2021 16:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/ubuntu_on_cloud_environments/</guid>
+      <description>In this session, we will discuss about how Ubuntu and other Linux are compatible to major Public Cloud Providers such as AWS, Azure, and GCP. We will also talk about what kind of images, services, subscriptions, and products are available from them.</description>
+    </item>
+    
+    <item>
+      <title>Web Hosting Server using Ubuntu and Cyberpanel 
+</title>
+      <link>https://2021.ubucon.asia/sessions/web_hosting_server_using_ubuntu_and_cyberpanel/</link>
+      <pubDate>Sun, 26 Sep 2021 15:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/web_hosting_server_using_ubuntu_and_cyberpanel/</guid>
+      <description>In this material I will discuss cyberpanel on the ubuntu server that I use for daily web hosting at my office.CyberPanel is a web control panel that is directly supported by OpenLiteSpeed, with a number of other excellent features such as GIT Manager, Docker Manager, SSL, and others.</description>
+    </item>
+    
+    <item>
+      <title>K8s - MicroK8s &amp; K3s 
+</title>
+      <link>https://2021.ubucon.asia/sessions/k8s___microk8s__k3s/</link>
+      <pubDate>Sun, 26 Sep 2021 15:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/k8s___microk8s__k3s/</guid>
+      <description>MicroK8sHigh availability K8s Low-ops, minimal production Kubernetes,for devs, cloud, clusters, workstations, Edge and IoT.- https://microk8s.io/K3sLightweight Kubernetes- https://k3s.io/
+MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.04 LTS environment to run the commands (or another operating system which supports snapd - see the snapd documentation)At least 20G of disk space and 4G of memory are recommended</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu OS &amp; Service patch management using Ansible 
+</title>
+      <link>https://2021.ubucon.asia/sessions/ubuntu_os__service_patch_management_using_ansible/</link>
+      <pubDate>Sun, 26 Sep 2021 15:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/ubuntu_os__service_patch_management_using_ansible/</guid>
+      <description>To patch just one system, the administrator must identify that a patch is available, download it, and then deploy it to the system. In an enterprise environment, there could be hundreds of servers to manage, so the job of patch management becomes an all-day responsibility with the added risk of reboot fails after installation. Instead of manual updates, administrators can free up time and organize patches using automation tools.Using Ansible made patch management simpler than ever.</description>
+    </item>
+    
+    <item>
+      <title>Automating boring and repetitive UbuCon Asia video and subtitle stuffs 
+</title>
+      <link>https://2021.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</link>
+      <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</guid>
+      <description>Whether it&amp;rsquo;s online or offline event, There&amp;rsquo;s always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them.UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&amp;rsquo;s first event we don&amp;rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Judge A Book by Its Cover: Contributing to Open Source Communities with Graphic Design 
+</title>
+      <link>https://2021.ubucon.asia/sessions/dont_judge_a_book_by_its_cover_contributing_to_open_source_communities_with_graphic_design/</link>
+      <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/dont_judge_a_book_by_its_cover_contributing_to_open_source_communities_with_graphic_design/</guid>
+      <description>In this digital era, everyone uses multimedia in their daily life. Cell phones, social media, and the internet seem to be the new basic needs. Moreover, the pandemic has increased the intensity of gadget use due to limited mobility and physical activity. Like it or not, all activities turn to online activities.This makes business people, event organizers, and content creators compete for attention by displaying visuals and attractive appearances for each of their content.</description>
+    </item>
+    
+    <item>
+      <title>Promote Ubuntu localization of the ethnic groups in China. 
+</title>
+      <link>https://2021.ubucon.asia/sessions/promote_ubuntu_localization_of_the_ethnic_groups_in_china/</link>
+      <pubDate>Sun, 26 Sep 2021 13:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/promote_ubuntu_localization_of_the_ethnic_groups_in_china/</guid>
+      <description>This talk is about how we process Chinese Tibetan localization in last year. It includes the huge translation management, open source community and university collaboration, and the localization status of other ethnic groups in China.</description>
+    </item>
+    
+    <item>
+      <title>Snap in MicroOS 
+</title>
+      <link>https://2021.ubucon.asia/sessions/snap_in_microos/</link>
+      <pubDate>Sun, 26 Sep 2021 13:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/snap_in_microos/</guid>
+      <description>Snap in openSUSE MicroOS DesktopAccording to openSUSE wiki, openSUSE MicroOS is an operating system you don&amp;rsquo;t have to worry about. It&amp;rsquo;s designed for but not limited to container hosts and edge devices. openSUSE MicroOS Desktop is a MicroOS with a desktop-focused variant of MicroOS based on Tumbleweed. MicroOS Desktop is an immutable, rolling base as based on Tumbleweed.Snaps are app packages for desktop, cloud, and IoT that are easy to install, secure, cross-platform, and dependency-free, developed by Canonical.</description>
+    </item>
+    
+    <item>
+      <title>Organize Virtual Event with Open Source Tools 
+</title>
+      <link>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</link>
+      <pubDate>Sun, 26 Sep 2021 13:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</guid>
+      <description>This talk aims to enable community organizers to organize event with open source tools focusing on Eventyay and open source video solutions.</description>
+    </item>
+    
+    <item>
+      <title>The input method, another way to edit Japenense documents, Hanjp project 
+</title>
+      <link>https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/</link>
+      <pubDate>Sun, 26 Sep 2021 13:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/</guid>
+      <description>In this session, I&amp;rsquo;d like to introduce about Hanjp Input Method project, first of all.Its concept, the reasons why did I start the project, current state, and some demos are included.Then, I will re-introduce it in techincal view.Choosen languages and libraries, program structure, and project milestone are included.Then lastly, I&amp;rsquo;d talk about community development.Current contribution activity, Open Up activities(the open source activity) are included.Please refer to URL below to get informed about Hanjp projecthttps://github.</description>
+    </item>
+    
+    <item>
+      <title>Social event - Day 1 
+</title>
+      <link>https://2021.ubucon.asia/sessions/social_event___day_1/</link>
+      <pubDate>Sat, 25 Sep 2021 19:25:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/social_event___day_1/</guid>
+      <description>On Gather Town - TBD
+TBD</description>
+    </item>
+    
+    <item>
+      <title>Panel Discussion - Open Source Communities in Asia: Opportunities and Challenges  
+</title>
+      <link>https://2021.ubucon.asia/sessions/panel_discussion___open_source_communities_in_asia_opportunities_and_challenges/</link>
+      <pubDate>Sat, 25 Sep 2021 18:30:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/panel_discussion___open_source_communities_in_asia_opportunities_and_challenges/</guid>
+      <description>We will hear from representatives of our hosts and open source communities in Asia. https://2021.ubucon.asia/hosts/Moderator: Hong Phuc DangSpeakers: TBC</description>
+    </item>
+    
+    <item>
+      <title>Developing on Ubuntu with WSL Interoperability: Tips and Tricks 
+</title>
+      <link>https://2021.ubucon.asia/sessions/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks/</link>
+      <pubDate>Sat, 25 Sep 2021 17:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks/</guid>
+      <description>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.</description>
+    </item>
+    
+    <item>
+      <title>Engaging new l10n contributors through Open Source Contributhon 
+</title>
+      <link>https://2021.ubucon.asia/sessions/engaging_new_l10n_contributors_through_open_source_contributhon/</link>
+      <pubDate>Sat, 25 Sep 2021 17:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/engaging_new_l10n_contributors_through_open_source_contributhon/</guid>
+      <description>Last year, Ubuntu Korean LoCo participated &amp;ldquo;Open Source Contributhon&amp;rdquo;(Contribution + Marathon) as Ubuntu Korean L10n team to engage new l10n contributors.&amp;ldquo;Open Source Contributhon&amp;rdquo; is an program led by a government agency, And more than 20 teams joined last year.In this session, We&amp;rsquo;ll introduce details about &amp;ldquo;Open Source Contributhon&amp;rdquo;(which is now &amp;ldquo;Open Source Contribution Academy&amp;rdquo;) and our experiences about the program as mentors and as mentees.Bokmi Han will introduce about the Open Source Contributhon program- The Backgrounds: To help beginners to contribute to opensource and beyond the language barrier- Who joins: Mentors who already a contributor or a commiter, and Mentees(usually students and workers) who want to become a contributor- The overall schedule of the program.</description>
+    </item>
+    
+    <item>
+      <title>Survival of The Fittest: How Open-source Helps Me Survive after Company Shutdown 
+</title>
+      <link>https://2021.ubucon.asia/sessions/survival_of_the_fittest_how_open_source_helps_me_survive_after_company_shutdown/</link>
+      <pubDate>Sat, 25 Sep 2021 16:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/survival_of_the_fittest_how_open_source_helps_me_survive_after_company_shutdown/</guid>
+      <description>A year ago, I was still actively working as a general manager in a tour &amp;amp; travel company. At the beginning of the pandemic, my company minimized activity and created new services to survive the pandemic. However, at the end of the day, we have to face the reality: we have to shut down the company because our company relies on mobility and physical activity which currently has to be limited.</description>
+    </item>
+    
+    <item>
+      <title>Hacking on Unity7 and UnityX 
+</title>
+      <link>https://2021.ubucon.asia/sessions/hacking_on_unity7_and_unityx/</link>
+      <pubDate>Sat, 25 Sep 2021 16:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/hacking_on_unity7_and_unityx/</guid>
+      <description>In this session, I’ll be demonstrating how to set up a build environment for Unity7. I’ll then be compiling It live. I’ll also be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb.
+Community partner session slot: Ubuntu Unity Remix team</description>
+    </item>
+    
+    <item>
+      <title>Who &#39;kill&#39;ed my processes? 
+</title>
+      <link>https://2021.ubucon.asia/sessions/who_killed_my_processes/</link>
+      <pubDate>Sat, 25 Sep 2021 15:45:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/who_killed_my_processes/</guid>
+      <description>All of sudden, one of your processes that should be alive was &amp;lsquo;kill&amp;rsquo;ed by someone&amp;rsquo;s Signal! Who did that? Let&amp;rsquo;s trace the issue with Linux Kernel hacking.In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.Attendees at least should know what the Signal is in Computer Science.</description>
+    </item>
+    
+    <item>
+      <title>CI/CD with Snap package deployment 
+</title>
+      <link>https://2021.ubucon.asia/sessions/cicd_with_snap_package_deployment/</link>
+      <pubDate>Sat, 25 Sep 2021 15:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/cicd_with_snap_package_deployment/</guid>
+      <description>Build, test and publish applications automatically. Bring CI/CD to your IoT andappliances. Give your developers a pipeline to deliver updates to customersstraight from their standard process, and empower customers to test beta andpre-release versions. Whether you’re using Git with Travis or Jenkins,automated snap creation is just a few steps away. For open source projects, wewill even build your snap for ARM, x86, POWER and Z. Canary updates and automaticrollbacks let you go fast with confidence.</description>
+    </item>
+    
+    <item>
+      <title>Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+</title>
+      <link>https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/</link>
+      <pubDate>Sat, 25 Sep 2021 15:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/</guid>
+      <description>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &amp;lsquo;hacking.&amp;rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &amp;lsquo;hackable&amp;rsquo; PCs.How to treat SD cards.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Sinau Bash&#34; Program for Learning Bash Commands 
+</title>
+      <link>https://2021.ubucon.asia/sessions/sinau_bash_program_for_learning_bash_commands/</link>
+      <pubDate>Sat, 25 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/sinau_bash_program_for_learning_bash_commands/</guid>
+      <description>Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely &amp;ldquo;Sinau Bash&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>How Ubuntu empowers databases and cloud development on Azure 
+</title>
+      <link>https://2021.ubucon.asia/sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure/</link>
+      <pubDate>Sat, 25 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure/</guid>
+      <description>In this workshop, you will learn or ask your questions on how to deploy SQL Server on Linux 2019 and run a web application on a new Azure Linux virtual machine by following a great Microsoft Learn module: https://aka.ms/LearnAzureAtUbuConAsia . Pre-requisites: 1. Experience using Bash from the command-line 2. Familiarity or interest in using JavaScript to connect a database and/or build web applications Have you already finished this module? No worries, you can discuss anything what you want regarding this module even you already experienced.</description>
+    </item>
+    
+    <item>
+      <title>Keynote - Flutter for Linux 
+</title>
+      <link>https://2021.ubucon.asia/sessions/keynote___flutter_for_linux/</link>
+      <pubDate>Sat, 25 Sep 2021 13:30:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/keynote___flutter_for_linux/</guid>
+      <description>The desktop team has spent a great deal of time working on Flutter, let&amp;rsquo;s talk about the motivation to invest in Flutter, the current status and future plans.
+TBD</description>
+    </item>
+    
+    <item>
+      <title>Welcome and Opening Remarks 
+</title>
+      <link>https://2021.ubucon.asia/sessions/welcome_and_opening_remarks/</link>
+      <pubDate>Sat, 25 Sep 2021 13:00:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/welcome_and_opening_remarks/</guid>
+      <description>This session will cover how and why we have organized the first UbuCon Asia event. We&amp;rsquo;ll also introduce our host organizing communities, sponsors and partner communities.
+introduction video for each host communities required (1~2 minutes each)</description>
+    </item>
+    
   </channel>
 </rss>
