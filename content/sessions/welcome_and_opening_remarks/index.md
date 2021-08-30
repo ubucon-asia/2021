@@ -7,14 +7,17 @@ room: 1
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Youngbin Han
-      bio: 
+      bio: Organizer, Ubuntu Korea Community
       email: sukso96100@gmail.com # Email
-      launchpad: # link to launchpad.net profile
-      github: # link to github profile
-      profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
+      launchpad: https://launchpad.net/~ybhan# link to launchpad.net profile
+      github: https://github.com/sukso96100 # link to github profile
+      profile: profile.jfif # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
 This session will cover how and why we have organized the first UbuCon Asia event. We'll also introduce our host organizing communities, sponsors and partner communities.
 
-introduction video for each host communities required (1~2 minutes each)
+## About the speaker
+ - Community Leader and Organizer at Ubuntu Korea Community
+ - Junior DevOps Engineer at Cloudmate
+ - Studies Software engineering at Sungkonghoe University

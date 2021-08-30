@@ -7,7 +7,7 @@ room: 1
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Rudra B. Saraswat
-      bio: 
+      bio: Project Lead, Ubuntu Unity
       email: rs2009@ubuntu.com # Email
       launchpad: # link to launchpad.net profile
       github: # link to github profile
@@ -17,4 +17,5 @@ speakers: # Speaker info
 ---
 In this session, I’ll be demonstrating how to set up a build environment for Unity7. I’ll then be compiling It live. I’ll also be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb.
 
-Community partner session slot: Ubuntu Unity Remix team
+### About the speaker
+I'm an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.

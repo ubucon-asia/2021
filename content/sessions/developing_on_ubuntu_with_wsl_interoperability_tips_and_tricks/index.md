@@ -7,14 +7,15 @@ room: 2
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Patrick Wu
-      bio: 
+      bio: Ubuntu Desktop Software Developer, Canonical
       email: me@patrickwu.space # Email
       launchpad: # link to launchpad.net profile
-      github: # link to github profile
+      github: https://github.com/patrick330602 # link to github profile
       profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://patrickwu.space/ # Other website link url
+      linklabel: Website # Label for linkurl
 ---
 This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.
 
-
+### About the speaker
+Software Developer for Ubuntu on WSL and Ubuntu on Hyper-V, core maintainer for WSL Utilities.
