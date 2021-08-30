@@ -7,14 +7,26 @@ room: 2
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Ko Ko Ye
-      bio: 
+      bio: Team Lead, Ubuntu Myanmar LoCo Team
       email: kokoye2007@gmail.com # Email
       launchpad: # link to launchpad.net profile
-      github: # link to github profile
-      profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      github: https://github.com/kokoye2007 # link to github profile
+      profile: profile.jpg # Speaker photo
+      linkurl: https://ubuntu-mm.net/ # Other website link url
+      linklabel: Website # Label for linkurl
 ---
- MicroK8sHigh availability K8s Low-ops, minimal production Kubernetes,for devs, cloud, clusters, workstations, Edge and IoT.- https://microk8s.io/K3sLightweight Kubernetes- https://k3s.io/
+### MicroK8s
 
-MicroK8s  Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.04 LTS environment to run the commands (or another operating system which supports snapd - see the snapd documentation)At least 20G of disk space and 4G of memory are recommended
+High availability K8s
+Low-ops, minimal production Kubernetes,
+for devs, cloud, clusters, workstations, Edge and IoT.
+
+- https://microk8s.io/
+
+### K3s
+
+Lightweight Kubernetes
+- https://k3s.io/
+
+### About the speaker
+I have played around with Linux since 2004, from Web Designer to Web Administrator (For LAMP) with Ubuntu being my main choice. I settled on Ubuntu as my favourite Linux distro. I will Promote About Linux and Ubuntu Distro since 2009., Raspberry Pi since 2013, Container LXD at 2014, Open Stack at 2016, DevOps at 2018, Docker and Kubernetes at 2019. 
