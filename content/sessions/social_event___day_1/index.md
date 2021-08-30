@@ -1,18 +1,20 @@
 ---
-title: "Session title"
-date: {{ .Date }}
-end: {{ .Date }}
-room: 0 # Room No.
-featured: true # If it's true. This session will appear on main page.
+title: >
+    Social event - Day 1 
+date: 2021-09-25T19:25:00+09:00
+end: 2021-09-25T20:25:00+09:00
+room: 0
+featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
-    - name: N/A # Name
-      bio: # About the speaker
-      email: # Email
+    - name: 
+      bio: 
+      email:  # Email
       launchpad: # link to launchpad.net profile
       github: # link to github profile
       profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+On Gather Town - TBD
 
-Put session details here
+TBD
