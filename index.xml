@@ -24,7 +24,8 @@
       <pubDate>Sun, 26 Sep 2021 19:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</guid>
-      <description>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&amp;rsquo;s experience and achievements in how to add support for tablet form and its future planning.</description>
+      <description>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&amp;rsquo;s experience and achievements in how to add support for tablet form and its future planning.
+About the speaker R &amp;amp; D Manager of UbuntuKylin team</description>
     </item>
     
     <item>
@@ -54,7 +55,8 @@
       <pubDate>Sun, 26 Sep 2021 18:00:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/having_fun_with_flutter_desktop_development/</guid>
-      <description>Google and Canonical annouced Flutter support for Linux recently but have you wondered what exactly is Flutter? Why is it everywhere lately? Where can it run and is it easy to write apps in it? If you want to know more what is possible with Flutter and how it differs from other UI frameworks, join this session.</description>
+      <description>Google and Canonical annouced Flutter support for Linux recently but have you wondered what exactly is Flutter? Why is it everywhere lately? Where can it run and is it easy to write apps in it? If you want to know more what is possible with Flutter and how it differs from other UI frameworks, join this session.
+About the speaker I am programming Flutter from its early stages. Active member of London Flutter Community.</description>
     </item>
     
     <item>
@@ -65,7 +67,8 @@
       
       <guid>https://2021.ubucon.asia/sessions/oem_metapackages__concourse_ci/</guid>
       <description>What are OEM metapackages?What is Concourse CI?How to use Concourse CI on OEM metapackages?
-https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
+https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/
+About the speaker Debian Developer / Ubuntu Contributing Developer / GNOME Emeritus Member / Canonical Employee</description>
     </item>
     
     <item>
@@ -75,7 +78,8 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 17:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/private_lab_virtualization_using_multipass_and_deploy_apps_web_based_on_ubuntu_server/</guid>
-      <description>Introduction:Multipass is a virtualization product from Ubuntu that we can use to create a virtual machine and support cloud-init like in a public cloud. Multipass can be run in a local environment for free and is very suitable for development.Here are some discussion points:- Reasons to use Multipass- Advantages and Disadvantages of Multipass- How to install Multipass- How to use Multipass and basic commands in Multipass- Basic Cloud-init- Install web-based applications demonstration on VMs Multipass- Additional material on Multipass integration</description>
+      <description>Introduction: Multipass is a virtualization product from Ubuntu that we can use to create a virtual machine and support cloud-init like in a public cloud. Multipass can be run in a local environment for free and is very suitable for development.
+Here are some discussion points:  Reasons to use Multipass Advantages and Disadvantages of Multipass How to install Multipass How to use Multipass and basic commands in Multipass Basic Cloud-init Install web-based applications demonstration on VMs Multipass Additional material on Multipass integration  About the speaker Village child who like to learn Open Source, Linux, and Cloud Computing and become the Founder of BelajarLinux.</description>
     </item>
     
     <item>
@@ -95,7 +99,9 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 17:10:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/mengetik_aksara_pegon_dengan_ubuntu_20042/</guid>
-      <description>Menurut wikipedia, Pegon is an Arabic script used to write the Javanese, Madurese and Sundanese languages, as an alternative to the Latin script or the Javanese script.Pada Ubuntu 20.04.2 belum tersedia Keyboard Pegon. Pegon merupakan penulisan abjad Jawa atau Sunda atau Indonesia menggunakan abjad Arab. Oleh karena itu sebagian besar karakter Pegon sudah tersedia pada blok Unicode Arab.Di MTs Irsyaduth Thullab, soal cbt mata pelajaran kitab kuning ditulis dengan aksara Pegon walau dengan berbagai kendala seperti;Pengetik Belum terbiasa mengetik dengan Arabic keyboard ( ar )Pengetik Masih asing dengan keyboard Pegon atau JawiPengetik Bingung/kagok antara layout keyboard Arabic dan Jawi atau Pegonkarena banyak huruf yang sama tapi letaknya beda.</description>
+      <description>Menurut wikipedia, Pegon is an Arabic script used to write the Javanese, Madurese and Sundanese languages, as an alternative to the Latin script or the Javanese script.
+Pada Ubuntu 20.04.2 belum tersedia Keyboard Pegon. Pegon merupakan penulisan abjad Jawa atau Sunda atau Indonesia menggunakan abjad Arab. Oleh karena itu sebagian besar karakter Pegon sudah tersedia pada blok Unicode Arab.
+Di MTs Irsyaduth Thullab, soal cbt mata pelajaran kitab kuning ditulis dengan aksara Pegon walau dengan berbagai kendala seperti;</description>
     </item>
     
     <item>
@@ -105,7 +111,8 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 17:05:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/if_you_need_lamp_stack_journey_to_ubuntu_with_wsl2/</guid>
-      <description>I needed LAMP Stack for working with Wordpress.I&amp;rsquo;m not a developer or software engineer. and I just had only one small laptop.I couldn&amp;rsquo;t use public cloud for security.So, I fell in love with WSL2.At first, I was a little hard to set. but, It was not so hard to drive.Let me show you, how I started setting ubuntu with WSL2 For beginers.</description>
+      <description>I needed LAMP Stack for working with Wordpress. I&amp;rsquo;m not a developer or software engineer. and I just had only one small laptop. I couldn&amp;rsquo;t use public cloud for security. So, I fell in love with WSL2. At first, I was a little hard to set. but, It was not so hard to drive. Let me show you, how I started setting ubuntu with WSL2 For beginers.
+About the speaker Life is just TEST.</description>
     </item>
     
     <item>
@@ -115,7 +122,7 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 17:00:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/openeuleropen_source_compliance_practice_of_the_openeuler_community/</guid>
-      <description>openEuler通过社区合作，打造创新平台，构建支持多处理架构、统一和开放的操作系统，推动软硬件应用生态繁荣发展。openEuler is an innovative platform nurtured by community collaboration. It aims to build a unified and open OS that supports multiple processor architectures, and to advance the hardware/software application ecosystem.openEuler社区在开源合规方面还不是很成熟，但已经努力摸索出一条有自己特色的发展之路，希望借助UbuCon Asia 2021这个平台与更多的开源伙伴交流促进。OpenEuler community is not very mature in terms of open source compliance, but it has worked hard to find a development path with its own characteristics, hoping to use the platform of UbuCon Asia 2021 to communicate with more open source partners.</description>
+      <description>openEuler通过社区合作，打造创新平台，构建支持多处理架构、统一和开放的操作系统，推动软硬件应用生态繁荣发展。 openEuler is an innovative platform nurtured by community collaboration. It aims to build a unified and open OS that supports multiple processor architectures, and to advance the hardware/software application ecosystem. openEuler社区在开源合规方面还不是很成熟，但已经努力摸索出一条有自己特色的发展之路，希望借助UbuCon Asia 2021这个平台与更多的开源伙伴交流促进。 OpenEuler community is not very mature in terms of open source compliance, but it has worked hard to find a development path with its own characteristics, hoping to use the platform of UbuCon Asia 2021 to communicate with more open source partners.</description>
     </item>
     
     <item>
@@ -125,7 +132,10 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 16:55:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/using_kexec_to_speed_up_reboot/</guid>
-      <description>kexec loads a new kernel image without going through the hardware&amp;rsquo;s initialization stage, drastically speeding up the reboot process.In this lightning talk, pros and cons of kexec will be listed along with how-to instructions on using kexec on Ubuntu 20.04.We&amp;rsquo;re currently using kexec to speed up our development and successfully reduced the reboot time from 2 minutes to 10 seconds on a server machine.</description>
+      <description>kexec loads a new kernel image without going through the hardware&amp;rsquo;s initialization stage, drastically speeding up the reboot process.
+In this lightning talk, pros and cons of kexec will be listed along with how-to instructions on using kexec on Ubuntu 20.04.
+We&amp;rsquo;re currently using kexec to speed up our development and successfully reduced the reboot time from 2 minutes to 10 seconds on a server machine.
+About the speaker I&amp;rsquo;m a 23 years old student at DGIST DataLab, currently pursuing a Ph.</description>
     </item>
     
     <item>
@@ -145,7 +155,9 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 16:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/ubuntu_on_cloud_environments/</guid>
-      <description>In this session, we will discuss about how Ubuntu and other Linux are compatible to major Public Cloud Providers such as AWS, Azure, and GCP. We will also talk about what kind of images, services, subscriptions, and products are available from them.</description>
+      <description>Sponsored session (Cloudmate Co. Ltd.)
+ In this session, we will discuss about how Ubuntu and other Linux are compatible to major Public Cloud Providers such as AWS, Azure, and GCP. We will also talk about what kind of images, services, subscriptions, and products are available from them.
+About the speaker Sejun Kim  Orgenizer of &amp;ldquo;The AzureLife(애저로운 생활)&amp;rdquo; Microsoft Azure MVP Cloud Architect Cloudmate Technical Enginnering Leader.  Junhyeon Bae  Manager of Lead Engineering Team at Cloudmate Co.</description>
     </item>
     
     <item>
@@ -155,7 +167,8 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 15:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/web_hosting_server_using_ubuntu_and_cyberpanel/</guid>
-      <description>In this material I will discuss cyberpanel on the ubuntu server that I use for daily web hosting at my office.CyberPanel is a web control panel that is directly supported by OpenLiteSpeed, with a number of other excellent features such as GIT Manager, Docker Manager, SSL, and others.</description>
+      <description>In this material I will discuss cyberpanel on the ubuntu server that I use for daily web hosting at my office.CyberPanel is a web control panel that is directly supported by OpenLiteSpeed, with a number of other excellent features such as GIT Manager, Docker Manager, SSL, and others.
+About the speaker Experienced System Administrator with a demonstrated history of working in the internet industry. Skilled in Network Administration, Server Administration, Computer Network Operations, Open Source Software, and Computer Repair.</description>
     </item>
     
     <item>
@@ -165,8 +178,9 @@ https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</description>
       <pubDate>Sun, 26 Sep 2021 15:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/k8s___microk8s__k3s/</guid>
-      <description>MicroK8sHigh availability K8s Low-ops, minimal production Kubernetes,for devs, cloud, clusters, workstations, Edge and IoT.- https://microk8s.io/K3sLightweight Kubernetes- https://k3s.io/
-MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.04 LTS environment to run the commands (or another operating system which supports snapd - see the snapd documentation)At least 20G of disk space and 4G of memory are recommended</description>
+      <description>MicroK8s High availability K8s Low-ops, minimal production Kubernetes, for devs, cloud, clusters, workstations, Edge and IoT.
+ https://microk8s.io/  K3s Lightweight Kubernetes
+ https://k3s.io/  About the speaker I have played around with Linux since 2004, from Web Designer to Web Administrator (For LAMP) with Ubuntu being my main choice. I settled on Ubuntu as my favourite Linux distro. I will Promote About Linux and Ubuntu Distro since 2009., Raspberry Pi since 2013, Container LXD at 2014, Open Stack at 2016, DevOps at 2018, Docker and Kubernetes at 2019.</description>
     </item>
     
     <item>
@@ -176,7 +190,8 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 15:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/ubuntu_os__service_patch_management_using_ansible/</guid>
-      <description>To patch just one system, the administrator must identify that a patch is available, download it, and then deploy it to the system. In an enterprise environment, there could be hundreds of servers to manage, so the job of patch management becomes an all-day responsibility with the added risk of reboot fails after installation. Instead of manual updates, administrators can free up time and organize patches using automation tools.Using Ansible made patch management simpler than ever.</description>
+      <description>To patch just one system, the administrator must identify that a patch is available, download it, and then deploy it to the system. In an enterprise environment, there could be hundreds of servers to manage, so the job of patch management becomes an all-day responsibility with the added risk of reboot fails after installation. Instead of manual updates, administrators can free up time and organize patches using automation tools.
+Using Ansible made patch management simpler than ever.</description>
     </item>
     
     <item>
@@ -186,7 +201,7 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</guid>
-      <description>Whether it&amp;rsquo;s online or offline event, There&amp;rsquo;s always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them.UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&amp;rsquo;s first event we don&amp;rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.</description>
+      <description>Whether it&amp;rsquo;s online or offline event, There&amp;rsquo;s always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them. UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&amp;rsquo;s first event we don&amp;rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.</description>
     </item>
     
     <item>
@@ -196,7 +211,8 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/dont_judge_a_book_by_its_cover_contributing_to_open_source_communities_with_graphic_design/</guid>
-      <description>In this digital era, everyone uses multimedia in their daily life. Cell phones, social media, and the internet seem to be the new basic needs. Moreover, the pandemic has increased the intensity of gadget use due to limited mobility and physical activity. Like it or not, all activities turn to online activities.This makes business people, event organizers, and content creators compete for attention by displaying visuals and attractive appearances for each of their content.</description>
+      <description>In this digital era, everyone uses multimedia in their daily life. Cell phones, social media, and the internet seem to be the new basic needs. Moreover, the pandemic has increased the intensity of gadget use due to limited mobility and physical activity. Like it or not, all activities turn to online activities.
+This makes business people, event organizers, and content creators compete for attention by displaying visuals and attractive appearances for each of their content.</description>
     </item>
     
     <item>
@@ -206,7 +222,8 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 13:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/promote_ubuntu_localization_of_the_ethnic_groups_in_china/</guid>
-      <description>This talk is about how we process Chinese Tibetan localization in last year. It includes the huge translation management, open source community and university collaboration, and the localization status of other ethnic groups in China.</description>
+      <description>This talk is about how we process Chinese Tibetan localization in last year. It includes the huge translation management, open source community and university collaboration, and the localization status of other ethnic groups in China.
+About the speaker Hi, I&amp;rsquo;m Bugress Chang</description>
     </item>
     
     <item>
@@ -216,7 +233,9 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 13:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/snap_in_microos/</guid>
-      <description>Snap in openSUSE MicroOS DesktopAccording to openSUSE wiki, openSUSE MicroOS is an operating system you don&amp;rsquo;t have to worry about. It&amp;rsquo;s designed for but not limited to container hosts and edge devices. openSUSE MicroOS Desktop is a MicroOS with a desktop-focused variant of MicroOS based on Tumbleweed. MicroOS Desktop is an immutable, rolling base as based on Tumbleweed.Snaps are app packages for desktop, cloud, and IoT that are easy to install, secure, cross-platform, and dependency-free, developed by Canonical.</description>
+      <description>Snap in openSUSE MicroOS Desktop
+According to openSUSE wiki, openSUSE MicroOS is an operating system you don&amp;rsquo;t have to worry about. It&amp;rsquo;s designed for but not limited to container hosts and edge devices. openSUSE MicroOS Desktop is a MicroOS with a desktop-focused variant of MicroOS based on Tumbleweed. MicroOS Desktop is an immutable, rolling base as based on Tumbleweed.
+Snaps are app packages for desktop, cloud, and IoT that are easy to install, secure, cross-platform, and dependency-free, developed by Canonical.</description>
     </item>
     
     <item>
@@ -236,7 +255,7 @@ MicroK8s Lab SessionWhat you’ll need - An Ubuntu 20.04 LTS, 18.04 LTS or 16.
       <pubDate>Sun, 26 Sep 2021 13:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/</guid>
-      <description>In this session, I&amp;rsquo;d like to introduce about Hanjp Input Method project, first of all.Its concept, the reasons why did I start the project, current state, and some demos are included.Then, I will re-introduce it in techincal view.Choosen languages and libraries, program structure, and project milestone are included.Then lastly, I&amp;rsquo;d talk about community development.Current contribution activity, Open Up activities(the open source activity) are included.Please refer to URL below to get informed about Hanjp projecthttps://github.</description>
+      <description>In this session, I&amp;rsquo;d like to introduce about Hanjp Input Method project, first of all. Its concept, the reasons why did I start the project, current state, and some demos are included. Then, I will re-introduce it in techincal view. Choosen languages and libraries, program structure, and project milestone are included. Then lastly, I&amp;rsquo;d talk about community development. Current contribution activity, Open Up activities(the open source activity) are included. Please refer to URL below to get informed about Hanjp project https://github.</description>
     </item>
     
     <item>
