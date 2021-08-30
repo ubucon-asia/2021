@@ -3,7 +3,7 @@ title: >
     How Ubuntu empowers databases and cloud development on Azure 
 date: 2021-09-25T14:15:00+09:00
 end: 2021-09-25T15:15:00+09:00
-room: 0
+room: 2
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Ian Y. Choi

@@ -3,7 +3,7 @@ title: >
     "Sinau Bash" Program for Learning Bash Commands 
 date: 2021-09-25T14:15:00+09:00
 end: 2021-09-25T14:45:00+09:00
-room: 0
+room: 1
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Kuriyanto Adi Saputro

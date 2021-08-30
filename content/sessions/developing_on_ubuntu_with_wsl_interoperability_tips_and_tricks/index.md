@@ -3,7 +3,7 @@ title: >
     Developing on Ubuntu with WSL Interoperability: Tips and Tricks 
 date: 2021-09-25T17:45:00+09:00
 end: 2021-09-25T18:15:00+09:00
-room: 0
+room: 2
 featured: false # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Patrick Wu
