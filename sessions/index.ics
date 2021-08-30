@@ -47,7 +47,14 @@ DTSTAMP:20210926T094500Z
 DTSTART:20210926T094500
 DTEND:20210926T103000
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>This session delivers how you can develop your own integration-test environment build tool with the WSL SDK project. WSL SDK project is an open-source project that provides versatile and robust WSL management APIs without any restrictions.Also, I will share how I overcame technical hurdles with this project. If you are interested in the Win32 native programming aspect, you may obtain some insights from my talk.</p>
+DESCRIPTION:<p>This session delivers how you can develop your own integration-test environment build tool with the WSL SDK project. WSL SDK project is an open-source project that provides versatile and robust WSL management APIs without any restrictions.</p>
+<p>Also, I will share how I overcame technical hurdles with this project. If you are interested in the Win32 native programming aspect, you may obtain some insights from my talk.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<ul>
+<li>Annual Microsoft MVP Award since 2009</li>
+<li>WSLHUB, .NET DEV Community Staff</li>
+<li>DEVSISTERS DevOps Engineer</li>
+</ul>
 
 URL:https://2021.ubucon.asia/sessions/developing_integration_test_with_wsl_apis/
 END:VEVENT
