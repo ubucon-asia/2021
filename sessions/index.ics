@@ -405,7 +405,12 @@ DTSTAMP:20210925T093000Z
 DTSTART:20210925T093000
 DTEND:20210925T102500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>We will hear from representatives of our hosts and open source communities in Asia. https://2021.ubucon.asia/hosts/Moderator: Hong Phuc DangSpeakers: TBC</p>
+DESCRIPTION:<p>We will hear from representatives of our hosts and open source communities in Asia. <a href="https://2021.ubucon.asia/hosts/">https://2021.ubucon.asia/hosts/</a></p>
+<p>Moderator: Hong Phuc Dang</p>
+<p>Speakers: TBC</p>
+<h3 id="about-the-speakers">About the speakers</h3>
+<h4 id="hong-phuc-dang">Hong Phuc Dang</h4>
+<p>Hong Phuc is the founder of FOSSASIA, an organization that strives to improve people’s lives through sharing open technologies and fostering global connections and sustainable production. She serves as a member of the IEEE Standards Association Board of Governors and as vice chair of the Open Source Committee. She is also a board member of the Open Source Business Alliance and the Open Source Initiative. With over a decade of open source expertise, she supports companies in their technology transition to open source and innersource development models. Her recent efforts focused on bringing open source hardware into production at scale.</p>
 
 URL:https://2021.ubucon.asia/sessions/panel_discussion___open_source_communities_in_asia_opportunities_and_challenges/
 END:VEVENT
@@ -422,12 +427,16 @@ DTSTART:20210925T084500
 DTEND:20210925T091500
 LOCATION:Ubucon Asia 2021 - Track <no value>
 DESCRIPTION:<p>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>Software Developer for Ubuntu on WSL and Ubuntu on Hyper-V, core maintainer for WSL Utilities.</p>
 
 URL:https://2021.ubucon.asia/sessions/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="Youngbin Han; Bokmi Han(한복미); Joowon Jung";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:sukso96100@gmail.com; bmhan@nipa.kr; peter.j@kakao.com
+ATTENDEE;CN="Bokmi Han";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:bmhan@nipa.kr
+ATTENDEE;CN="Youngbin Han";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:sukso96100@gmail.com
+ATTENDEE;CN="Joowon Jung";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:peter.j@kakao.com
 SUMMARY:Engaging new l10n contributors through Open Source Contributhon 
 
 UID:20210925T084500@2021.asia.ubucon.org
@@ -437,7 +446,41 @@ DTSTAMP:20210925T084500Z
 DTSTART:20210925T084500
 DTEND:20210925T093000
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>Last year, Ubuntu Korean LoCo participated &ldquo;Open Source Contributhon&rdquo;(Contribution + Marathon) as Ubuntu Korean L10n team to engage new l10n contributors.&ldquo;Open Source Contributhon&rdquo; is an program led by a government agency, And more than 20 teams joined last year.In this session, We&rsquo;ll introduce details about &ldquo;Open Source Contributhon&rdquo;(which is now &ldquo;Open Source Contribution Academy&rdquo;) and our experiences about the program as mentors and as mentees.Bokmi Han will introduce about the Open Source Contributhon program- The Backgrounds: To help beginners to contribute to opensource and beyond the language barrier- Who joins: Mentors who already a contributor or a commiter, and Mentees(usually students and workers) who want to become a contributor- The overall schedule of the program.- What mentors and mentees can benefit from the program?Youngbin Han will give his experience as l10n team mentor.- Why decided to join the program as mentor of l10n team?- What kind of mentoring did you provide for mentees?- What was the huddles for new l10n contributors?- Lessons learned from the programJoowon Jung will give her experience as l10n team mentee.- Why decided to apply for Open Source Contributhon as mentee?- What was the big huddle for when contributing to Ubuntu localization, And how did I overcame.- Lessons learned from the program</p>
+DESCRIPTION:<p>Last year, Ubuntu Korean LoCo participated &ldquo;Open Source Contributhon&rdquo;(Contribution + Marathon) as Ubuntu Korean L10n team to engage new l10n contributors.
+&ldquo;Open Source Contributhon&rdquo; is an program led by a government agency, And more than 20 teams joined last year.</p>
+<p>In this session, We&rsquo;ll introduce details about &ldquo;Open Source Contributhon&rdquo;(which is now &ldquo;Open Source Contribution Academy&rdquo;) and our experiences about the program as mentors and as mentees.</p>
+<p>Bokmi Han will introduce about the Open Source Contributhon program</p>
+<ul>
+<li>The Backgrounds: To help beginners to contribute to opensource and beyond the language barrier</li>
+<li>Who joins: Mentors who already a contributor or a commiter, and Mentees(usually students and workers) who want to become a contributor</li>
+<li>The overall schedule of the program.</li>
+<li>What mentors and mentees can benefit from the program?</li>
+</ul>
+<p>Youngbin Han will give his experience as l10n team mentor.</p>
+<ul>
+<li>Why decided to join the program as mentor of l10n team?</li>
+<li>What kind of mentoring did you provide for mentees?</li>
+<li>What was the huddles for new l10n contributors?</li>
+<li>Lessons learned from the program</li>
+</ul>
+<p>Joowon Jung will give her experience as l10n team mentee.</p>
+<ul>
+<li>Why decided to apply for Open Source Contributhon as mentee?</li>
+<li>What was the big huddle for when contributing to Ubuntu localization, And how did I overcame.</li>
+<li>Lessons learned from the program</li>
+</ul>
+<h3 id="about-the-speakers">About the speakers</h3>
+<h4 id="bokmi-han">Bokmi Han</h4>
+<p>Director of Open Source Software Promotion Team, National IT Industry Promotion Agency
+She is the director of Open Source Software Promotion Team at National IT Industry Promotion Agency(NIPA) since 2016. Before she joined the OSS Promotion Team, she was a researcher at NIPA Software Engineering Center from 2012 to 2016. Bokmi Han and her team&rsquo;s goal is to promote activities of Open Source developers, communities and industries by building open source support system and create educational opportunities for all sectors.</p>
+<h4 id="youngbin-han">Youngbin Han</h4>
+<ul>
+<li>Community Leader and Organizer at Ubuntu Korea Community</li>
+<li>Junior DevOps Engineer at Cloudmate</li>
+<li>Studies Software engineering at Sungkonghoe University</li>
+</ul>
+<h4 id="joowon-jung">Joowon Jung</h4>
+<p>2017~ Undergraduate Student of Department of Computer Science and Engineering in Konkuk University</p>
 
 URL:https://2021.ubucon.asia/sessions/engaging_new_l10n_contributors_through_open_source_contributhon/
 END:VEVENT
@@ -453,7 +496,11 @@ DTSTAMP:20210925T074500Z
 DTSTART:20210925T074500
 DTEND:20210925T081500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>A year ago, I was still actively working as a general manager in a tour &amp; travel company. At the beginning of the pandemic, my company minimized activity and created new services to survive the pandemic. However, at the end of the day, we have to face the reality: we have to shut down the company because our company relies on mobility and physical activity which currently has to be limited.No company activities means no job, no income. This pandemic has forced me to learn new things in order to survive. Unexpectedly, it turned out that open-source software really helped me survive this pandemic situation!In this presentation, I&rsquo;ll tell you how I used open-source software to survive, use what I&rsquo;ve learned to profit, and discuss what opportunities could be taken in the future.</p>
+DESCRIPTION:<p>A year ago, I was still actively working as a general manager in a tour &amp; travel company. At the beginning of the pandemic, my company minimized activity and created new services to survive the pandemic. However, at the end of the day, we have to face the reality: we have to shut down the company because our company relies on mobility and physical activity which currently has to be limited.</p>
+<p>No company activities means no job, no income. This pandemic has forced me to learn new things in order to survive. Unexpectedly, it turned out that open-source software really helped me survive this pandemic situation!</p>
+<p>In this presentation, I&rsquo;ll tell you how I used open-source software to survive, use what I&rsquo;ve learned to profit, and discuss what opportunities could be taken in the future.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>Postgraduate Student in Management Program. Founder of Inkscape Circle Community. Ex-General Manager at Ottoman Tour &amp; Travel Company. Certified Tour Leader.</p>
 
 URL:https://2021.ubucon.asia/sessions/survival_of_the_fittest_how_open_source_helps_me_survive_after_company_shutdown/
 END:VEVENT
@@ -470,7 +517,8 @@ DTSTART:20210925T071500
 DTEND:20210925T074500
 LOCATION:Ubucon Asia 2021 - Track <no value>
 DESCRIPTION:<p>In this session, I’ll be demonstrating how to set up a build environment for Unity7. I’ll then be compiling It live. I’ll also be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb.</p>
-<p>Community partner session slot: Ubuntu Unity Remix team</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>I&rsquo;m an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.</p>
 
 URL:https://2021.ubucon.asia/sessions/hacking_on_unity7_and_unityx/
 END:VEVENT
@@ -486,7 +534,11 @@ DTSTAMP:20210925T064500Z
 DTSTART:20210925T064500
 DTEND:20210925T071500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>All of sudden, one of your processes that should be alive was &lsquo;kill&rsquo;ed by someone&rsquo;s Signal! Who did that? Let&rsquo;s trace the issue with Linux Kernel hacking.In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.Attendees at least should know what the Signal is in Computer Science.</p>
+DESCRIPTION:<p>All of sudden, one of your processes that should be alive was &lsquo;kill&rsquo;ed by someone&rsquo;s Signal! Who did that? Let&rsquo;s trace the issue with Linux Kernel hacking.
+In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.</p>
+<p>Attendees at least should know what the Signal is in Computer Science.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>I had been contributing to GNOME foundation as a programmer for 2 years before and currently interested in ARM64 Linux Kernel core and Network Subsystem.</p>
 
 URL:https://2021.ubucon.asia/sessions/who_killed_my_processes/
 END:VEVENT
@@ -502,8 +554,13 @@ DTSTAMP:20210925T061500Z
 DTSTART:20210925T061500
 DTEND:20210925T081500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>Build, test and publish applications automatically. Bring CI/CD to your IoT andappliances. Give your developers a pipeline to deliver updates to customersstraight from their standard process, and empower customers to test beta andpre-release versions. Whether you’re using Git with Travis or Jenkins,automated snap creation is just a few steps away. For open source projects, wewill even build your snap for ARM, x86, POWER and Z. Canary updates and automaticrollbacks let you go fast with confidence.Workshop preparation: Ubuntu Desktop 20.04 or 18.04</p>
-<p>Sponsored session</p>
+DESCRIPTION:<blockquote>
+<p>Sponsored session (Ubuntu)</p>
+</blockquote>
+<p>Build, test and publish applications automatically. Bring CI/CD to your IoT andappliances. Give your developers a pipeline to deliver updates to customersstraight from their standard process, and empower customers to test beta andpre-release versions. Whether you’re using Git with Travis or Jenkins,automated snap creation is just a few steps away. For open source projects, wewill even build your snap for ARM, x86, POWER and Z. Canary updates and automaticrollbacks let you go fast with confidence.</p>
+<p>Workshop preparation: Ubuntu Desktop 20.04 or 18.04</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>Base in Taipei, rich experience in helping Enterprise embrace open source softwarein commercial products. Currently work for Canonical as an IoT Field Engineer,12+ year embedded software development experience.</p>
 
 URL:https://2021.ubucon.asia/sessions/cicd_with_snap_package_deployment/
 END:VEVENT
@@ -519,7 +576,25 @@ DTSTAMP:20210925T061500Z
 DTSTART:20210925T061500
 DTEND:20210925T064500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.<em>How to treat SD cards.<em>How to hack UEFI to optimize PC</em>Games on Ubuntu Desktop</em>Ubuntu Desktop and Raspberry Pi and more</p>
+DESCRIPTION:<p>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &lsquo;hacking.&rsquo; - Firmware/OSes. We could customize such PCs for our use.</p>
+<p>I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &lsquo;hackable&rsquo; PCs.</p>
+<ul>
+<li>How to treat SD cards.</li>
+<li>How to hack UEFI to optimize PC</li>
+<li>Games on Ubuntu Desktop</li>
+<li>Ubuntu Desktop and Raspberry Pi</li>
+<li>and more</li>
+</ul>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>Masafumi is now leading the Raspberry Pi community in Japan and volunteering Raspberry Pi Foundation since 2012 from the farthest eastern country &lsquo;Japan.&rsquo; Now, he moderates the Japanese language category on Raspberry Pi&rsquo;s official forum.</p>
+<p>Masafumi has also been contributing to many other OpenSource projects for a long time.</p>
+<ul>
+<li>Core Contributor for OpenSolaris Project( 2009 - 2012 )</li>
+<li>Active User Contributor for Open Infrastructure Foundation( 2018 - Present )</li>
+</ul>
+<p>Lately, Masafumi is trying to do many, helping the Japan GPD user Group; he is looking into Ubuntu on GPD Pocket 2.
+Masafumi has presented several times about the practice and uses cases on meetups for Ubuntu JP users and GPD users.
+For more information, please visit my introduction web <a href="https://masafumi.me">https://masafumi.me</a></p>
 
 URL:https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/
 END:VEVENT
@@ -535,7 +610,10 @@ DTSTAMP:20210925T051500Z
 DTSTART:20210925T051500
 DTEND:20210925T054500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely &ldquo;Sinau Bash&rdquo;.The “Sinau Bash” program that I have created is intended for other people to easily learn bash commands. By answering questions from each level. Starting from easy level, medium level, and difficulty level. In addition, the bash language can also be used in the field of education, namely introducing students to the bash command with the &ldquo;Sinau Bash&rdquo; program.</p>
+DESCRIPTION:<p>Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely &ldquo;Sinau Bash&rdquo;.</p>
+<p>The “Sinau Bash” program that I have created is intended for other people to easily learn bash commands. By answering questions from each level. Starting from easy level, medium level, and difficulty level. In addition, the bash language can also be used in the field of education, namely introducing students to the bash command with the &ldquo;Sinau Bash&rdquo; program.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>I am a person who likes to write and study communication technology. I am a teacher at one of the vocational high schools in Indonesia, namely SMK Negeri 1 Kragilan. I am a network and server guru. I am active in the linux community in Indonesia as a community builder and have held several events about Linux and open source at schools and universities.</p>
 
 URL:https://2021.ubucon.asia/sessions/sinau_bash_program_for_learning_bash_commands/
 END:VEVENT
@@ -551,8 +629,18 @@ DTSTAMP:20210925T051500Z
 DTSTART:20210925T051500
 DTEND:20210925T061500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>In this workshop, you will learn or ask your questions on how to deploy SQL Server on Linux 2019 and run a web application on a new Azure Linux virtual machine by following a great Microsoft Learn module: <a href="https://aka.ms/LearnAzureAtUbuConAsia">https://aka.ms/LearnAzureAtUbuConAsia</a> . Pre-requisites: 1. Experience using Bash from the command-line 2. Familiarity or interest in using JavaScript to connect a database and/or build web applications Have you already finished this module? No worries, you can discuss anything what you want regarding this module even you already experienced. During the workshop, the speaker will explain general concept to better understand this Learn module with Microsoft open source approach with Ubuntu Linux &amp; SQL Server on Linux 2019 and discuss with Q&amp;As while workshop attendees are doing this Learn module.</p>
+DESCRIPTION:<blockquote>
 <p>Sponsored Session (Microsoft)</p>
+</blockquote>
+<p>In this workshop, you will learn or ask your questions on how to deploy SQL Server on Linux 2019 and run a web application on a new Azure Linux virtual machine by following a great Microsoft Learn module: <a href="https://aka.ms/LearnAzureAtUbuConAsia">https://aka.ms/LearnAzureAtUbuConAsia</a>.</p>
+<p>Pre-requisites:</p>
+<ol>
+<li>Experience using Bash from the command-line</li>
+<li>Familiarity or interest in using JavaScript to connect a database and/or build web applications</li>
+</ol>
+<p>Have you already finished this module? No worries, you can discuss anything what you want regarding this module even you already experienced. During the workshop, the speaker will explain general concept to better understand this Learn module with Microsoft open source approach with Ubuntu Linux &amp; SQL Server on Linux 2019 and discuss with Q&amp;As while workshop attendees are doing this Learn module.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>Ian Choi is a developer product marketing manager in APAC. His role is to empower developers with Microsoft Azure by interacting developers in in Korea and other APAC countries as one of field Developer Relations team members in the region. He is one of active local open source developer community enthusiasts with tight interaction with Ubuntu Korea, OpenStack Korea, and Kubernetes Korea communities. He volunteers reviewing Korean localization contributions on Kubernetes documentation. Before joining in Microsoft, he served OpenStack Internalization project team lead for previous several release cycles, and he was a Microsoft MVP on Cloud and Datacenter Management (July 2016 - Oct 2018) by sharing WSL talks in Korea.</p>
 
 URL:https://2021.ubucon.asia/sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure/
 END:VEVENT
@@ -569,7 +657,8 @@ DTSTART:20210925T043000
 DTEND:20210925T051500
 LOCATION:Ubucon Asia 2021 - Track <no value>
 DESCRIPTION:<p>The desktop team has spent a great deal of time working on Flutter, let&rsquo;s talk about the motivation to invest in Flutter, the current status and future plans.</p>
-<p>TBD</p>
+<h2 id="about-the-speaker">About the speaker</h2>
+<p>Ken VanDine is an Engineering Manager at Canonical, leading the Ubuntu Desktop team. Ken has been involved in open source for over 20 years and is passionate about helping new developers get involved in open source. In Ken&rsquo;s spare time he volunteers at Kramden Institute, refurbishing computers for underprivileged children and teaching middle school-aged children how to code.</p>
 
 URL:https://2021.ubucon.asia/sessions/keynote___flutter_for_linux/
 END:VEVENT
@@ -586,7 +675,12 @@ DTSTART:20210925T040000
 DTEND:20210925T043000
 LOCATION:Ubucon Asia 2021 - Track <no value>
 DESCRIPTION:<p>This session will cover how and why we have organized the first UbuCon Asia event. We&rsquo;ll also introduce our host organizing communities, sponsors and partner communities.</p>
-<p>introduction video for each host communities required (1~2 minutes each)</p>
+<h2 id="about-the-speaker">About the speaker</h2>
+<ul>
+<li>Community Leader and Organizer at Ubuntu Korea Community</li>
+<li>Junior DevOps Engineer at Cloudmate</li>
+<li>Studies Software engineering at Sungkonghoe University</li>
+</ul>
 
 URL:https://2021.ubucon.asia/sessions/welcome_and_opening_remarks/
 END:VEVENT

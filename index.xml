@@ -257,7 +257,10 @@ TBD</description>
       <pubDate>Sat, 25 Sep 2021 18:30:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/panel_discussion___open_source_communities_in_asia_opportunities_and_challenges/</guid>
-      <description>We will hear from representatives of our hosts and open source communities in Asia. https://2021.ubucon.asia/hosts/Moderator: Hong Phuc DangSpeakers: TBC</description>
+      <description>We will hear from representatives of our hosts and open source communities in Asia. https://2021.ubucon.asia/hosts/
+Moderator: Hong Phuc Dang
+Speakers: TBC
+About the speakers Hong Phuc Dang Hong Phuc is the founder of FOSSASIA, an organization that strives to improve people’s lives through sharing open technologies and fostering global connections and sustainable production. She serves as a member of the IEEE Standards Association Board of Governors and as vice chair of the Open Source Committee.</description>
     </item>
     
     <item>
@@ -267,7 +270,8 @@ TBD</description>
       <pubDate>Sat, 25 Sep 2021 17:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks/</guid>
-      <description>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.</description>
+      <description>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.
+About the speaker Software Developer for Ubuntu on WSL and Ubuntu on Hyper-V, core maintainer for WSL Utilities.</description>
     </item>
     
     <item>
@@ -277,7 +281,9 @@ TBD</description>
       <pubDate>Sat, 25 Sep 2021 17:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/engaging_new_l10n_contributors_through_open_source_contributhon/</guid>
-      <description>Last year, Ubuntu Korean LoCo participated &amp;ldquo;Open Source Contributhon&amp;rdquo;(Contribution + Marathon) as Ubuntu Korean L10n team to engage new l10n contributors.&amp;ldquo;Open Source Contributhon&amp;rdquo; is an program led by a government agency, And more than 20 teams joined last year.In this session, We&amp;rsquo;ll introduce details about &amp;ldquo;Open Source Contributhon&amp;rdquo;(which is now &amp;ldquo;Open Source Contribution Academy&amp;rdquo;) and our experiences about the program as mentors and as mentees.Bokmi Han will introduce about the Open Source Contributhon program- The Backgrounds: To help beginners to contribute to opensource and beyond the language barrier- Who joins: Mentors who already a contributor or a commiter, and Mentees(usually students and workers) who want to become a contributor- The overall schedule of the program.</description>
+      <description>Last year, Ubuntu Korean LoCo participated &amp;ldquo;Open Source Contributhon&amp;rdquo;(Contribution + Marathon) as Ubuntu Korean L10n team to engage new l10n contributors. &amp;ldquo;Open Source Contributhon&amp;rdquo; is an program led by a government agency, And more than 20 teams joined last year.
+In this session, We&amp;rsquo;ll introduce details about &amp;ldquo;Open Source Contributhon&amp;rdquo;(which is now &amp;ldquo;Open Source Contribution Academy&amp;rdquo;) and our experiences about the program as mentors and as mentees.
+Bokmi Han will introduce about the Open Source Contributhon program</description>
     </item>
     
     <item>
@@ -298,7 +304,7 @@ TBD</description>
       
       <guid>https://2021.ubucon.asia/sessions/hacking_on_unity7_and_unityx/</guid>
       <description>In this session, I’ll be demonstrating how to set up a build environment for Unity7. I’ll then be compiling It live. I’ll also be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb.
-Community partner session slot: Ubuntu Unity Remix team</description>
+About the speaker I&amp;rsquo;m an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.</description>
     </item>
     
     <item>
@@ -308,7 +314,9 @@ Community partner session slot: Ubuntu Unity Remix team</description>
       <pubDate>Sat, 25 Sep 2021 15:45:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/who_killed_my_processes/</guid>
-      <description>All of sudden, one of your processes that should be alive was &amp;lsquo;kill&amp;rsquo;ed by someone&amp;rsquo;s Signal! Who did that? Let&amp;rsquo;s trace the issue with Linux Kernel hacking.In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.Attendees at least should know what the Signal is in Computer Science.</description>
+      <description>All of sudden, one of your processes that should be alive was &amp;lsquo;kill&amp;rsquo;ed by someone&amp;rsquo;s Signal! Who did that? Let&amp;rsquo;s trace the issue with Linux Kernel hacking. In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.
+Attendees at least should know what the Signal is in Computer Science.
+About the speaker I had been contributing to GNOME foundation as a programmer for 2 years before and currently interested in ARM64 Linux Kernel core and Network Subsystem.</description>
     </item>
     
     <item>
@@ -318,7 +326,8 @@ Community partner session slot: Ubuntu Unity Remix team</description>
       <pubDate>Sat, 25 Sep 2021 15:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/cicd_with_snap_package_deployment/</guid>
-      <description>Build, test and publish applications automatically. Bring CI/CD to your IoT andappliances. Give your developers a pipeline to deliver updates to customersstraight from their standard process, and empower customers to test beta andpre-release versions. Whether you’re using Git with Travis or Jenkins,automated snap creation is just a few steps away. For open source projects, wewill even build your snap for ARM, x86, POWER and Z. Canary updates and automaticrollbacks let you go fast with confidence.</description>
+      <description>Sponsored session (Ubuntu)
+ Build, test and publish applications automatically. Bring CI/CD to your IoT andappliances. Give your developers a pipeline to deliver updates to customersstraight from their standard process, and empower customers to test beta andpre-release versions. Whether you’re using Git with Travis or Jenkins,automated snap creation is just a few steps away. For open source projects, wewill even build your snap for ARM, x86, POWER and Z. Canary updates and automaticrollbacks let you go fast with confidence.</description>
     </item>
     
     <item>
@@ -328,7 +337,9 @@ Community partner session slot: Ubuntu Unity Remix team</description>
       <pubDate>Sat, 25 Sep 2021 15:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/</guid>
-      <description>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &amp;lsquo;hacking.&amp;rsquo; - Firmware/OSes. We could customize such PCs for our use.I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &amp;lsquo;hackable&amp;rsquo; PCs.How to treat SD cards.</description>
+      <description>Desktop Ubuntu is a good use for workstations and some games development. I have tried for it not only software/hardware development but also game and daily use. Lately, we can use Chinese hackable PCs like GPD/Chuwi, which encourages &amp;lsquo;hacking.&amp;rsquo; - Firmware/OSes. We could customize such PCs for our use.
+I will talk and discuss about my practice to use Ubuntu Desktop on Raspberry Pi and such &amp;lsquo;hackable&amp;rsquo; PCs.
+ How to treat SD cards.</description>
     </item>
     
     <item>
@@ -348,7 +359,10 @@ Community partner session slot: Ubuntu Unity Remix team</description>
       <pubDate>Sat, 25 Sep 2021 14:15:00 +0900</pubDate>
       
       <guid>https://2021.ubucon.asia/sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure/</guid>
-      <description>In this workshop, you will learn or ask your questions on how to deploy SQL Server on Linux 2019 and run a web application on a new Azure Linux virtual machine by following a great Microsoft Learn module: https://aka.ms/LearnAzureAtUbuConAsia . Pre-requisites: 1. Experience using Bash from the command-line 2. Familiarity or interest in using JavaScript to connect a database and/or build web applications Have you already finished this module? No worries, you can discuss anything what you want regarding this module even you already experienced.</description>
+      <description>Sponsored Session (Microsoft)
+ In this workshop, you will learn or ask your questions on how to deploy SQL Server on Linux 2019 and run a web application on a new Azure Linux virtual machine by following a great Microsoft Learn module: https://aka.ms/LearnAzureAtUbuConAsia.
+Pre-requisites:
+ Experience using Bash from the command-line Familiarity or interest in using JavaScript to connect a database and/or build web applications  Have you already finished this module?</description>
     </item>
     
     <item>
@@ -359,7 +373,7 @@ Community partner session slot: Ubuntu Unity Remix team</description>
       
       <guid>https://2021.ubucon.asia/sessions/keynote___flutter_for_linux/</guid>
       <description>The desktop team has spent a great deal of time working on Flutter, let&amp;rsquo;s talk about the motivation to invest in Flutter, the current status and future plans.
-TBD</description>
+About the speaker Ken VanDine is an Engineering Manager at Canonical, leading the Ubuntu Desktop team. Ken has been involved in open source for over 20 years and is passionate about helping new developers get involved in open source. In Ken&amp;rsquo;s spare time he volunteers at Kramden Institute, refurbishing computers for underprivileged children and teaching middle school-aged children how to code.</description>
     </item>
     
     <item>
@@ -370,7 +384,7 @@ TBD</description>
       
       <guid>https://2021.ubucon.asia/sessions/welcome_and_opening_remarks/</guid>
       <description>This session will cover how and why we have organized the first UbuCon Asia event. We&amp;rsquo;ll also introduce our host organizing communities, sponsors and partner communities.
-introduction video for each host communities required (1~2 minutes each)</description>
+About the speaker  Community Leader and Organizer at Ubuntu Korea Community Junior DevOps Engineer at Cloudmate Studies Software engineering at Sungkonghoe University  </description>
     </item>
     
     <item>
