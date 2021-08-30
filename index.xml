@@ -18,14 +18,13 @@
     </item>
     
     <item>
-      <title>UKUI3 Technology Sharing In Tablet Mode 
+      <title>Organize Virtual Event with Open Source Tools 
 </title>
-      <link>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</link>
+      <link>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</link>
       <pubDate>Sun, 26 Sep 2021 19:15:00 +0900</pubDate>
       
-      <guid>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</guid>
-      <description>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&amp;rsquo;s experience and achievements in how to add support for tablet form and its future planning.
-About the speaker R &amp;amp; D Manager of UbuntuKylin team</description>
+      <guid>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</guid>
+      <description>This talk aims to enable community organizers to organize event with open source tools focusing on Eventyay and open source video solutions.</description>
     </item>
     
     <item>
@@ -239,16 +238,6 @@ Snaps are app packages for desktop, cloud, and IoT that are easy to install, sec
     </item>
     
     <item>
-      <title>Organize Virtual Event with Open Source Tools 
-</title>
-      <link>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</link>
-      <pubDate>Sun, 26 Sep 2021 13:15:00 +0900</pubDate>
-      
-      <guid>https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/</guid>
-      <description>This talk aims to enable community organizers to organize event with open source tools focusing on Eventyay and open source video solutions.</description>
-    </item>
-    
-    <item>
       <title>The input method, another way to edit Japenense documents, Hanjp project 
 </title>
       <link>https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/</link>
@@ -256,6 +245,17 @@ Snaps are app packages for desktop, cloud, and IoT that are easy to install, sec
       
       <guid>https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/</guid>
       <description>In this session, I&amp;rsquo;d like to introduce about Hanjp Input Method project, first of all. Its concept, the reasons why did I start the project, current state, and some demos are included. Then, I will re-introduce it in techincal view. Choosen languages and libraries, program structure, and project milestone are included. Then lastly, I&amp;rsquo;d talk about community development. Current contribution activity, Open Up activities(the open source activity) are included. Please refer to URL below to get informed about Hanjp project https://github.</description>
+    </item>
+    
+    <item>
+      <title>UKUI3 Technology Sharing In Tablet Mode 
+</title>
+      <link>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</link>
+      <pubDate>Sun, 26 Sep 2021 13:15:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/</guid>
+      <description>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&amp;rsquo;s experience and achievements in how to add support for tablet form and its future planning.
+About the speaker R &amp;amp; D Manager of UbuntuKylin team</description>
     </item>
     
     <item>

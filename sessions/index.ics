@@ -21,8 +21,8 @@ URL:https://2021.ubucon.asia/sessions/gnomeasia_summit_2021/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="Zhang Chao";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:zhangchao@kylinos.cn
-SUMMARY:UKUI3 Technology Sharing In Tablet Mode 
+ATTENDEE;CN="Mario Behling";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:mb@fossasia.org
+SUMMARY:Organize Virtual Event with Open Source Tools 
 
 UID:20210926T101500@2021.asia.ubucon.org
 SEQUENCE:0
@@ -31,11 +31,9 @@ DTSTAMP:20210926T101500Z
 DTSTART:20210926T101500
 DTEND:20210926T104500
 LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&rsquo;s experience and achievements in how to add support for tablet form and its future planning.</p>
-<h3 id="about-the-speaker">About the speaker</h3>
-<p>R &amp; D Manager of UbuntuKylin team</p>
+DESCRIPTION:<p>This talk aims to enable community organizers to organize event with open source tools focusing on Eventyay and open source video solutions.</p>
 
-URL:https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/
+URL:https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
@@ -488,22 +486,6 @@ URL:https://2021.ubucon.asia/sessions/snap_in_microos/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="Mario Behling";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:mb@fossasia.org
-SUMMARY:Organize Virtual Event with Open Source Tools 
-
-UID:20210926T041500@2021.asia.ubucon.org
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20210926T041500Z
-DTSTART:20210926T041500
-DTEND:20210926T044500
-LOCATION:Ubucon Asia 2021 - Track <no value>
-DESCRIPTION:<p>This talk aims to enable community organizers to organize event with open source tools focusing on Eventyay and open source video solutions.</p>
-
-URL:https://2021.ubucon.asia/sessions/organize_virtual_event_with_open_source_tools/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="Kwangyeon Kim";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:ghemool123@gmail.com
 SUMMARY:The input method, another way to edit Japenense documents, Hanjp project 
 
@@ -528,6 +510,24 @@ Please refer to URL below to get informed about Hanjp project
 Since I got many diffficulty in to get entering to open source contribution, I wanted to communicate with open source newcomers to promote their contribution, and I&rsquo;m handling some works for it. By doing so, I want to improve community communication in Korea, and finally I want to enjoy funny works with Korean open source contributers, and fully enjoy my favorite open source softwares.</p>
 
 URL:https://2021.ubucon.asia/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
+ATTENDEE;CN="Zhang Chao";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:zhangchao@kylinos.cn
+SUMMARY:UKUI3 Technology Sharing In Tablet Mode 
+
+UID:20210926T041500@2021.asia.ubucon.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210926T041500Z
+DTSTART:20210926T041500
+DTEND:20210926T044500
+LOCATION:Ubucon Asia 2021 - Track <no value>
+DESCRIPTION:<p>Ukui 3.0 is a lightweight desktop environment based on Linux release developed by Kylin team. In addition to the traditional desktop mode, the tablet mode is also provided to meet the needs of various scenarios.We will share ukui&rsquo;s experience and achievements in how to add support for tablet form and its future planning.</p>
+<h3 id="about-the-speaker">About the speaker</h3>
+<p>R &amp; D Manager of UbuntuKylin team</p>
+
+URL:https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
