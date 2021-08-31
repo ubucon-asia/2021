@@ -208,18 +208,24 @@
 
 
 <script>
+  function convertTimeToLocalTZ(date) {
+    let toConvert = new Date(date);
+    let currentTZ = new window.Intl.DateTimeFormat().resolvedOptions().timeZone;
+    return toConvert.toLocaleTimeString('en-US',{hour12: false, timeZone: currentTZ});
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
       allDaySlot: false,
       locale: 'en',
       initialView: 'timeGridDay',
-      initialDate: '2021-09-25',
+      initialDate: '2021-09-25T12:00:00\u002b09:00',
       slotDuration: '00:05:00',
-      slotMinTime: '13:00:00\u002b09:00',
+      scrollTime: convertTimeToLocalTZ('2000-01-01T13:00:00\u002b09:00'),
       validRange: {
-        start: '2021-09-25',
-        end: '2021-09-27'
+        start: '2021-09-25T12:00:00\u002b09:00',
+        end: '2021-09-26T22:00:00\u002b09:00'
       },
       eventClick: function(info) {
         window.location = info.event.url;
@@ -229,8 +235,8 @@
         
           {
             title: 'GNOME.Asia Summit 2021 \n - ; (Room 1)',
-            start: '2021-09-26T10:45:00\u002b00:00',
-            end: '2021-09-26T10:50:00\u002b00:00',
+            start: new Date('2021-09-26T10:45:00\u002b00:00'),
+            end: new Date('2021-09-26T10:50:00\u002b00:00'),
             url: '\/sessions\/gnomeasia_summit_2021\/',
             backgroundColor: ' green '
           },
@@ -241,8 +247,8 @@
         
           {
             title: 'Organize Virtual Event with Open Source Tools \n - Mario Behling; (Room 1)',
-            start: '2021-09-26T10:15:00\u002b00:00',
-            end: '2021-09-26T10:45:00\u002b00:00',
+            start: new Date('2021-09-26T10:15:00\u002b00:00'),
+            end: new Date('2021-09-26T10:45:00\u002b00:00'),
             url: '\/sessions\/organize_virtual_event_with_open_source_tools\/',
             backgroundColor: ' green '
           },
@@ -251,8 +257,8 @@
         
           {
             title: 'Developing Integration Test with WSL APIs \n - Jung Hyun, Nam; (Room 2)',
-            start: '2021-09-26T09:45:00\u002b00:00',
-            end: '2021-09-26T10:30:00\u002b00:00',
+            start: new Date('2021-09-26T09:45:00\u002b00:00'),
+            end: new Date('2021-09-26T10:30:00\u002b00:00'),
             url: '\/sessions\/developing_integration_test_with_wsl_apis\/',
             backgroundColor: ' steelblue '
           },
@@ -261,8 +267,8 @@
         
           {
             title: 'Getting Closer with Kelompok Linux Arek Suroboyo and Buaya Linux Repository Server \n - Fadhil Yori Hibatullah;Muhamad Andhika Prasetya; (Room 1)',
-            start: '2021-09-26T09:30:00\u002b00:00',
-            end: '2021-09-26T10:15:00\u002b00:00',
+            start: new Date('2021-09-26T09:30:00\u002b00:00'),
+            end: new Date('2021-09-26T10:15:00\u002b00:00'),
             url: '\/sessions\/getting_closer_with_kelompok_linux_arek_suroboyo_and_buaya_linux_repository_server\/',
             backgroundColor: ' green '
           },
@@ -271,8 +277,8 @@
         
           {
             title: 'Having fun with Flutter Desktop development \n - Rafal Wachol; (Room 2)',
-            start: '2021-09-26T09:00:00\u002b00:00',
-            end: '2021-09-26T09:45:00\u002b00:00',
+            start: new Date('2021-09-26T09:00:00\u002b00:00'),
+            end: new Date('2021-09-26T09:45:00\u002b00:00'),
             url: '\/sessions\/having_fun_with_flutter_desktop_development\/',
             backgroundColor: ' steelblue '
           },
@@ -281,8 +287,8 @@
         
           {
             title: 'OEM metapackages \u0026 Concourse CI \n - Shih-Yuan Lee (aka FourDollars); (Room 1)',
-            start: '2021-09-26T08:45:00\u002b00:00',
-            end: '2021-09-26T09:30:00\u002b00:00',
+            start: new Date('2021-09-26T08:45:00\u002b00:00'),
+            end: new Date('2021-09-26T09:30:00\u002b00:00'),
             url: '\/sessions\/oem_metapackages__concourse_ci\/',
             backgroundColor: ' green '
           },
@@ -291,8 +297,8 @@
         
           {
             title: 'Private Lab Virtualization Using Multipass and Deploy Apps web-based on Ubuntu Server. \n - Nur Hamim; (Room 2)',
-            start: '2021-09-26T08:15:00\u002b00:00',
-            end: '2021-09-26T09:00:00\u002b00:00',
+            start: new Date('2021-09-26T08:15:00\u002b00:00'),
+            end: new Date('2021-09-26T09:00:00\u002b00:00'),
             url: '\/sessions\/private_lab_virtualization_using_multipass_and_deploy_apps_web_based_on_ubuntu_server\/',
             backgroundColor: ' steelblue '
           },
@@ -301,8 +307,8 @@
         
           {
             title: 'The challenge of Using LibreOffice \u0026 Building Local Community in Korea \n - DaeHyun Sung; (Room 1)',
-            start: '2021-09-26T08:15:00\u002b00:00',
-            end: '2021-09-26T08:45:00\u002b00:00',
+            start: new Date('2021-09-26T08:15:00\u002b00:00'),
+            end: new Date('2021-09-26T08:45:00\u002b00:00'),
             url: '\/sessions\/the_challenge_of_using_libreoffice__building_local_community_in_korea\/',
             backgroundColor: ' green '
           },
@@ -311,8 +317,8 @@
         
           {
             title: 'Mengetik Aksara Pegon dengan Ubuntu 20.04.2 \n - Faiq Aminuddin; (Room 1)',
-            start: '2021-09-26T08:10:00\u002b00:00',
-            end: '2021-09-26T08:15:00\u002b00:00',
+            start: new Date('2021-09-26T08:10:00\u002b00:00'),
+            end: new Date('2021-09-26T08:15:00\u002b00:00'),
             url: '\/sessions\/mengetik_aksara_pegon_dengan_ubuntu_20042\/',
             backgroundColor: ' green '
           },
@@ -321,8 +327,8 @@
         
           {
             title: 'If you need LAMP Stack, Journey to Ubuntu with WSL2 \n - Byongseung Cho \/ 조병승; (Room 1)',
-            start: '2021-09-26T08:05:00\u002b00:00',
-            end: '2021-09-26T08:10:00\u002b00:00',
+            start: new Date('2021-09-26T08:05:00\u002b00:00'),
+            end: new Date('2021-09-26T08:10:00\u002b00:00'),
             url: '\/sessions\/if_you_need_lamp_stack_journey_to_ubuntu_with_wsl2\/',
             backgroundColor: ' green '
           },
@@ -331,8 +337,8 @@
         
           {
             title: 'openEuler社区的开源合规实践(Open source compliance practice of the openEuler community) \n - YueLiang Wang; (Room 1)',
-            start: '2021-09-26T08:00:00\u002b00:00',
-            end: '2021-09-26T08:05:00\u002b00:00',
+            start: new Date('2021-09-26T08:00:00\u002b00:00'),
+            end: new Date('2021-09-26T08:05:00\u002b00:00'),
             url: '\/sessions\/openeuleropen_source_compliance_practice_of_the_openeuler_community\/',
             backgroundColor: ' green '
           },
@@ -341,8 +347,8 @@
         
           {
             title: 'Using kexec to speed-up reboot \n - Juhyung Park; (Room 1)',
-            start: '2021-09-26T07:55:00\u002b00:00',
-            end: '2021-09-26T08:00:00\u002b00:00',
+            start: new Date('2021-09-26T07:55:00\u002b00:00'),
+            end: new Date('2021-09-26T08:00:00\u002b00:00'),
             url: '\/sessions\/using_kexec_to_speed_up_reboot\/',
             backgroundColor: ' green '
           },
@@ -351,8 +357,8 @@
         
           {
             title: 'Introduction Indonesia Communities \n - ; (Room 1)',
-            start: '2021-09-26T07:50:00\u002b00:00',
-            end: '2021-09-26T07:55:00\u002b00:00',
+            start: new Date('2021-09-26T07:50:00\u002b00:00'),
+            end: new Date('2021-09-26T07:55:00\u002b00:00'),
             url: '\/sessions\/introduction_indonesia_communities\/',
             backgroundColor: ' green '
           },
@@ -361,8 +367,8 @@
         
           {
             title: 'Ubuntu on Cloud Environments \n - Sejun Kim;Junhyeon Bae; (Room 1)',
-            start: '2021-09-26T07:45:00\u002b00:00',
-            end: '2021-09-26T07:50:00\u002b00:00',
+            start: new Date('2021-09-26T07:45:00\u002b00:00'),
+            end: new Date('2021-09-26T07:50:00\u002b00:00'),
             url: '\/sessions\/ubuntu_on_cloud_environments\/',
             backgroundColor: ' green '
           },
@@ -371,8 +377,8 @@
         
           {
             title: 'Web Hosting Server using Ubuntu and Cyberpanel \n - Darian Rizaludin; (Room 1)',
-            start: '2021-09-26T06:45:00\u002b00:00',
-            end: '2021-09-26T07:15:00\u002b00:00',
+            start: new Date('2021-09-26T06:45:00\u002b00:00'),
+            end: new Date('2021-09-26T07:15:00\u002b00:00'),
             url: '\/sessions\/web_hosting_server_using_ubuntu_and_cyberpanel\/',
             backgroundColor: ' green '
           },
@@ -381,8 +387,8 @@
         
           {
             title: 'K8s - MicroK8s \u0026 K3s \n - Ko Ko Ye; (Room 2)',
-            start: '2021-09-26T06:15:00\u002b00:00',
-            end: '2021-09-26T07:15:00\u002b00:00',
+            start: new Date('2021-09-26T06:15:00\u002b00:00'),
+            end: new Date('2021-09-26T07:15:00\u002b00:00'),
             url: '\/sessions\/k8s___microk8s__k3s\/',
             backgroundColor: ' steelblue '
           },
@@ -391,8 +397,8 @@
         
           {
             title: 'Ubuntu OS \u0026 Service patch management using Ansible \n - Doni Kuswara; (Room 1)',
-            start: '2021-09-26T06:15:00\u002b00:00',
-            end: '2021-09-26T06:45:00\u002b00:00',
+            start: new Date('2021-09-26T06:15:00\u002b00:00'),
+            end: new Date('2021-09-26T06:45:00\u002b00:00'),
             url: '\/sessions\/ubuntu_os__service_patch_management_using_ansible\/',
             backgroundColor: ' green '
           },
@@ -401,8 +407,8 @@
         
           {
             title: 'Automating boring and repetitive UbuCon Asia video and subtitle stuffs \n - Youngbin Han; (Room 2)',
-            start: '2021-09-26T05:15:00\u002b00:00',
-            end: '2021-09-26T05:45:00\u002b00:00',
+            start: new Date('2021-09-26T05:15:00\u002b00:00'),
+            end: new Date('2021-09-26T05:45:00\u002b00:00'),
             url: '\/sessions\/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs\/',
             backgroundColor: ' steelblue '
           },
@@ -411,8 +417,8 @@
         
           {
             title: 'Don\u0027t Judge A Book by Its Cover: Contributing to Open Source Communities with Graphic Design \n - Bayu Aji; (Room 1)',
-            start: '2021-09-26T05:15:00\u002b00:00',
-            end: '2021-09-26T05:45:00\u002b00:00',
+            start: new Date('2021-09-26T05:15:00\u002b00:00'),
+            end: new Date('2021-09-26T05:45:00\u002b00:00'),
             url: '\/sessions\/dont_judge_a_book_by_its_cover_contributing_to_open_source_communities_with_graphic_design\/',
             backgroundColor: ' green '
           },
@@ -421,8 +427,8 @@
         
           {
             title: 'Promote Ubuntu localization of the ethnic groups in China. \n - Burgess Chang; (Room 2)',
-            start: '2021-09-26T04:45:00\u002b00:00',
-            end: '2021-09-26T05:15:00\u002b00:00',
+            start: new Date('2021-09-26T04:45:00\u002b00:00'),
+            end: new Date('2021-09-26T05:15:00\u002b00:00'),
             url: '\/sessions\/promote_ubuntu_localization_of_the_ethnic_groups_in_china\/',
             backgroundColor: ' steelblue '
           },
@@ -431,8 +437,8 @@
         
           {
             title: 'Snap in MicroOS \n - Kukuh Syafaat; (Room 1)',
-            start: '2021-09-26T04:45:00\u002b00:00',
-            end: '2021-09-26T05:15:00\u002b00:00',
+            start: new Date('2021-09-26T04:45:00\u002b00:00'),
+            end: new Date('2021-09-26T05:15:00\u002b00:00'),
             url: '\/sessions\/snap_in_microos\/',
             backgroundColor: ' green '
           },
@@ -441,8 +447,8 @@
         
           {
             title: 'The input method, another way to edit Japenense documents, Hanjp project \n - Kwangyeon Kim; (Room 1)',
-            start: '2021-09-26T04:15:00\u002b00:00',
-            end: '2021-09-26T04:45:00\u002b00:00',
+            start: new Date('2021-09-26T04:15:00\u002b00:00'),
+            end: new Date('2021-09-26T04:45:00\u002b00:00'),
             url: '\/sessions\/the_input_method_another_way_to_edit_japenense_documents_hanjp_project\/',
             backgroundColor: ' green '
           },
@@ -451,8 +457,8 @@
         
           {
             title: 'UKUI3 Technology Sharing In Tablet Mode \n - Zhang Chao; (Room 2)',
-            start: '2021-09-26T04:15:00\u002b00:00',
-            end: '2021-09-26T04:45:00\u002b00:00',
+            start: new Date('2021-09-26T04:15:00\u002b00:00'),
+            end: new Date('2021-09-26T04:45:00\u002b00:00'),
             url: '\/sessions\/ukui3_technology_sharing_in_tablet_mode\/',
             backgroundColor: ' steelblue '
           },
@@ -461,8 +467,8 @@
         
           {
             title: 'Social event - Day 1 \n - ; (Room 1)',
-            start: '2021-09-25T10:25:00\u002b00:00',
-            end: '2021-09-25T11:25:00\u002b00:00',
+            start: new Date('2021-09-25T10:25:00\u002b00:00'),
+            end: new Date('2021-09-25T11:25:00\u002b00:00'),
             url: '\/sessions\/social_event___day_1\/',
             backgroundColor: ' green '
           },
@@ -471,8 +477,8 @@
         
           {
             title: 'Panel Discussion - Open Source Communities in Asia: Opportunities and Challenges  \n - Hong Phuc Dang; (Room 1)',
-            start: '2021-09-25T09:30:00\u002b00:00',
-            end: '2021-09-25T10:25:00\u002b00:00',
+            start: new Date('2021-09-25T09:30:00\u002b00:00'),
+            end: new Date('2021-09-25T10:25:00\u002b00:00'),
             url: '\/sessions\/panel_discussion___open_source_communities_in_asia_opportunities_and_challenges\/',
             backgroundColor: ' green '
           },
@@ -481,8 +487,8 @@
         
           {
             title: 'Developing on Ubuntu with WSL Interoperability: Tips and Tricks \n - Patrick Wu; (Room 2)',
-            start: '2021-09-25T08:45:00\u002b00:00',
-            end: '2021-09-25T09:15:00\u002b00:00',
+            start: new Date('2021-09-25T08:45:00\u002b00:00'),
+            end: new Date('2021-09-25T09:15:00\u002b00:00'),
             url: '\/sessions\/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks\/',
             backgroundColor: ' steelblue '
           },
@@ -491,8 +497,8 @@
         
           {
             title: 'Engaging new l10n contributors through Open Source Contributhon \n - Bokmi Han;Youngbin Han;Joowon Jung; (Room 1)',
-            start: '2021-09-25T08:45:00\u002b00:00',
-            end: '2021-09-25T09:30:00\u002b00:00',
+            start: new Date('2021-09-25T08:45:00\u002b00:00'),
+            end: new Date('2021-09-25T09:30:00\u002b00:00'),
             url: '\/sessions\/engaging_new_l10n_contributors_through_open_source_contributhon\/',
             backgroundColor: ' green '
           },
@@ -501,8 +507,8 @@
         
           {
             title: 'Survival of The Fittest: How Open-source Helps Me Survive after Company Shutdown \n - Nur Rahman; (Room 1)',
-            start: '2021-09-25T07:45:00\u002b00:00',
-            end: '2021-09-25T08:15:00\u002b00:00',
+            start: new Date('2021-09-25T07:45:00\u002b00:00'),
+            end: new Date('2021-09-25T08:15:00\u002b00:00'),
             url: '\/sessions\/survival_of_the_fittest_how_open_source_helps_me_survive_after_company_shutdown\/',
             backgroundColor: ' green '
           },
@@ -511,8 +517,8 @@
         
           {
             title: 'Hacking on Unity7 and UnityX \n - Rudra B. Saraswat; (Room 1)',
-            start: '2021-09-25T07:15:00\u002b00:00',
-            end: '2021-09-25T07:45:00\u002b00:00',
+            start: new Date('2021-09-25T07:15:00\u002b00:00'),
+            end: new Date('2021-09-25T07:45:00\u002b00:00'),
             url: '\/sessions\/hacking_on_unity7_and_unityx\/',
             backgroundColor: ' green '
           },
@@ -521,8 +527,8 @@
         
           {
             title: 'Who \u0027kill\u0027ed my processes? \n - Leesoo Ahn; (Room 1)',
-            start: '2021-09-25T06:45:00\u002b00:00',
-            end: '2021-09-25T07:15:00\u002b00:00',
+            start: new Date('2021-09-25T06:45:00\u002b00:00'),
+            end: new Date('2021-09-25T07:15:00\u002b00:00'),
             url: '\/sessions\/who_killed_my_processes\/',
             backgroundColor: ' green '
           },
@@ -531,8 +537,8 @@
         
           {
             title: 'CI\/CD with Snap package deployment \n - Taiten Peng; (Room 2)',
-            start: '2021-09-25T06:15:00\u002b00:00',
-            end: '2021-09-25T08:15:00\u002b00:00',
+            start: new Date('2021-09-25T06:15:00\u002b00:00'),
+            end: new Date('2021-09-25T08:15:00\u002b00:00'),
             url: '\/sessions\/cicd_with_snap_package_deployment\/',
             backgroundColor: ' steelblue '
           },
@@ -541,8 +547,8 @@
         
           {
             title: 'Desktop Ubutu on Laptops\/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more \n - Masafumi Ohta; (Room 1)',
-            start: '2021-09-25T06:15:00\u002b00:00',
-            end: '2021-09-25T06:45:00\u002b00:00',
+            start: new Date('2021-09-25T06:15:00\u002b00:00'),
+            end: new Date('2021-09-25T06:45:00\u002b00:00'),
             url: '\/sessions\/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more\/',
             backgroundColor: ' green '
           },
@@ -551,8 +557,8 @@
         
           {
             title: '\u0022Sinau Bash\u0022 Program for Learning Bash Commands \n - Kuriyanto Adi Saputro; (Room 1)',
-            start: '2021-09-25T05:15:00\u002b00:00',
-            end: '2021-09-25T05:45:00\u002b00:00',
+            start: new Date('2021-09-25T05:15:00\u002b00:00'),
+            end: new Date('2021-09-25T05:45:00\u002b00:00'),
             url: '\/sessions\/sinau_bash_program_for_learning_bash_commands\/',
             backgroundColor: ' green '
           },
@@ -561,8 +567,8 @@
         
           {
             title: 'How Ubuntu empowers databases and cloud development on Azure \n - Ian Y. Choi; (Room 2)',
-            start: '2021-09-25T05:15:00\u002b00:00',
-            end: '2021-09-25T06:15:00\u002b00:00',
+            start: new Date('2021-09-25T05:15:00\u002b00:00'),
+            end: new Date('2021-09-25T06:15:00\u002b00:00'),
             url: '\/sessions\/how_ubuntu_empowers_databases_and_cloud_development_on_azure\/',
             backgroundColor: ' steelblue '
           },
@@ -571,8 +577,8 @@
         
           {
             title: 'Keynote - Flutter for Linux \n - Ken VanDine; (Room 1)',
-            start: '2021-09-25T04:30:00\u002b00:00',
-            end: '2021-09-25T05:15:00\u002b00:00',
+            start: new Date('2021-09-25T04:30:00\u002b00:00'),
+            end: new Date('2021-09-25T05:15:00\u002b00:00'),
             url: '\/sessions\/keynote___flutter_for_linux\/',
             backgroundColor: ' green '
           },
@@ -581,8 +587,8 @@
         
           {
             title: 'Welcome and Opening Remarks \n - Youngbin Han; (Room 1)',
-            start: '2021-09-25T04:00:00\u002b00:00',
-            end: '2021-09-25T04:30:00\u002b00:00',
+            start: new Date('2021-09-25T04:00:00\u002b00:00'),
+            end: new Date('2021-09-25T04:30:00\u002b00:00'),
             url: '\/sessions\/welcome_and_opening_remarks\/',
             backgroundColor: ' green '
           },
