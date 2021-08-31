@@ -20,17 +20,8 @@
         <h1>{{.Title}}</h1>
         <h4>{{.Site.Params.description}}</h4>
         <p>{{.Site.Params.period}}</p>
-        <span class="p-contextual-menu--left">
-            <button class="p-contextual-menu__toggle p-button has-icon" aria-controls="menu-3" aria-expanded="false" aria-haspopup="true">
-              <span>{{ i18n "register_now" }}</span><i class="p-icon--chevron-down"></i>
-            </button>
-            <span class="p-contextual-menu__dropdown" id="menu-3" aria-hidden="true">
-                <span class="p-contextual-menu__group">
-                    <a href="{{.Site.Params.registerURLS.attendee}}" class="p-contextual-menu__link">{{ i18n "attendee" }}</a>
-                    <a href="{{.Site.Params.registerURLS.callForSpeakers}}" class="p-contextual-menu__link">{{ i18n "call_for_speakers" }}</a>
-                </span>
-            </span>
-        </span>
+        <a href="{{.Site.Params.registerURLS.attendee}}"><button>{{ i18n "register_now" }}</button></a>
+        <a href="sessions"><button>{{ i18n "sessions" }}</button></a>
         <a href="sponsors/become-a-sponsor"><button>{{ i18n "become_sponsor" }}</button></a>
       </div>
       <div class="col-4">
