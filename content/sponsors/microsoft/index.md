@@ -7,7 +7,7 @@ github: "https://github.com/microsoft"
 facebook: "https://www.facebook.com/microsoftapac"
 youtube: "https://www.youtube.com/c/MicrosoftAPAC"
 twitter: "https://twitter.com/MicrosoftAPAC"
-cover: cover.jfif
+cover: cover.png
 brochure: brochure.pdf # path to brochure pdf file
 region: Global # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
