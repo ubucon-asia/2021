@@ -11,7 +11,7 @@ speakers: # Speaker info
       email: me@patrickwu.space # Email
       launchpad: # link to launchpad.net profile
       github: https://github.com/patrick330602 # link to github profile
-      profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
+      profile: profile.jpg # Speaker photo
       linkurl: https://patrickwu.space/ # Other website link url
       linklabel: Website # Label for linkurl
 ---

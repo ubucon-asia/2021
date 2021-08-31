@@ -11,7 +11,7 @@ speakers: # Speaker info
       email: nurrahmanottoman@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github: # link to github profile
-      profile: "sessions/<session-item-dir>/<photo-file>" # Speaker photo
+      profile: profile.jpg # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
