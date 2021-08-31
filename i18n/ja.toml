@@ -24,3 +24,5 @@ other = "カレンダーに追加（icsファイル）"
 other = "カレンダーを購読（webcal）"
 [ical]
 other = "セッションスケジュール カレンダー"
+[session_duration]
+other = "Session duration"

@@ -38,3 +38,5 @@ other = "More host communities"
 other = "Ubuntu Local Communities"
 [other_foss]
 other = "Other Free and Open Source Communities"
+[session_duration]
+other = "Session duration"

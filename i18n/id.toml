@@ -70,3 +70,5 @@ other = "Judul"
 other = "Bahasa"
 [speakers]
 other = "Pembicara"
+[session_duration]
+other = "Session duration"

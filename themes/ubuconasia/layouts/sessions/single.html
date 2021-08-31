@@ -9,6 +9,9 @@
             <p>{{.Date.Format "2006-01-02 03:04 MST"}}</p>
             <div>
               <div class="p-label--new">Room {{.Params.room}}</div>
+              {{if .Params.end}}
+              <div class="p-label--new">{{ i18n "session_duration" }} {{(time .Params.end).Sub .Date}}</div>
+              {{end}}
             </div>
         </div>
       </section>

@@ -70,3 +70,5 @@ other = "제목"
 other = "언어"
 [speakers]
 other = "연사"
+[session_duration]
+other = "세션 시간"
