@@ -23,6 +23,12 @@
 {{ end }}
 {{ $pages = (where $pages "Section" "sessions") }}
 <script>
+  function convertTimeToLocalTZ(date) {
+    let toConvert = new Date(date);
+    let currentTZ = new window.Intl.DateTimeFormat().resolvedOptions().timeZone;
+    return toConvert.toLocaleTimeString('en-US',{hour12: false, timeZone: currentTZ});
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -31,7 +37,7 @@
       initialView: 'timeGridDay',
       initialDate: '{{ .Site.Params.timetable.dateStart }}',
       slotDuration: '00:05:00',
-      slotMinTime: '{{ .Site.Params.timetable.timeStart }}',
+      scrollTime: convertTimeToLocalTZ('{{ .Site.Params.timetable.timeStart }}'),
       validRange: {
         start: '{{ .Site.Params.timetable.dateStart }}',
         end: '{{ .Site.Params.timetable.dateEnd }}'
@@ -44,8 +50,8 @@
         {{ if .Params.speakers }}
           {
             title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}} (Room {{.Params.room}})',
-            start: '{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}',
-            end: '{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}',
+            start: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}'),
+            end: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}'),
             url: '{{.RelPermalink}}',
             backgroundColor: '{{if eq .Params.room 1}} green {{else if (eq .Params.room 2)}} steelblue {{end}}'
           },

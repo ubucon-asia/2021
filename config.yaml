@@ -295,8 +295,8 @@ params:
     attendee: https://eventyay.com/e/75ac7f83
     callForSpeakers: /cfs
   timetable:
-    dateStart: 2021-09-25
-    dateEnd: 2021-09-27
-    timeStart: 13:00:00+09:00
+    dateStart: 2021-09-25T12:00:00+09:00
+    dateEnd: 2021-09-26T22:00:00+09:00
+    timeStart: 2000-01-01T13:00:00+09:00 # Use random date for timeStart param
 outputs:
   section: ["HTML", "RSS", "Calendar"]
