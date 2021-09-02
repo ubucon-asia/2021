@@ -4,7 +4,7 @@ title: >
 date: 2021-09-26T15:15:00+09:00
 end: 2021-09-26T16:15:00+09:00
 room: 2
-featured: false # If it's true. This session will appear on main page.
+featured: true # If it's true. This session will appear on main page.
 speakers: # Speaker info
     - name: Ko Ko Ye
       bio: Team Lead, Ubuntu Myanmar LoCo Team
