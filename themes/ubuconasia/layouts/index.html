@@ -46,7 +46,7 @@
   <section class="p-strip--light">
     <div class="row">
       <h2>{{ i18n "featured" }}</h2>
-      {{ range first 4 ( sort (intersect (where $regularPages "Section" "sessions") (where $allPages "Params.featured" true)) "Date" "asc" ) }}
+      {{ range first 6 ( sort (intersect (where $regularPages "Section" "sessions") (where $allPages "Params.featured" true)) "Date" "asc" ) }}
       {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
       <div class="col-6">
         <div class="p-media-object--large">
