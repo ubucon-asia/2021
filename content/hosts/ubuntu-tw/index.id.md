@@ -1,6 +1,6 @@
 ---
 title: "Komunitas Lokal Ubuntu Taiwan"
-photo: "logo.png"
+photo: "logo.jpg"
 group: UbuntuLoCos
 region: Taiwan
 website: "https://www.ubuntu-tw.org/"
