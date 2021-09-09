@@ -1,22 +1,32 @@
 [
     {
         "name": "DaeHyun Sung",
-        "donated_at": "2021-07-06 16:21:14.005999+00:00"
+        "org_and_title": "Contributor @ LibreOffice Korean Team",
+        "donated_at": "July 6, 2021 16:21 +0000"
     },
     {
         "name": "Youngbin Han",
-        "donated_at": "2021-07-08 08:24:36.485165+00:00"
+        "org_and_title": "Community Leader @ Ubuntu Korea Community",
+        "donated_at": "July 8, 2021 08:24 +0000"
     },
     {
-        "name": "Ubuntu Japanese Local Community",
-        "donated_at": "2021-08-04 13:32:32.204924+00:00"
+        "name": "Fumihito (Donation from Ubuntu Japanese LoCo)  Yoshida",
+        "org_and_title": "(LoCo) @ Ubuntu Japanase Team",
+        "donated_at": "August 4, 2021 13:32 +0000"
     },
     {
         "name": "Naruhiko Ogasawara",
-        "donated_at": "2021-08-04 23:22:22.694325+00:00"
+        "org_and_title": "Open Source Enthusiast @ Indivisual",
+        "donated_at": "August 4, 2021 23:22 +0000"
     },
     {
         "name": "Saputro Aryulianto",
-        "donated_at": "2021-08-06 00:38:09.730452+00:00"
+        "org_and_title": "Cloud Architect @ IMTEK",
+        "donated_at": "August 6, 2021 00:38 +0000"
+    },
+    {
+        "name": "Byongseung Cho",
+        "org_and_title": "Technical Writer @ Myoinbong",
+        "donated_at": "September 9, 2021 11:55 +0000"
     }
 ]
