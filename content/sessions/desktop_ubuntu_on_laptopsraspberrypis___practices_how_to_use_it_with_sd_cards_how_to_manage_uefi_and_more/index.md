@@ -1,6 +1,6 @@
 ---
 title: >
-    Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+    Desktop Ubuntu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
 date: 2021-09-25T15:15:00+09:00
 end: 2021-09-25T15:45:00+09:00
 room: 1
