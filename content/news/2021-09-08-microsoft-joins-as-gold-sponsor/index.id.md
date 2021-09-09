@@ -28,6 +28,6 @@ Kami berterima kasih kepada Microsoft atas komitmen mereka terhadap sumber terbu
 
 Pendaftaran sekarang dibuka di sini untuk Ubucon Asia 2021 (25-26 September): https://eventyay.com/e/75ac7f83
 
-Untuk detail tentang pembicaraan dan lokakarya terjadwal kami, seperti lokakarya yang disponsori Microsoft ["How Ubuntu empowers databases and cloud development on Azure" dengan Ian Y. Choi (Developer Product Marketing Manager, Microsoft, Microsoft)](../../sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure ) lihat di sini: https://2021.ubucon.asia/sessions/
+Untuk detail tentang pembicaraan dan lokakarya terjadwal kami, seperti lokakarya yang disponsori Microsoft ["How Ubuntu empowers databases and cloud development on Azure" dengan Ian Y. Choi (Developer Product Marketing Manager, Microsoft)](../../sessions/how_ubuntu_empowers_databases_and_cloud_development_on_azure ) lihat di sini: https://2021.ubucon.asia/sessions/
 
 Kami berharap dapat melihat Anda di sana!
