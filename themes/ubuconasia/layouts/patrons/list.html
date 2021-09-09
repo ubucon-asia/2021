@@ -9,24 +9,16 @@
     </section>
     <section class="p-strip">
         <div class="row">
-            {{ .Content }}
-            <table aria-label="Example of formatting in the table">
-                <thead>
-                  <tr>
-                    <th>{{ i18n "name" }}</th>
-                    <th>{{ i18n "donated_at" }}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                    {{ range .Site.Data.patrons }}
-                  <tr>
-                    <th>{{.name}}</th>
-                    <td>{{.donated_at}}</td>
-                  </tr>
-                  {{ end }}
-                </tbody>
-              </table>
-        
+        {{ .Content }}
+        {{ range .Site.Data.patrons }}
+        <div class="p-card col-4">
+          <h3>{{.name}}</h3>
+          <h5>{{.org_and_title}}</h5>
+          <hr/>
+          <p class="p-text--x-small-capitalised">{{ i18n "donated_at" }}</p>
+          <p>{{.donated_at}}</p>
+        </div>
+             {{ end }}
         </div>
     </section>
 </main>
