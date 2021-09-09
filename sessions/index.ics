@@ -727,7 +727,7 @@ END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="Masafumi Ohta";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:masafumi@pid0.org
-SUMMARY:Desktop Ubutu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
+SUMMARY:Desktop Ubuntu on Laptops/RaspberryPis - practices how to use it with SD cards, how to manage UEFI and more 
 
 UID:20210925T061500@2021.asia.ubucon.org
 SEQUENCE:0
@@ -756,7 +756,7 @@ DESCRIPTION:<p>Desktop Ubuntu is a good use for workstations and some games deve
 Masafumi has presented several times about the practice and uses cases on meetups for Ubuntu JP users and GPD users.
 For more information, please visit my introduction web <a href="https://masafumi.me">https://masafumi.me</a></p>
 
-URL:https://2021.ubucon.asia/sessions/desktop_ubutu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/
+URL:https://2021.ubucon.asia/sessions/desktop_ubuntu_on_laptopsraspberrypis___practices_how_to_use_it_with_sd_cards_how_to_manage_uefi_and_more/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
