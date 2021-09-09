@@ -6,7 +6,19 @@
     <description>Recent content on Ubucon Asia 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 01:49:00 +0700</lastBuildDate><atom:link href="https://2021.ubucon.asia/id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Sep 2021 20:49:00 +0900</lastBuildDate><atom:link href="https://2021.ubucon.asia/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Telah Bergabung Sebagai Sponsor Emas!</title>
+      <link>https://2021.ubucon.asia/id/news/2021-09-08-microsoft-joins-as-gold-sponsor/</link>
+      <pubDate>Wed, 08 Sep 2021 20:49:00 +0900</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/news/2021-09-08-microsoft-joins-as-gold-sponsor/</guid>
+      <description>Kami dengan bangga mengumumkan Microsoft sebagai Sponsor Emas untuk Ubucon Asia 2021.
+Microsoft tidak memerlukan pengenalan di dunia teknologi.
+Azure cloud, hybrid cloud, dan teknologi on-premise adalah pemimpin dalam perangkat lunak sebagai layanan (SaaS), platform sebagai layanan (PaaS), dan infrastruktur sebagai layanan (IaaS).
+Tahukah Anda bahwa workload berbasis Ubuntu termasuk yang paling cepat berkembang di Microsoft Azure? Kemitraan mereka dengan Canonical telah menghadirkan kernel yang dioptimalkan untuk Azure, peningkatan kinerja, keamanan tingkat lanjut, tambalan dan pemutakhiran otomatis, dan opsi harga yang fleksibel untuk Ubuntu di Azure serta komunitas sumber terbuka.</description>
+    </item>
+    
     <item>
       <title>Cloudmate Bergabung Sebagai Sponsor Perak Kami!</title>
       <link>https://2021.ubucon.asia/id/news/2021-08-10-cloudmate-joins-as-silver-sponsor/</link>
@@ -309,6 +321,17 @@ Kami terlibat dalam pelokalan, membuat lokakarya dan berkolaborasi dengan Komuni
       <description>Terima kasih atas minat Anda pada Ubuntu dan Ubucon Asia. Sebagai acara nirlaba dan organisasi komunitas, Acara Ubucon Asia 2021 sepenuhnya merupakan acara virtual, Kami masih membutuhkan dukungan dari sponsor untuk mewujudkan acara tersebut.
 Dengan menjadi salah satu sponsor kami, Anda berkontribusi langsung pada penelitian dan pengembangan Ubuntu dan Perangkat Lunak Sumber Terbuka, dan juga membuat Komunitas Sumber Terbuka lebih aktif dan berkelanjutan.
 Kontribusi Anda memungkinkan kami untuk membawa banyak pengguna Ubuntu dan kontributor di seluruh Asia untuk terhubung, berinteraksi, membantu dan belajar bersama.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://2021.ubucon.asia/id/sponsors/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2021.ubucon.asia/id/sponsors/microsoft/</guid>
+      <description>Misi kami adalah untuk memberdayakan setiap orang dan setiap organisasi di planet ini untuk mencapai lebih banyak.
+Workload berbasis Ubuntu termasuk yang paling cepat berkembang di Azure. Microsoft telah bermitra dengan Canonical untuk menghadirkan kernel yang dioptimalkan untuk Azure, peningkatan kinerja, keamanan tingkat lanjut, tambalan dan pemutakhiran otomatis, dan opsi harga yang fleksibel untuk Ubuntu di Azure serta komunitas open source.
+Klik di sini untuk mempelajari lebih lanjut tentang Ubuntu di Azure</description>
     </item>
     
     <item>
