@@ -5,9 +5,10 @@ json_out = []
 with open(sys.argv[1], 'r', encoding="utf-8") as csvfile:
     datareader = csv.reader(csvfile)
     for row in datareader:
-        if(row[2]=='completed' and row[3]=='paypal' and float(row[5]) >= 50):
+        if(row[2]=='completed' and row[5]=='Donation Ticket'):
             json_out.append({
-                "name": "{} {}".format(row[8], row[9]),
+                "name": "{} {}".format(row[15], row[16]),
+                "org_and_title": "{} @ {}".format(row[20], row[18]),
                 "donated_at": row[1]
             })
 output = json.dumps(json_out)

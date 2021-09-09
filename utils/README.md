@@ -4,7 +4,7 @@ Here, you find some util scripts written in python that generates `json` data fr
 You may put generated `json` file in `data/` directory to update data displayed on the website.
 
 ## `patrons.py`
-Generates list of individual patron `json` file from ticker order list `csv` data. Which can be downloaded from eventyay's *View orders* screen
+Generates list of individual patron `json` file from ticker order list `csv` data. Which can be downloaded from eventyay's *View attendees* screen
 
 ```python
 python patrons.py orders.csv
