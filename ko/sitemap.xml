@@ -591,6 +591,18 @@
                 href="https://2021.ubucon.asia/ko/hosts/ubuntu-kr/"
                 />
   </url><url>
+    <loc>https://2021.ubucon.asia/ko/sponsors/nipa-kr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2021.ubucon.asia/sponsors/nipa-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2021.ubucon.asia/ko/sponsors/nipa-kr/"
+                />
+  </url><url>
     <loc>https://2021.ubucon.asia/ko/hosts/</loc>
     <xhtml:link
                 rel="alternate"
