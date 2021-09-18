@@ -166,41 +166,6 @@
         </li>
         {{ end }}
         </ul>
-        
-        {% comment %} 
-        <h3>{{ i18n "record_sp" }}</h3>
-        <ul class="p-inline-images">
-        {{ range where $allPages "Params.group" "record" }}
-        <li class="p-inline-images__item">
-          <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
-          </a>
-        </li>
-        {{ end }}
-        </ul>
-
-        <h3>{{ i18n "videoi18n_sp" }}</h3>
-        <ul class="p-inline-images">
-        {{ range where $allPages "Params.group" "videoi18n" }}
-        <li class="p-inline-images__item">
-          <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
-          </a>
-        </li>
-        {{ end }}
-        </ul>
-
-        <h3>{{ i18n "swag_sp" }}</h3>
-        <ul class="p-inline-images">
-        {{ range where $allPages "Params.group" "swag" }}
-        <li class="p-inline-images__item">
-          <a href="{{ .RelPermalink }}">
-            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
-          </a>
-        </li>
-        {{ end }}
-        </ul>     
-        {% endcomment %}
 
         <h3>{{ i18n "partner_cm" }}</h3>
         <ul class="p-inline-images">

@@ -72,36 +72,6 @@
         </div>
         {{ end }}
 
-        <h3>{{ i18n "record_sp" }}</h3>
-        {{ range where $pages "Params.group" "record" }}
-        <div class="p-card col-3">
-          <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
-          <h4>{{.Title}}</h4>
-          </a>
-        </div>
-        {{ end }}
-
-        <h3>{{ i18n "videoi18n_sp" }}</h3>
-        {{ range where $pages "Params.group" "videoi18n" }}
-        <div class="p-card col-3">
-          <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
-          <h4>{{.Title}}</h4>
-          </a>
-        </div>
-        {{ end }}
-
-        <h3>{{ i18n "swag_sp" }}</h3>
-        {{ range where $pages "Params.group" "swag" }}
-        <div class="p-card col-3">
-          <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
-          <h4>{{.Title}}</h4>
-          </a>
-        </div>
-        {{ end }}
-
         <h3>{{ i18n "partner_cm" }}</h3>
         {{ range where $pages "Params.group" "partner" }}
         <div class="p-card col-3">
