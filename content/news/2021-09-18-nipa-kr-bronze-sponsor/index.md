@@ -23,9 +23,9 @@ NIPA is devoted to reinforcing the competitiveness of the ICT industry and contr
 We thank NIPA for their work and support of Ubucon Asia 2021.
 
 Find out more about the work that NIPA does:
-Website: https://www.oss.kr
-Facebook: https://www.facebook.com/Kosslab
-YouTube: https://www.youtube.com/c/OpenUP_OSS
+ - Website: https://www.oss.kr
+ - Facebook: https://www.facebook.com/Kosslab
+ - YouTube: https://www.youtube.com/c/OpenUP_OSS
 
 There is only 1 week to go before Ubucon Asia 2021 (Sept 25th - 26th)!
 Registrations are now open here: https://eventyay.com/e/75ac7f83
