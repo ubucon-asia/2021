@@ -166,7 +166,8 @@
         </li>
         {{ end }}
         </ul>
-
+        
+        {% comment %} 
         <h3>{{ i18n "record_sp" }}</h3>
         <ul class="p-inline-images">
         {{ range where $allPages "Params.group" "record" }}
@@ -198,7 +199,8 @@
           </a>
         </li>
         {{ end }}
-        </ul>    
+        </ul>     
+        {% endcomment %}
 
         <h3>{{ i18n "partner_cm" }}</h3>
         <ul class="p-inline-images">
