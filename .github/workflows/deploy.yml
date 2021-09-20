@@ -18,12 +18,14 @@ jobs:
         with:
           path: src
           ref: main
-          
+      
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '^1.17.1' # The Go version to download (if necessary) and use.
       - name: Build website with hugo
         working-directory: src
         run: |
-          yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/main/install.sh)"
-          yes | brew install hugo
+          go install github.com/gohugoio/hugo@latest
           hugo mod get
           hugo
       # Checkout destination branch
