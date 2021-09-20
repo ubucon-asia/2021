@@ -1,5 +1,5 @@
 ---
-title: "Virtual Venue"
+title: "Virtual Venue (Gather town)"
 ---
 
 For Sponsor & Partner Community Virtual booth and To Socialize Attendees, We have Gather space for the event.
