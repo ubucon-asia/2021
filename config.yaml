@@ -35,6 +35,11 @@ languages:
           name: 세션
           url: sessions
           weight: 3
+        - identifier: venue
+          parent: programs-group
+          name: 가상 행사장(Gather town)
+          url: venue
+          weight: 3
         - identifier: confirmed
           parent: programs-group
           name: 참여 확인된 세션
@@ -88,6 +93,11 @@ languages:
           parent: programs-group
           name: Sessions
           url: sessions
+          weight: 3
+        - identifier: venue
+          parent: programs-group
+          name: Virtual venue(Gather town)
+          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
@@ -143,6 +153,11 @@ languages:
           name: Sesi
           url: sessions
           weight: 3
+        - identifier: venue
+          parent: programs-group
+          name: Virtual venue(Gather town)
+          url: venue
+          weight: 3
         - identifier: confirmed
           parent: programs-group
           name: Sesi yang Dikonfirmasi
@@ -197,6 +212,11 @@ languages:
           name: セッション
           url: sessions
           weight: 3
+        - identifier: venue
+          parent: programs-group
+          name: Virtual venue(Gather town)
+          url: venue
+          weight: 3
         - identifier: confirmed
           parent: programs-group
           name: Confirmed sessions
@@ -250,6 +270,11 @@ languages:
           parent: programs-group
           name: Sessions
           url: sessions
+          weight: 3
+        - identifier: venue
+          parent: programs-group
+          name: Virtual venue(Gather town)
+          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
