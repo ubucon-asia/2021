@@ -32,7 +32,7 @@ You can apply for swag lottery at each booth. (Single time for each booth)
 
 > Note: If you apply lottery at same booth multiple time, that will be marked as duplicate.
 
-Afther you participating booth activity at each boott, Booth staffs will ask you for your **Eventyay ticket Order Number**
+Afther you participating booth activity at each booth, Booth staffs will ask you for your **Eventyay ticket Order Number**
 Simply give booth staffs your order number via private message.
 
 ### Where can I find my Eventyay ticket Order Number? How does it looks like?
