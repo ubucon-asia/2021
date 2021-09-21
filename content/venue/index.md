@@ -27,7 +27,7 @@ Please note that booth hours are vary by each booth. Please refer to the table b
 | Openstack Korea User Group | (X) | During event hours |
 
 ## Swag lottery on Virtual booth
-For thoese attendees who actively participate virtual booth activities on various booth,
+For those attendees who actively participate virtual booth activities on various booth,
 You can apply for swag lottery at each booth. (Single time for each booth)
 
 > Note: If you apply lottery at same booth multiple time, that will be marked as duplicate.
