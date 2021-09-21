@@ -16,7 +16,7 @@ STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405Z" .Date.UTC}}
 DTSTART:{{dateFormat "20060102T150405" .Date.UTC}}
 DTEND:{{dateFormat "20060102T150405" (time .Params.end).UTC}}
-LOCATION:{{.Site.Title}} - Track {{.Params.track}}
+LOCATION:{{.Site.Title}} - Room {{.Params.room}}
 DESCRIPTION:{{.Content}}
 URL:{{.Permalink}}
 END:VEVENT
