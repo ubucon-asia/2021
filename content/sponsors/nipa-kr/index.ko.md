@@ -1,6 +1,6 @@
 ---
 title: "정보통신산업진흥원" # Name of the sponsor
-photo: "logo.jpg" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
+photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: bronze # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 website: "https://www.oss.kr/"
 facebook: "https://www.facebook.com/Kosslab"
