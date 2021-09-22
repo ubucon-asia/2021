@@ -454,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="Burgess Chang";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:open@brsvh.org
-SUMMARY:Promote Ubuntu localization of the ethnic groups in China. 
+SUMMARY:Promote Ubuntu localization of the ethnic minorities in China
 
 UID:20210926T044500@2021.asia.ubucon.org
 SEQUENCE:0
