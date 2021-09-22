@@ -1,6 +1,6 @@
 ---
 title: >
-    Promote Ubuntu localization of the ethnic groups in China. 
+    Promote Ubuntu localization of the ethnic minorities in China
 date: 2021-09-26T13:45:00+09:00
 end: 2021-09-26T14:15:00+09:00
 room: 2
