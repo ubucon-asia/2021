@@ -22,8 +22,8 @@ Please note that booth hours are vary by each booth. Please refer to the table b
 | Ubuntu Unity Remix | 13:30 ~ 17:30 (UTC+9) | 13:30 ~ 17:30 (UTC+9) |
 | Kelompok Linux Arek Suroboyo (KLAS) | 19:15 ~ 19:45 (UTC+9) | 18:15 ~ 18:45 (UTC+9) |
 | Gimpscape.ID | | |
-| Ubuntu DDE Remix | | |
-| Ubuntu Kylin | (X) | 14:45 ~ 15:15 (UTC+9)) |
+| Ubuntu DDE Remix | During event hours | During event hours |
+| Ubuntu Kylin | (X) | 14:45 ~ 15:15 (UTC+9) |
 | Openstack Korea User Group | (X) | During event hours |
 
 ## Swag lottery on Virtual booth
