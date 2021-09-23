@@ -16,7 +16,7 @@ Please note that booth hours are vary by each booth. Please refer to the table b
 
 | Booth | Day 1 booth hours | Day 2 booth hours |
 |--|--|--|
-| Ubuntu | | |
+| Ubuntu | 16:00 ~ 18:00 (UTC+9) | 15:00 ~ 16:00 (UTC+9) |
 | Microsoft | 14:30 ~ 15:30 (UTC+9, Korean) / 15:30 ~ 16:30 (UTC+9, English) | 14:45 ~ 15:45 (UTC+9, Korean) / 15:45 ~ 16:45 (UTC+9, English) |
 | Cloudmate | 15:30 ~ 17:00 (UTC+9) | 15:30 ~ 17:00 (UTC+9) |
 | Ubuntu Unity Remix | 13:30 ~ 17:30 (UTC+9) | 13:30 ~ 17:30 (UTC+9) |
