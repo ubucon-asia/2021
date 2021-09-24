@@ -24,8 +24,8 @@ Ubuntu 기반 워크로드는 Azure에서 가장 빠르게 성장하고 있는 �
 
 부스 좌측 공간에서 설문조사 이벤트에 참여해 보세요!
 
-- Azure Playlist on Microsoft Developer KR YouTube: https://aka.ms/azureplaylist
-- 설문조사 양식 링크: http://naver.me/5zJFgzdg
+- <a href="https://aka.ms/azureplaylist" target="_blank">Azure Playlist on Microsoft Developer KR YouTube</a>
+- <a href="http://naver.me/5zJFgzdg" target="_blank">설문조사 양식</a>
 
 ### 기타 참여자
 
