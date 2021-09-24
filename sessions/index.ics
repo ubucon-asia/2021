@@ -807,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="Ken VanDine";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
-SUMMARY:Keynote - Flutter for Linux 
+SUMMARY:Keynote - Ubuntu Desktop 21.10
 
 UID:20210925T043000@2021.asia.ubucon.org
 SEQUENCE:0
@@ -816,7 +816,7 @@ DTSTAMP:20210925T043000Z
 DTSTART:20210925T043000
 DTEND:20210925T051500
 LOCATION:Ubucon Asia 2021 - Room 1
-DESCRIPTION:<p>The desktop team has spent a great deal of time working on Flutter, let&rsquo;s talk about the motivation to invest in Flutter, the current status and future plans.</p>
+DESCRIPTION:<p>Ken VanDine, Engineering Manager at Ubuntu Desktop, Canonical, would like to give you some story about What&rsquo;s new on latest release of Ubuntu, Flutter for Linux support with new Ubuntu Installer built with Flutter. He would also like to share you what happened on Ubuntu community team since the team has been rebooted.</p>
 <h2 id="about-the-speaker">About the speaker</h2>
 <p>Ken VanDine is an Engineering Manager at Canonical, leading the Ubuntu Desktop team. Ken has been involved in open source for over 20 years and is passionate about helping new developers get involved in open source. In Ken&rsquo;s spare time he volunteers at Kramden Institute, refurbishing computers for underprivileged children and teaching middle school-aged children how to code.</p>
 
