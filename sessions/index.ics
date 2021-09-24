@@ -676,7 +676,7 @@ DTSTAMP:20210925T071500Z
 DTSTART:20210925T071500
 DTEND:20210925T074500
 LOCATION:Ubucon Asia 2021 - Room 1
-DESCRIPTION:<p>I&rsquo;ll be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb. I&rsquo;ll then be building an Ubuntu Remix live with the Ubuntu Remixes project.</p>
+DESCRIPTION:<p>I&rsquo;ll first be showing how to set up a build environment for UnityX. I&rsquo;ll also demonstrate how to do a Merge Request on GitLab and package UnityX using qckdeb. We recently released our ISO builder for anyone to use it for creating Ubuntu remix ISOs. I&rsquo;ll be demonstrating how easy it is to use the builder by creating an Ubuntu Remix live using UnityX.</p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I&rsquo;m an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.</p>
 
