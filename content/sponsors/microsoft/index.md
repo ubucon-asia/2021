@@ -24,8 +24,8 @@ Ubuntu-based workloads are among the fastest growing on Azure. Microsoft has par
 
 Participate survey event on the left of our booth.
 
-- <a href="https://aka.ms/azureplaylist" target="_blank">Azure Playlist on Microsoft Developer KR YouTube</a>
-- <a href="http://naver.me/5zJFgzdg" target="_blank">Survey Form</a>
+- {{< openinnewtab href="https://aka.ms/azureplaylist" title="Azure Playlist on Microsoft Developer KR YouTube" >}}
+- {{< openinnewtab href="http://naver.me/5zJFgzdg" title="Survey Form" >}}
 
 ### Other attendees
 
