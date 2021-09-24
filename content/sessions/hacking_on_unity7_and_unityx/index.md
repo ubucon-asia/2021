@@ -15,6 +15,7 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-I'll be showing how to set up a build environment for UnityX. I’ll then fix some bugs in it and compile it live. I’ll also demonstrate how to do a Merge Request on GitLab and package it using qckdeb. I'll then be building an Ubuntu Remix live with the Ubuntu Remixes project.
+I'll first be showing how to set up a build environment for UnityX. I'll also demonstrate how to do a Merge Request on GitLab and package UnityX using qckdeb. We recently released our ISO builder for anyone to use it for creating Ubuntu remix ISOs. I'll be demonstrating how easy it is to use the builder by creating an Ubuntu Remix live using UnityX.
+
 ### About the speaker
 I'm an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.
