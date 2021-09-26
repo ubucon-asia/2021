@@ -20,6 +20,8 @@ UbuCon Asia team, is no exception. But like you and other ordinary people, our o
 So, We decided to use some automation tools like CI/CD, Speech to text, Translation API, Video cover rendering template and so on to automate these boring job as much as possible and reduce cost at the same time.
 In this session, I would like to share how we did this and what we've learned while trying to automate stuffs.
 
+[Get Slide](./Ubucon_Subtitle_Automate.pdf)
+
 ### About the speaker
  - Community Leader and Organizer at Ubuntu Korea Community
  - Junior DevOps Engineer at Cloudmate
