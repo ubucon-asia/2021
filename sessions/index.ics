@@ -588,6 +588,7 @@ DTSTART:20210925T084500
 DTEND:20210925T091500
 LOCATION:Ubucon Asia 2021 - Room 2
 DESCRIPTION:<p>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.</p>
+<p><a href="Slide.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>Software Developer for Ubuntu on WSL and Ubuntu on Hyper-V, core maintainer for WSL Utilities.</p>
 
