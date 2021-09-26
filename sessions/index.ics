@@ -423,7 +423,6 @@ DESCRIPTION:<p>Whether it&rsquo;s online or offline event, There&rsquo;s always 
 UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&rsquo;s first event we don&rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.
 So, We decided to use some automation tools like CI/CD, Speech to text, Translation API, Video cover rendering template and so on to automate these boring job as much as possible and reduce cost at the same time.
 In this session, I would like to share how we did this and what we&rsquo;ve learned while trying to automate stuffs.</p>
-<p><a href="./Ubucon_Subtitle_Automate.pdf">Get Slide</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <ul>
 <li>Community Leader and Organizer at Ubuntu Korea Community</li>
@@ -569,7 +568,8 @@ DTEND:20210925T102500
 LOCATION:Ubucon Asia 2021 - Room 1
 DESCRIPTION:<p>We will hear from representatives of our hosts and open source communities in Asia. <a href="https://2021.ubucon.asia/hosts/">https://2021.ubucon.asia/hosts/</a></p>
 <p>Moderator: Hong Phuc Dang</p>
-<p>Speakers: TBC</p>
+<p>slide: hello.pdf
+speakers: TBC</p>
 <h3 id="about-the-speakers">About the speakers</h3>
 <h4 id="hong-phuc-dang">Hong Phuc Dang</h4>
 <p>Hong Phuc is the founder of FOSSASIA, an organization that strives to improve people’s lives through sharing open technologies and fostering global connections and sustainable production. She serves as a member of the IEEE Standards Association Board of Governors and as vice chair of the Open Source Committee. She is also a board member of the Open Source Business Alliance and the Open Source Initiative. With over a decade of open source expertise, she supports companies in their technology transition to open source and innersource development models. Her recent efforts focused on bringing open source hardware into production at scale.</p>
