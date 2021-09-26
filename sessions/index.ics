@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="<no value>";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
+ATTENDEE;CN="Khairul Aizat Kamarudzzaman";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:fenris@ubuntu.com
 SUMMARY:GNOME.Asia Summit 2021 
 
 UID:20210926T104500@2021.asia.ubucon.org
