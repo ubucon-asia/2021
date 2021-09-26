@@ -5,7 +5,7 @@ date: 2021-09-26T13:15:00+09:00
 end: 2021-09-26T13:45:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
-slide: hello.pdf
+# slide: hello.pdf
 speakers: # Speaker info
     - name: Kwangyeon Kim
       bio: Individual
@@ -26,6 +26,8 @@ Please refer to URL below to get informed about Hanjp project
 https://github.com/ubuntu-kr/hanjp-im/tree/develop
 
 My English can sound weired. I'm sorry and please forgive me, my English isn't good enough :(
+
+[Get Script](Script.pdf)
 
 ### About the speaker
 I've been a interesting seeker since when I was a high school student, and a Linux desktop and open source was seems very fun in my sight. Then, I majored computer engineering at University, and I'm currently seeking a position for software engineer, and open source has been remained as one of my main concerns.
