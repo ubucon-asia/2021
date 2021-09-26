@@ -539,8 +539,8 @@ URL:https://2021.ubucon.asia/sessions/ukui3_technology_sharing_in_tablet_mode/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
-ATTENDEE;CN="<no value>";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:<no value>
-SUMMARY:Social event - Day 1 
+ATTENDEE;CN="Youngbin Han";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:sukso96100@gmail.com
+SUMMARY:Social event: Treasure Hunt! - Day 1 
 
 UID:20210925T102500@2021.asia.ubucon.org
 SEQUENCE:0
@@ -549,8 +549,7 @@ DTSTAMP:20210925T102500Z
 DTSTART:20210925T102500
 DTEND:20210925T112500
 LOCATION:Ubucon Asia 2021 - Room 1
-DESCRIPTION:<p>On Gather Town - TBD</p>
-<p>TBD</p>
+DESCRIPTION:<p>Treasure Hunt @ Gather Town!</p>
 
 URL:https://2021.ubucon.asia/sessions/social_event___day_1/
 END:VEVENT
