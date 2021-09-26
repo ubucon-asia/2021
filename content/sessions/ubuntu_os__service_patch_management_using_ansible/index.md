@@ -5,6 +5,7 @@ date: 2021-09-26T15:15:00+09:00
 end: 2021-09-26T15:45:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
+slide: hello.pdf
 speakers: # Speaker info
     - name: Doni Kuswara
       bio: Product Operations Engineer, PT. Biznet Gio Nusantara

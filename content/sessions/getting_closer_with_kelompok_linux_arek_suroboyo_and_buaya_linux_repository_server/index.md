@@ -5,6 +5,7 @@ date: 2021-09-26T18:30:00+09:00
 end: 2021-09-26T19:15:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
+slide: hello.pdf
 speakers: # Speaker info
     - name: Fadhil Yori Hibatullah
       bio: Research Team, Kelompok Linux Arek Suroboyo

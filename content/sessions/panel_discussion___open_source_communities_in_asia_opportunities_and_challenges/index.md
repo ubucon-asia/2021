@@ -5,6 +5,7 @@ date: 2021-09-25T18:30:00+09:00
 end: 2021-09-25T19:25:00+09:00
 room: 1
 featured: true # If it's true. This session will appear on main page.
+slide: hello.pdf
 speakers: # Speaker info
     - name: Hong Phuc Dang
       bio: Founder, FOSSASIA
@@ -19,7 +20,8 @@ We will hear from representatives of our hosts and open source communities in As
 
 Moderator: Hong Phuc Dang
 
-Speakers: TBC
+slide: hello.pdf
+speakers: TBC
 
 ### About the speakers
 #### Hong Phuc Dang

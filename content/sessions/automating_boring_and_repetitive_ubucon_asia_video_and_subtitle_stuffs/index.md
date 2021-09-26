@@ -5,6 +5,7 @@ date: 2021-09-26T14:15:00+09:00
 end: 2021-09-26T14:45:00+09:00
 room: 2
 featured: false # If it's true. This session will appear on main page.
+slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Youngbin Han
       bio: Organizer, Ubuntu Korea Community
@@ -19,8 +20,6 @@ Whether it's online or offline event, There's always boring and repetitive jobs 
 UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it's first event we don't even know if we can gather enough volunteers or gain sponsorship to hire some workers.
 So, We decided to use some automation tools like CI/CD, Speech to text, Translation API, Video cover rendering template and so on to automate these boring job as much as possible and reduce cost at the same time.
 In this session, I would like to share how we did this and what we've learned while trying to automate stuffs.
-
-[Get Slide](./Ubucon_Subtitle_Automate.pdf)
 
 ### About the speaker
  - Community Leader and Organizer at Ubuntu Korea Community

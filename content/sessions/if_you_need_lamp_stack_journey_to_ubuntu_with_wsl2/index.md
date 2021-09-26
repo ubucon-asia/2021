@@ -5,6 +5,7 @@ date: 2021-09-26T17:05:00+09:00
 end: 2021-09-26T17:10:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
+slide: hello.pdf
 speakers: # Speaker info
     - name: Byongseung Cho / 조병승
       bio: Technical Writer & Ubuntu Korea Community Member
