@@ -5,7 +5,7 @@ date: 2021-09-26T17:15:00+09:00
 end: 2021-09-26T18:00:00+09:00
 room: 2
 featured: false # If it's true. This session will appear on main page.
-slide: hello.pdf
+slide: Multipass.pdf
 speakers: # Speaker info
     - name: Nur Hamim
       bio: Product Operation Support, PT Biznet Gio Nusantara
@@ -30,5 +30,6 @@ Multipass is a virtualization product from Ubuntu that we can use to create a vi
 - Install web-based applications demonstration on VMs Multipass
 - Additional material on Multipass integration
 
+[Get Slide(*.pptx)](Multipass.pptx)
 ### About the speaker
 Village child who like to learn Open Source, Linux, and Cloud Computing and become the Founder of BelajarLinux.id
