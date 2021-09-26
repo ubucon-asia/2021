@@ -5,7 +5,7 @@ date: 2021-09-25T17:45:00+09:00
 end: 2021-09-25T18:30:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
-slide: hello.pdf
+slide: l10n_contributhon.pdf
 speakers: # Speaker info
     - name: Bokmi Han
       bio: Director of Open Source Software Promotion Team, National IT Industry Promotion Agency
