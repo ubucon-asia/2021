@@ -699,6 +699,7 @@ LOCATION:Ubucon Asia 2021 - Room 1
 DESCRIPTION:<p>All of sudden, one of your processes that should be alive was &lsquo;kill&rsquo;ed by someone&rsquo;s Signal! Who did that? Let&rsquo;s trace the issue with Linux Kernel hacking.
 In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.</p>
 <p>Attendees at least should know what the Signal is in Computer Science.</p>
+<p><a href="session_who_killed_my_processes-leesoo_ahn.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I had been contributing to GNOME foundation as a programmer for 2 years before and currently interested in ARM64 Linux Kernel core and Network Subsystem.</p>
 
