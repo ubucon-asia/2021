@@ -327,6 +327,7 @@ Bokmi Han will introduce about the Open Source Contributhon program</description
       
       <guid>https://2021.ubucon.asia/sessions/hacking_on_unity7_and_unityx/</guid>
       <description>I&amp;rsquo;ll first be showing how to set up a build environment for UnityX. I&amp;rsquo;ll also demonstrate how to do a Merge Request on GitLab and package UnityX using qckdeb. We recently released our ISO builder for anyone to use it for creating Ubuntu remix ISOs. I&amp;rsquo;ll be demonstrating how easy it is to use the builder by creating an Ubuntu Remix live using UnityX.
+UnityX repo on GitLab
 About the speaker I&amp;rsquo;m an official Ubuntu Member and the creator and project lead of Ubuntu Unity and Ubuntu Web Remix.</description>
     </item>
     
