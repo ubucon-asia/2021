@@ -325,3 +325,8 @@ params:
     timeStart: 2000-01-01T13:00:00+09:00 # Use random date for timeStart param
 outputs:
   section: ["HTML", "RSS", "Calendar"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
