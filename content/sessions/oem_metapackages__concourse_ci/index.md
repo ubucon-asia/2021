@@ -18,7 +18,11 @@ speakers: # Speaker info
 ---
 What are OEM metapackages?What is Concourse CI?How to use Concourse CI on OEM metapackages?
 
-https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/
+
 
 ### About the speaker
 Debian Developer / Ubuntu Contributing Developer / GNOME Emeritus Member / Canonical Employee
+
+[See slide on hackmd.io](https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/)
+
+<iframe src="https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
