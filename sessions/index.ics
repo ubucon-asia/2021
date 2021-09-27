@@ -114,9 +114,10 @@ DTSTART:20210926T084500
 DTEND:20210926T093000
 LOCATION:Ubucon Asia 2021 - Room 1
 DESCRIPTION:<p>What are OEM metapackages?What is Concourse CI?How to use Concourse CI on OEM metapackages?</p>
-<p><a href="https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/">https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>Debian Developer / Ubuntu Contributing Developer / GNOME Emeritus Member / Canonical Employee</p>
+<p><a href="https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/">See slide on hackmd.io</a></p>
+<iframe src="https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci#/" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 URL:https://2021.ubucon.asia/sessions/oem_metapackages__concourse_ci/
 END:VEVENT
