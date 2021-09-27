@@ -31,3 +31,9 @@ Lightweight Kubernetes
 
 ### About the speaker
 I have played around with Linux since 2004, from Web Designer to Web Administrator (For LAMP) with Ubuntu being my main choice. I settled on Ubuntu as my favourite Linux distro. I will Promote About Linux and Ubuntu Distro since 2009., Raspberry Pi since 2013, Container LXD at 2014, Open Stack at 2016, DevOps at 2018, Docker and Kubernetes at 2019. 
+
+### Workshop material (Slides.com)
+
+[See on slides.com](http://slides.com/kokoye2007/k8s)
+
+<iframe src="https://slides.com/kokoye2007/k8s/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
