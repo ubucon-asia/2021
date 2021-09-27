@@ -5,7 +5,7 @@ date: 2021-09-26T15:15:00+09:00
 end: 2021-09-26T16:15:00+09:00
 room: 2
 featured: true # If it's true. This session will appear on main page.
-slide: hello.pdf
+# slide: hello.pdf
 speakers: # Speaker info
     - name: Ko Ko Ye
       bio: Team Lead, Ubuntu Myanmar LoCo Team
