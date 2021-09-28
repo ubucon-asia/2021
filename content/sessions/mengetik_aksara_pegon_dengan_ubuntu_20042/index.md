@@ -37,7 +37,7 @@ Kendala pengetikan Pegon pada Ubuntu 20.04.2 antara lain;Belum ada keyboard Pego
  
 Alternatif yang sedang dicoba untuk mengatasi kendala tersebut di atas antara lain;
  - Pasang aplikasi vitual keyboard seperti Onboard
- - Edit file ara pada /usr/share/X11/xkb/symbols dengan menambahkan karakter-karakter Pegon.
+ - Edit file ara pada `/usr/share/X11/xkb/symbols` dengan menambahkan karakter-karakter Pegon.
 #### HARAPAN:
  - Keyboard Pegon tertanam pada Gnome > Ubuntu
  - Keyboard Pegon dapat juga digunakan dengan on-screen kerboard
