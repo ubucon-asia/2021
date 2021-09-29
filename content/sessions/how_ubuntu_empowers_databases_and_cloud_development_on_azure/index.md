@@ -26,5 +26,7 @@ Pre-requisites:
 
 Have you already finished this module? No worries, you can discuss anything what you want regarding this module even you already experienced. During the workshop, the speaker will explain general concept to better understand this Learn module with Microsoft open source approach with Ubuntu Linux & SQL Server on Linux 2019 and discuss with Q&As while workshop attendees are doing this Learn module.
 
+[Get slide](https://aka.ms/AAdwkq3)
+
 ### About the speaker
 Ian Choi is a developer product marketing manager in APAC. His role is to empower developers with Microsoft Azure by interacting developers in in Korea and other APAC countries as one of field Developer Relations team members in the region. He is one of active local open source developer community enthusiasts with tight interaction with Ubuntu Korea, OpenStack Korea, and Kubernetes Korea communities. He volunteers reviewing Korean localization contributions on Kubernetes documentation. Before joining in Microsoft, he served OpenStack Internalization project team lead for previous several release cycles, and he was a Microsoft MVP on Cloud and Datacenter Management (July 2016 - Oct 2018) by sharing WSL talks in Korea.
