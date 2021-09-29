@@ -5,7 +5,7 @@ date: 2021-09-26T17:00:00+09:00
 end: 2021-09-26T17:05:00+09:00
 room: 1
 featured: false # If it's true. This session will appear on main page.
-slide: hello.pdf
+slide: Slide.pdf
 speakers: # Speaker info
     - name: YueLiang Wang
       bio: Open Source Software Engineer, Kylin Software Co., Ltd
