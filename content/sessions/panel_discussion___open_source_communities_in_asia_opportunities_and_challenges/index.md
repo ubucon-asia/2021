@@ -47,7 +47,7 @@ speakers: # Speaker info
       profile: rj.jpg # Speaker photo
       linkurl: # Other website link url
       linklabel:  # Label for linkurl
-    - name: RJ Hsiao
+    - name: Khairul Aizat Kamarudzzaman
       bio: Organizer, Ubuntu Malaysia Local Community
       email: fenris@ubuntu.com # Email
       launchpad: # link to launchpad.net profile
