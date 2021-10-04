@@ -5,6 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
+ATTENDEE;CN="Youngbin Han";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:sukso96100@gmail.com
+SUMMARY:Closing session 
+
+UID:20210926T105000@2021.asia.ubucon.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210926T105000Z
+DTSTART:20210926T105000
+DTEND:20210926T111000
+LOCATION:Ubucon Asia 2021 - Room 1
+DESCRIPTION:<p>Let&rsquo;s wrap up this year&rsquo;s 2 days the first UbuCon Asia event! And see you on next year!(Maybe in-person?)</p>
+
+URL:https://2021.ubucon.asia/sessions/closing_session/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubucon Asia 2021 Organizers":mailto:contact@ubucon.asia
 ATTENDEE;CN="Khairul Aizat Kamarudzzaman";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:fenris@ubuntu.com
 SUMMARY:GNOME.Asia Summit 2021 
 
