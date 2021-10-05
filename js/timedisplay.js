@@ -3,7 +3,6 @@ window.addEventListener('load', ()=>{
     for (let element of elements) {
         let display = element.getAttribute("display");
         let timeSource = element.innerHTML;
-        console.log(timeSource)
         let date = new Date(timeSource);
         switch(display){
         	case "date":
