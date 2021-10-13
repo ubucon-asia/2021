@@ -67,12 +67,12 @@
     {{ else }}
     <!-- OGP card -->
     <meta property="og:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
     <meta property="og:image:secure_url"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
     <!-- Twitter card -->
     <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}&imgurl={{"/images/ubuCon_logo_wh.png"| absURL }}' />
+        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
     {{ end }}
 
 
