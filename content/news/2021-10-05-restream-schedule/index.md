@@ -41,7 +41,7 @@ The YouTube channel for Ubucon Asia is: https://www.youtube.com/channel/UCdy5ggH
 | -- | -- |
 | {{< timedisplay datetime="2021-10-09 02:15:00 UTC" >}} | [How Ubuntu empowers databases and cloud development on Azure (Ian Y. Choi)](https://www.youtube.com/watch?v=dgP0Ec3DxrQ&list=PLr8g8zdbZAgEZmVfXN3fwLe5xbMStiQhZ&index=1) |
 | {{< timedisplay datetime="2021-10-09 03:15:00 UTC" >}} | [CI/CD with Snap package deployment (Taiten Peng)](https://www.youtube.com/watch?v=b10odY1YGjY&list=PLr8g8zdbZAgEZmVfXN3fwLe5xbMStiQhZ&index=2) |
-| {{< timedisplay datetime="2021-10-09 05:45:00 UTC" >}} | [Developing on Ubuntu with WSL Interoperability: Tips and Tricks (Patrick Wu)](https://www.youtube.com/watch?v=WlQJF3VTeKc&list=PLr8g8zdbZAgH1fxZYGo5pRzMVEeO65Igc&index=3) |
+| {{< timedisplay datetime="2021-10-09 05:45:00 UTC" >}} | [Developing on Ubuntu with WSL Interoperability: Tips and Tricks (Patrick Wu)](https://www.youtube.com/watch?v=ieqCropntu4&list=PLr8g8zdbZAgEZmVfXN3fwLe5xbMStiQhZ&index=3) |
 
 ## Day 2 - Room 1 (YouTube Premiere {{< timedisplay datetime="2021-10-10 01:15:00 UTC" display="date" >}})
 
