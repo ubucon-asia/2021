@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+        body {
+            font-family: 'Ubuntu', sans-serif;
+            background: linear-gradient(to bottom right, #E95420, #77216F);
+        }
+
+        .main {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .component {
+            margin: 20px;
+        }
+
+        span.component {
+            font-size: 3.5em;
+        }
+
+        img.component {
+            max-height: 60vh;
+            max-width: 70vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <img src="{{index .Image 0}}" class="component">
+        <span class="component">{{index .Title 0}}</span>
+    </div>
+</body>
+
+</html>
