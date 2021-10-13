@@ -66,13 +66,14 @@
         content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }}{{with $speaker0.profile }}&imgurl={{ $permalink }}{{ . }}{{end}}{{with $speaker1.profile }}&imgurl2={{ $permalink }}{{ . }}{{end}}{{with $speaker2.profile }}&imgurl3={{ $permalink }}{{ . }}{{end}}&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}' />
     {{ else }}
     <!-- OGP card -->
-    <meta property="og:image"
-        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
-    <meta property="og:image:secure_url"
-        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
+    <meta property="og:image" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
+    <meta property="og:image:secure_url" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
+    <meta name="fancycard:template" content="{{.Site.BaseURL}}og_image_basic.html" />
+    <meta name="fancycard:Title" content="{{ .Title }}" />
+    <meta name="fancycard:Image" content="{{"/images/ubuCon_logo_wh.png"| absURL }}" />
     <!-- Twitter card -->
     <meta name="twitter:image"
-        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title={{ .Title }}' />
+        content='https://fancycard.youngbin.xyz/url?template={{.Site.BaseURL}}og_image_basic.html&Image={{"/images/ubuCon_logo_wh.png"| absURL }}&Title=' />
     {{ end }}
 
 
