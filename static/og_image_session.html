@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+        body {
+            font-family: 'Ubuntu', sans-serif;
+            background: linear-gradient(to bottom right, #E95420, #77216F);
+        }
+
+        .main {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .component {
+            margin: 20px;
+        }
+
+        span.component.title {
+            font-size: 3em;
+            text-align: center;
+        }
+
+        div .component .speakerPhotos {
+            max-height: 60vh;
+            max-width: 80vw;
+        }
+
+        ul {
+            text-align: center;
+            padding: 0;
+        }
+
+        li {
+            display: inline;
+            text-decoration: underline;
+        }
+
+        div.profilePhoto {
+            background-size: cover;
+            width: 150px;
+            height: 150px;
+            border-radius: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="component speakerPhotos">
+            {{ range $photo := .SpeakerPhoto }}
+            <div class="profilePhoto" style="background: url({{ $photo }}) no-repeat center;"></div>
+            {{ end }}
+        </div>
+        <span class="component title">{{index .Title 0}}</span>
+        <ul>
+            {{ range $name := .SpeakerName }}
+            <li>{{ $name }}</li>
+            {{ end }}
+        </ul>
+        <img src="{{index .Logo 0}}" class="component logo">
+    </div>
+</body>
+
+</html>
