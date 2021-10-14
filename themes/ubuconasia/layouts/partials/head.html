@@ -66,9 +66,10 @@
     <meta name="fancycard:Logo" content="{{"/images/ubucon_logo_orange_bg.png"| absURL }}" />
     {{ range .Params.speakers }}
         <meta name="fancycard:SpeakerPhoto" content="{{ $permalink }}{{ .profile }}" />
+        <meta name="fancycard:SpeakerName" content="{{ .name }}" />
     {{ end }}
     {{ range .Params.speakers }}
-        <meta name="fancycard:SpeakerName" content="{{ $permalink }}{{ .name }}" />
+        
     {{ end }}
    
     
