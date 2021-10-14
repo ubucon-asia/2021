@@ -28,9 +28,11 @@
             text-align: center;
         }
 
-        div .component .speakerPhotos {
+        div.component.speakerPhotos {
             max-height: 60vh;
             max-width: 80vw;
+            display: flex;
+            flex-direction: row;
         }
 
         ul {
@@ -40,14 +42,15 @@
 
         li {
             display: inline;
-            text-decoration: underline;
+            text-decoration: row;
         }
 
         div.profilePhoto {
-            background-size: cover;
-            width: 150px;
-            height: 150px;
+            
+            width: 200px;
+            height: 200px;
             border-radius: 100%;
+            margin: 5px;
         }
     </style>
 </head>
@@ -56,7 +59,8 @@
     <div class="main">
         <div class="component speakerPhotos">
             {{ range $photo := .SpeakerPhoto }}
-            <div class="profilePhoto" style="background: url({{ $photo }}) no-repeat center;"></div>
+            <div class="profilePhoto" style="background: url({{$photo}}) no-repeat center; background-size: cover;"></div>
+          
             {{ end }}
         </div>
         <span class="component title">{{index .Title 0}}</span>
