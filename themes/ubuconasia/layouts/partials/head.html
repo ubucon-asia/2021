@@ -64,11 +64,11 @@
     <meta name="fancycard:template" content="{{.Site.BaseURL}}og_image_session.html" />
     <meta name="fancycard:Title" content="{{ .Title }}" />
     <meta name="fancycard:Logo" content="{{"/images/ubucon_logo_orange_bg.png"| absURL }}" />
-    {{ range $speaker := .Params.speakers }}
-        <meta name="fancycard:SpeakerPhoto" content="{{ $permalink }}{{ . }}{{end}}{{with $speaker.profile }}" />
+    {{ range .Params.speakers }}
+        <meta name="fancycard:SpeakerPhoto" content="{{ $permalink }}{{ .profile }}" />
     {{ end }}
-    {{ range $speaker := .Params.speakers }}
-        <meta name="fancycard:SpeakerName" content="{{ $permalink }}{{ . }}{{end}}{{with $speaker.name }}" />
+    {{ range .Params.speakers }}
+        <meta name="fancycard:SpeakerName" content="{{ $permalink }}{{ .name }}" />
     {{ end }}
    
     
