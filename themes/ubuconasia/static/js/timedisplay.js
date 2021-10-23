@@ -6,7 +6,6 @@ window.addEventListener('load', ()=>{
         let date = new Date(timeSource);
         if (date.toString() == "Invalid Date") {
           let dateStrBlock = timeSource.replace(' ', 'T').split(' ');
-          alert(dateStrBlock.length + ' | ' + dateStrBlock[0] + ' | ' + dateStrBlock[1]);
           if (dateStrBlock.length == 2) {
             date = new Date(moment.tz(dateStrBlock[0], dateStrBlock[1]).toDate());
           } else {
