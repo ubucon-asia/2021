@@ -4,7 +4,7 @@ window.addEventListener('load', ()=>{
         let display = element.getAttribute("display");
         let timeSource = element.innerHTML;
         let date = new Date(timeSource);
-        if (date.toString() == "Invalid Date") {
+        if (!(date instanceof Date && !isNaN(date))){
           let dateStrBlock = timeSource.replace(' ', 'T').split(' ');
           if (dateStrBlock.length == 2) {
             date = new Date(moment.tz(dateStrBlock[0], dateStrBlock[1]).toDate());
