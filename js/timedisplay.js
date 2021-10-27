@@ -4,17 +4,18 @@ window.addEventListener('load', ()=>{
         let display = element.getAttribute("display");
         let timeSource = element.innerHTML;
         let date = new Date(timeSource);
-        switch(display){
-        	case "date":
-          	element.innerHTML = date.toLocaleDateString();
-            break;
-          case "time":
-          	element.innerHTML = date.toLocaleTimeString();
-            break;
-          default:
-          	element.innerHTML = date.toLocaleString();
-            break;
+        if (date instanceof Date && !isNaN(date)){
+          switch(display){
+            case "date":
+              element.innerHTML = date.toLocaleDateString();
+              break;
+            case "time":
+              element.innerHTML = date.toLocaleTimeString();
+              break;
+            default:
+              element.innerHTML = date.toLocaleString();
+              break;
+          }
         }
-        
     }
 }) 
