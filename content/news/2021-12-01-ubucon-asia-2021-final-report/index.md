@@ -1,7 +1,7 @@
 
 ---
 title: "UbuCon Asia 2021 Final report"
-date: 2021-12-01T22:00:00+09:00
+date: 2021-12-01T23:30:00+09:00
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2021 / Leader, Ubuntu Korea Community 
