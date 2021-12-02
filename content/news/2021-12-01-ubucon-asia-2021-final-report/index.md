@@ -152,7 +152,7 @@ Thanks to FOSSASIA becoming Fiscal host and Legal partner of UbuCon Asia 2021, W
 | -- | -- | -- |
 | Sponsorship | 8,297.00 | 9,337.80 | 
 | Donations Tickets | 1,193.90 | 0 | 
-| **Total earnings** | **8,069.96** | **9,337.80** |
+| **Total earnings** | **9,472.90** | **9,337.80** |
 
 ### Spendings
 
