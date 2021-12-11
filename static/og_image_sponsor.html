@@ -1,0 +1,59 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+        body {
+            font-family: 'Ubuntu', sans-serif;
+            background-image: linear-gradient( rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6) ), url({{index .BackgroundImage 0}});
+
+        }
+
+        .main {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: black;
+            margin: 10px;
+        }
+
+        .component {
+            margin: 10px;
+        }
+
+        span.component.title {
+            font-size: 3em;
+            text-align: center;
+            flex: 0;
+            margin: 20px;
+        }
+
+      
+        img.logo {
+            max-height: 15vh;
+            max-width: 80vw;
+            flex: 0;
+        }
+
+        img.sponsor_logo {
+            margin: 20px;
+            max-height: 40vh;
+            max-width: 80vw;
+            flex: 2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <img src="{{index .SponsorLogo 0}}" class="component sponsor_logo">
+        <span class="component title">{{index .Title 0}}</span>
+        <img src="{{index .Logo 0}}" class="component logo">
+    </div>
+</body>
+
+</html>

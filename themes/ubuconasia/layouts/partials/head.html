@@ -41,14 +41,12 @@
     {{ $sponsor_class = i18n "partner_cm" }}
     {{end}}
 
-    <!-- OGP card -->
-    <meta property="og:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
-    <meta property="og:image:secure_url"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
-    <!-- Twitter card -->
-    <meta name="twitter:image"
-        content='https://srvogimg.youngbin.xyz/basic?text={{ .Title }} ({{ $sponsor_class }})&logoimgurl={{"/images/ubucon_logo_orange_bg.png"| absURL }}&imgurl2={{ .Permalink }}{{ .Params.photo }}&isdark=false&bgimgurl={{ .Permalink }}{{ .Params.cover }}' />
+    <meta name="fancycard:template" content="{{.Site.BaseURL}}og_image_sponsor.html" />
+    <meta name="fancycard:SponsorLogo" content="{{ .Permalink }}{{ .Params.photo }}" />
+    <meta name="fancycard:BackgroundImage" content="{{ .Permalink }}{{ .Params.cover }}" />
+    <meta name="fancycard:Title" content="{{ .Title }} ({{ $sponsor_class }})" />
+    <meta name="fancycard:Logo" content="{{"/images/ubucon_logo_orange_bg.png"| absURL }}" />
+    
     {{ else if .Params.speakers }}
 
     {{$speaker0 := index .Params.speakers 0}}
@@ -56,11 +54,6 @@
     {{$speaker2 := index .Params.speakers 2}}
     {{$permalink := .Permalink}}
 
-    <!-- Twitter card -->
-    <meta name="twitter:image" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
-    <!-- OGP card -->
-    <meta property="og:image" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
-    <meta property="og:image:secure_url" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
     <meta name="fancycard:template" content="{{.Site.BaseURL}}og_image_session.html" />
     <meta name="fancycard:Title" content="{{ .Title }}" />
     <meta name="fancycard:Logo" content="{{"/images/ubucon_logo_orange_bg.png"| absURL }}" />
@@ -74,17 +67,19 @@
    
     
     {{ else }}
-    <!-- OGP card -->
-    <meta property="og:image" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
-    <meta property="og:image:secure_url" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
+    
     <meta name="fancycard:template" content="{{.Site.BaseURL}}og_image_basic.html" />
     <meta name="fancycard:Title" content="{{ .Title }}" />
     <meta name="fancycard:Image" content="{{"/images/ubuCon_logo_wh.png"| absURL }}" />
+    
+    {{ end }}
+
+    <!-- OGP card -->
+    <meta property="og:image" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
+    <meta property="og:image:secure_url" content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
     <!-- Twitter card -->
     <meta name="twitter:image"
         content='https://fancycard.youngbin.xyz/meta?url={{.Permalink}}' />
-    {{ end }}
-
 
 
     <!-- Description Meta  -->
