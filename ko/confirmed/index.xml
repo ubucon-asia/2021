@@ -4,7 +4,8 @@
     <title>참여 확인된 세션 on 우부콘 아시아 2021</title>
     <link>https://2021.ubucon.asia/ko/confirmed/</link>
     <description>Recent content in 참여 확인된 세션 on 우부콘 아시아 2021</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2021.ubucon.asia/ko/confirmed/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <atom:link href="https://2021.ubucon.asia/ko/confirmed/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,164 +4,120 @@
     <title>Sponsors on Ubucon Asia 2021</title>
     <link>https://2021.ubucon.asia/sponsors/</link>
     <description>Recent content in Sponsors on Ubucon Asia 2021</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2021.ubucon.asia/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://2021.ubucon.asia/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.NET DEV</title>
       <link>https://2021.ubucon.asia/sponsors/dotnetdevkr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/dotnetdevkr/</guid>
-      <description> .Net Dev is a local .Net user group in South Korea. Our community members are especially interested in .NET development and its ecosystem.  Including ASP.NET, EF, Blazor, etc&amp;hellip;   We runs regular local conference called &amp;ldquo;.NET Conf x Seoul&amp;rdquo; every year and &amp;ldquo;.NET Conf Mini&amp;rdquo; almost every quarter. .NET Conf Korea by .NET Dev: https://dotnetconf.kr .NET Medium Blog: https://blog.dotnetdev.kr .NET Dev Discourse: https://forum.dotnetdev.kr  </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;.Net Dev is a local .Net user group in South Korea.&lt;/li&gt;&#xA;&lt;li&gt;Our community members are especially interested in .NET development and its ecosystem.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Including ASP.NET, EF, Blazor, etc&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;We runs regular local conference called &amp;ldquo;.NET Conf x Seoul&amp;rdquo; every year and &amp;ldquo;.NET Conf Mini&amp;rdquo; almost every quarter.&lt;/li&gt;&#xA;&lt;li&gt;.NET Conf Korea by .NET Dev: &lt;a href=&#34;https://dotnetconf.kr&#34;&gt;https://dotnetconf.kr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;.NET Medium Blog: &lt;a href=&#34;https://blog.dotnetdev.kr&#34;&gt;https://blog.dotnetdev.kr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;.NET Dev Discourse: &lt;a href=&#34;https://forum.dotnetdev.kr&#34;&gt;https://forum.dotnetdev.kr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Become a sponsor</title>
       <link>https://2021.ubucon.asia/sponsors/become-a-sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/become-a-sponsor/</guid>
-      <description>Thank you for your interest in Ubuntu and Ubucon Asia.
-As a non-profit and community organized event, Even Ubucon Asia 2021 is fully virtual event, We still need support from sponsors to make the event happen.
-By becoming one of our sponsors, you are directly contributing to research and development of Ubuntu and Open Source Software, and also making Open Source Community more active and sustainable.
-Your contribution makes it possible for us to bring a large number of Ubuntu users and contributors across Asia to connect, interact, help and learn together.</description>
+      <description>&lt;p&gt;Thank you for your interest in Ubuntu and Ubucon Asia.&lt;br&gt;&#xA;As a non-profit and community organized event, Even Ubucon Asia 2021 is fully virtual event,&#xA;We still need support from sponsors to make the event happen.&lt;/p&gt;&#xA;&lt;p&gt;By becoming one of our sponsors, you are directly contributing to research and development of Ubuntu and Open Source Software, and also making Open Source Community more active and sustainable.&lt;/p&gt;&#xA;&lt;p&gt;Your contribution makes it possible for us to bring a large number of Ubuntu users and contributors across Asia to connect, interact, help and learn together. It will also grow not just the global Ubuntu communities but also Ubuntu local communities around Asia.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cloudmate</title>
       <link>https://2021.ubucon.asia/sponsors/cloudmate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/cloudmate/</guid>
-      <description>Cloudmate is the certified CSP company that located in Seoul, Korea.
-Cloudmate provides professional managed service on cloud environment. Based on experiences from MNCs, Cloudmate has its best certified engineers and developers in the cloud sector. Through the professional managed service, Cloudmate supports systematic management and its cloud infrastructure to the customers. Furthermore, Cloudmate also offers consulting for cloud service to industries that are adapting cloud infrastructure for the first time.</description>
+      <description>&lt;p&gt;Cloudmate is the certified CSP company that located in Seoul, Korea.&lt;/p&gt;&#xA;&lt;p&gt;Cloudmate provides professional managed service on cloud environment. Based on experiences from MNCs, Cloudmate has its best certified engineers and developers in the cloud sector.&#xA;Through the professional managed service, Cloudmate supports systematic management and its cloud infrastructure to the customers. Furthermore, Cloudmate also offers consulting for cloud service to industries that are adapting cloud infrastructure for the first time.&#xA;Lastly, With Microsoft Azure MVP, Cloudmate has been contributed educational programs and activities to various vendors and many communities for years.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Eventyay</title>
       <link>https://2021.ubucon.asia/sponsors/eventyay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/eventyay/</guid>
-      <description>Eventyay is an open source event management solution that comes with a variety of features including Call for Speakers, Scheduling, Registration, Payment Gateways, Video Integration (Jitsi, BigBlueButton, custom video platform) and more. Support us, support open source by using Eventyay for your event, report bugs, or even fix them yourself :)
- Code https://github.com/fossasia/open-event-frontend Support Page http://support.eventyay.com  </description>
+      <description>&lt;p&gt;Eventyay is an open source event management solution that comes with a variety of features including Call for Speakers, Scheduling, Registration, Payment Gateways, Video Integration (Jitsi, BigBlueButton, custom video platform) and more. Support us, support open source by using Eventyay for your event, report bugs, or even fix them yourself :)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Code &lt;a href=&#34;https://github.com/fossasia/open-event-frontend&#34;&gt;https://github.com/fossasia/open-event-frontend&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Support Page &lt;a href=&#34;http://support.eventyay.com&#34;&gt;http://support.eventyay.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Gimpscape ID</title>
       <link>https://2021.ubucon.asia/sponsors/gimpscape-id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/gimpscape-id/</guid>
-      <description>Gimpscape ID community is a one of design community from Indonesia that has oriented to the use of Free/Open Source Software (FOSS). On various occasions, Gimpscape ID always strives to contribute to activities related to free/open source software.
- Telegram https://t.me/gimpscape Instagram https://instagram/gimpscape_id  </description>
+      <description>&lt;p&gt;Gimpscape ID community is a one of design community from Indonesia that has oriented to the use of Free/Open Source Software (FOSS). On various occasions, Gimpscape ID always strives to contribute to activities related to free/open source software.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Telegram &lt;a href=&#34;https://t.me/gimpscape&#34;&gt;https://t.me/gimpscape&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Instagram https://instagram/gimpscape_id&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Join as Partner Community</title>
       <link>https://2021.ubucon.asia/sponsors/join-as-partner-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/join-as-partner-community/</guid>
-      <description>To promote UbuCon Asia event across Asia much further, We’re looking for partner communities. By becoming our partner community, Your community will collaborate with UbuCon Asia team to cross-promote each other’s community and event. This will be a big help for both partner communities and UbuCon Asia to connect with even more diverse people and encourage them to participate and engage.
-To learn more about our partner community program, please refer to our brochure.</description>
+      <description>&lt;p&gt;To promote UbuCon Asia event across Asia much further, We’re looking for partner communities.&#xA;By becoming our partner community, Your community will collaborate with UbuCon Asia team to cross-promote each other’s community and event.&#xA;This will be a big help for both partner communities and UbuCon Asia to connect with even more diverse people and encourage them to participate and engage.&lt;/p&gt;&#xA;&lt;p&gt;To learn more about our partner community program, please refer to our brochure.&#xA;To become our partner community, please contact Coordination team. &lt;a href=&#34;mailto:contact@ubucon.asia&#34;&gt;contact@ubucon.asia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KLAS (Kelompok Linux Arek Suroboyo)</title>
       <link>https://2021.ubucon.asia/sponsors/klas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/klas/</guid>
-      <description>Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS) is one of the Linux user groups in the city of Surabaya. We have been around since 1995, and are still active today. We have several routine agendas and facilities that we do and until now we have facilitated them to support Go FOSS activities in Surabaya, such as:
- Cangkrukan KLAS Local Conferences (Open Infrastucture Day 2019) International Conferences (openSUSE.Asia Summit 2019, GNOME.</description>
+      <description>&lt;p&gt;Arek Suroboyo Linux Group (Surabaya Linux User Group) (KLAS) is one of the Linux user groups in the city of Surabaya. We have been around since 1995, and are still active today. We have several routine agendas and facilities that we do and until now we have facilitated them to support Go FOSS activities in Surabaya, such as:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cangkrukan KLAS&lt;/li&gt;&#xA;&lt;li&gt;Local Conferences (Open Infrastucture Day 2019)&lt;/li&gt;&#xA;&lt;li&gt;International Conferences (openSUSE.Asia Summit 2019, GNOME.Asia Summit 2019, LibreOffice Conference 2019)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website : &lt;a href=&#34;https://klas.or.id/&#34;&gt;https://klas.or.id/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Shortner Link : s.klas.or.id&lt;/li&gt;&#xA;&lt;li&gt;Facebook : &lt;a href=&#34;http://fb.com/kelompoklinuxareksuroboyo&#34;&gt;http://fb.com/kelompoklinuxareksuroboyo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Instagram : instagram.com/klas_activity (@klas_activity)&lt;/li&gt;&#xA;&lt;li&gt;Twitter : @klas_activity&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn : Kelompok Linux Arek Suroboyo&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft</title>
       <link>https://2021.ubucon.asia/sponsors/microsoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/microsoft/</guid>
-      <description>Our mission is to empower every person and every organization on the planet to achieve more.
-Ubuntu-based workloads are among the fastest growing on Azure. Microsoft has partnered with Canonical to deliver an Azure-optimized kernel, improved performance, advanced security, automatic patching and updates, and flexible pricing options for Ubuntu on Azure as well as open source communities.
-Click here to learn more about Ubuntu on Azure
-Booth event at Gather Town Korean attendees Participate survey event on the left of our booth.</description>
+      <description>&lt;p&gt;Our mission is to empower every person and every organization on the planet to achieve more.&lt;/p&gt;&#xA;&lt;p&gt;Ubuntu-based workloads are among the fastest growing on Azure. Microsoft has partnered with Canonical to deliver an Azure-optimized kernel, improved performance, advanced security, automatic patching and updates, and flexible pricing options for Ubuntu on Azure as well as open source communities.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/ubuntu/?ocid=AID3035196&#34;&gt;Click here to learn more about &lt;strong&gt;Ubuntu on Azure&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;booth-event-at-gather-town&#34;&gt;Booth event at Gather Town&lt;/h2&gt;&#xA;&lt;h3 id=&#34;korean-attendees&#34;&gt;Korean attendees&lt;/h3&gt;&#xA;&lt;p&gt;Participate survey event on the left of our booth.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>National IT Industry Promotion Agency of Korea</title>
       <link>https://2021.ubucon.asia/sponsors/nipa-kr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/nipa-kr/</guid>
-      <description>OpenUP - Open source software promotion organization at NIPA We are an institution that strengthens open source SW development capabilities and helps domestic IT and industries develop in various ways.
-NIPA - National IT Industry Promotion Agency of Korea NIPA devotes itself to reinforcing the competitiveness of the ICT industry and contributes to the economic growth through the efficient support and laying the groundwork for the industrial technology promotion.</description>
+      <description>&lt;h2 id=&#34;openup---open-source-software-promotion-organization-at-nipa&#34;&gt;OpenUP - Open source software promotion organization at NIPA&lt;/h2&gt;&#xA;&lt;p&gt;We are an institution that strengthens open source SW development capabilities and helps domestic IT and industries develop in various ways.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nipa---national-it-industry-promotion-agency-of-korea&#34;&gt;NIPA - National IT Industry Promotion Agency of Korea&lt;/h2&gt;&#xA;&lt;p&gt;NIPA devotes itself to reinforcing the competitiveness of the ICT industry and contributes to the economic growth through the efficient support and laying the groundwork for the industrial technology promotion.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OpenStack Korea User Group</title>
       <link>https://2021.ubucon.asia/sponsors/openstack-kr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/openstack-kr/</guid>
-      <description>OpenStack is cloud operating system which can manage massive computing in data center, storage, network resource and provisioning by APIs. As an official user group, OpenStack Korea Community actively engages with many OpenStack users and interested people through various communication channels such as Facebook, mailing list, IRC, and Slack (sign up), as well as various regular seminars, study activities, and translation team activities. OpenStack Korea Community held 1st OpenStack Day Korea event in 2014, and has held events every year.</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;OpenStack is cloud operating system which can manage massive computing in data center, storage, network resource and provisioning by APIs.&lt;/li&gt;&#xA;&lt;li&gt;As an official user group, OpenStack Korea Community actively engages with many OpenStack users and interested people through various communication channels such as Facebook, mailing list, IRC, and Slack (sign up), as well as various regular seminars, study activities, and translation team activities.&lt;/li&gt;&#xA;&lt;li&gt;OpenStack Korea Community held 1st OpenStack Day Korea event in 2014, and has held events every year.&#xA;In 2020, Open Infrastructure Community Days 2020 was held with Kubernetes Korea Group, Korea Ceph User Group, and OCP Korea Community.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu</title>
       <link>https://2021.ubucon.asia/sponsors/ubuntu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/ubuntu/</guid>
-      <description>Canonical is the publisher of Ubuntu, the OS for most public cloud workloads as well as the emerging categories of smart gateways, self-driving cars, and advanced robots. Canonical provides enterprise security, support, and services to commercial users of Ubuntu.</description>
+      <description>&lt;p&gt;Canonical is the publisher of Ubuntu, the OS for most public cloud workloads as well as the emerging categories of smart gateways, self-driving cars, and advanced robots. Canonical provides enterprise security, support, and services to commercial users of Ubuntu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Kylin</title>
       <link>https://2021.ubucon.asia/sponsors/ubuntu-kylin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/ubuntu-kylin/</guid>
-      <description>Ubuntu Kylin is an official flavor of Ubuntu. It committed to bringing an easy, excellent, expert, and elaborate Linux distribution to users worldwide. It integrates the independently developed UKUI desktop environment which adheres to the friendly and simple design, aka Ubuntu Kylin User Interface. It includes more than 20 applications developed for ordinary users to enjoy a pleasant life and easy office operating system experience.  Links to social media</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Ubuntu Kylin is an official flavor of Ubuntu.&lt;/li&gt;&#xA;&lt;li&gt;It committed to bringing an easy, excellent, expert, and elaborate Linux distribution to users worldwide.&lt;/li&gt;&#xA;&lt;li&gt;It integrates the independently developed UKUI desktop environment which adheres to the friendly and simple design, aka Ubuntu Kylin User Interface.&lt;/li&gt;&#xA;&lt;li&gt;It includes more than 20 applications developed for ordinary users to enjoy a pleasant life and easy office operating system experience.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Links to social media&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/UbuntuKylin&#34;&gt;https://github.com/UbuntuKylin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;UKUI GitHub: &lt;a href=&#34;https://github.com/ukui&#34;&gt;https://github.com/ukui&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/Ubuntu_Kylin&#34;&gt;https://twitter.com/Ubuntu_Kylin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;YouTube: &lt;a href=&#34;https://www.youtube.com/channel/UClMqqFSY7qqakeumfAB8zbA&#34;&gt;https://www.youtube.com/channel/UClMqqFSY7qqakeumfAB8zbA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Launchpad: &lt;a href=&#34;https://launchpad.net/~ubuntukylin-members/&#34;&gt;https://launchpad.net/~ubuntukylin-members/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Unity Remix</title>
       <link>https://2021.ubucon.asia/sponsors/ubuntu-unity-remix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/ubuntu-unity-remix/</guid>
-      <description>Ubuntu Unity Remix is an Ubuntu remix (unofficial flavour) which uses Unity7 instead of gnome-shell. The latest stable release of Ubuntu Unity is 21.04 and we are also working on the desktop successor of Unity7, UnityX.
- Web: https://ubuntuunity.org Twitter: https://twitter.com/ubuntu_unity Telegram: https://t.me/ubuntuunityannouncements Discord: https://discord.gg/M2AWuCK GitLab: https://gitlab.com/ubuntu-unity  </description>
+      <description>&lt;p&gt;Ubuntu Unity Remix is an Ubuntu remix (unofficial flavour) which uses Unity7 instead of gnome-shell.&#xA;The latest stable release of Ubuntu Unity is 21.04 and we are also working on the desktop successor of Unity7, UnityX.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Web: &lt;a href=&#34;https://ubuntuunity.org&#34;&gt;https://ubuntuunity.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/ubuntu_unity&#34;&gt;https://twitter.com/ubuntu_unity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/ubuntuunityannouncements&#34;&gt;https://t.me/ubuntuunityannouncements&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Discord: &lt;a href=&#34;https://discord.gg/M2AWuCK&#34;&gt;https://discord.gg/M2AWuCK&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitLab: &lt;a href=&#34;https://gitlab.com/ubuntu-unity&#34;&gt;https://gitlab.com/ubuntu-unity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>UbuntuDDE Remix</title>
       <link>https://2021.ubucon.asia/sponsors/ubuntu-dde-remix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/ubuntu-dde-remix/</guid>
-      <description>UbuntuDDE Remix is a GNU/Linux distribution based on Ubuntu with the most beautiful desktop environment. It is a Remix flavor of Ubuntu desktop with Deepin Desktop Environment (DDE). The initial release was 20.04 (focal) as the project got started during the first wave of Covid 19. It is not yet an official flavor recognized by Canonical Ltd. but the release schedule is aligned closely with the other Ubuntu flavors. The latest release of the UbuntuDDE Remix is 21.</description>
+      <description>&lt;p&gt;UbuntuDDE Remix is a GNU/Linux distribution based on Ubuntu with the most beautiful desktop environment. It is a Remix flavor of Ubuntu desktop with Deepin Desktop Environment (DDE).&#xA;The initial release was 20.04 (focal) as the project got started during the first wave of Covid 19. It is not yet an official flavor recognized by Canonical Ltd. but the release schedule is aligned closely with the other Ubuntu flavors. The latest release of the UbuntuDDE Remix is 21.04 (Hirsute Hippo) which was launched in April, 2021.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WhaTap Labs</title>
       <link>https://2021.ubucon.asia/sponsors/whatap-labs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/whatap-labs/</guid>
-      <description>WhaTap Labs provides IT monitoring service &amp;ldquo;WhaTap&amp;rdquo;. We make IT services easier and more reliable for developers and operators.</description>
+      <description>&lt;p&gt;WhaTap Labs provides IT monitoring service &amp;ldquo;WhaTap&amp;rdquo;.&#xA;We make IT services easier and more reliable for developers and operators.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WSLHUB (WSL Korea User Group)</title>
       <link>https://2021.ubucon.asia/sponsors/wslhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/sponsors/wslhub/</guid>
-      <description> WSLHUB is a local user group community in South Korea. Our community members are especially interested in WSL and the Linux Ecosystem. Our community currently runs several open-source projects(such as WslManager, WslQuery) and a Facebook group to communicate with our members.  </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;WSLHUB is a local user group community in South Korea.&lt;/li&gt;&#xA;&lt;li&gt;Our community members are especially interested in WSL and the Linux Ecosystem.&lt;/li&gt;&#xA;&lt;li&gt;Our community currently runs several open-source projects(such as WslManager, WslQuery) and a Facebook group to communicate with our members.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

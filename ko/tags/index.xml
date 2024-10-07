@@ -4,7 +4,8 @@
     <title>Tags on 우부콘 아시아 2021</title>
     <link>https://2021.ubucon.asia/ko/tags/</link>
     <description>Recent content in Tags on 우부콘 아시아 2021</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2021.ubucon.asia/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <atom:link href="https://2021.ubucon.asia/ko/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

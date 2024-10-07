@@ -4,129 +4,92 @@
     <title>Host Communities on Ubucon Asia 2021</title>
     <link>https://2021.ubucon.asia/hosts/</link>
     <description>Recent content in Host Communities on Ubucon Asia 2021</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2021.ubucon.asia/hosts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://2021.ubucon.asia/hosts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debian Malaysia</title>
       <link>https://2021.ubucon.asia/hosts/debian-malaysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/debian-malaysia/</guid>
-      <description>Malaysian Debian GNU/Linux enthusiasts community
-You can be reach us by various means:
- Chat: Telegram group (https://t.me/debianmalaysia) / IRC #debian-malaysia on Freenode / Matrix /join #freenode_#debian-malaysia:matrix.org Website: http://debianmalaysia.gitlab.io (mirror: https://malaysia-team.pages.debian.net) Mailing lists: Debmal google group (https://groups.google.com/g/debmal) Social media: Twitter - https://twitter.com/debianmalaysia / Mastodon - https://linuxrocks.online/@debianmalaysia (both cross-posted)  Please choose what ever communication channel and you are welcome!</description>
+      <description>&lt;p&gt;Malaysian Debian GNU/Linux enthusiasts community&lt;/p&gt;&#xA;&lt;p&gt;You can be reach us by various means:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chat: Telegram group (&lt;a href=&#34;https://t.me/debianmalaysia&#34;&gt;https://t.me/debianmalaysia&lt;/a&gt;) / IRC &lt;code&gt;#debian-malaysia&lt;/code&gt; on Freenode / Matrix &lt;code&gt;/join #freenode_#debian-malaysia:matrix.org&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Website: &lt;a href=&#34;http://debianmalaysia.gitlab.io&#34;&gt;http://debianmalaysia.gitlab.io&lt;/a&gt; (mirror: &lt;a href=&#34;https://malaysia-team.pages.debian.net&#34;&gt;https://malaysia-team.pages.debian.net&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Mailing lists: Debmal google group (&lt;a href=&#34;https://groups.google.com/g/debmal&#34;&gt;https://groups.google.com/g/debmal&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Social media: Twitter - &lt;a href=&#34;https://twitter.com/debianmalaysia&#34;&gt;https://twitter.com/debianmalaysia&lt;/a&gt; / Mastodon - &lt;a href=&#34;https://linuxrocks.online/@debianmalaysia&#34;&gt;https://linuxrocks.online/@debianmalaysia&lt;/a&gt; (both cross-posted)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Please choose what ever communication channel and you are welcome!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>FOSS Nepal Community</title>
       <link>https://2021.ubucon.asia/hosts/foss-np/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/foss-np/</guid>
-      <description>FOSS Nepal Community is a team of volunteers who believe in the usage of Free/Open Source Software (FOSS). The primary objective of the community is to promote, develop and diversify the usage of Free/Open Source Software in Nepal.
- To raise awareness among general public, government bodies, private sector, civil society, educational institutions and media for expanding the scope of Information and Communication Technology (ICT) via Free and Open Source Software To sensitize general public, government bodies, civil society and media for the implementation of e-governance by means of FOSS; the optimal solution for e-governance Advocacy for alternatives in Intellectual Property Rights (IPR) specific to ICT To enhance the capacity of IT professionals by promoting inclusion of Free and Open Source Software in educational system and providing platform for IT professionals to make them globally saleable.</description>
+      <description>&lt;p&gt;FOSS Nepal Community is a team of volunteers who believe in the usage of Free/Open Source Software (FOSS). The primary objective of the community is to promote, develop and diversify the usage of Free/Open Source Software in Nepal.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To raise awareness among general public, government bodies, private sector, civil society, educational institutions and media for expanding the scope of Information and Communication Technology (ICT) via Free and Open Source Software&lt;/li&gt;&#xA;&lt;li&gt;To sensitize general public, government bodies, civil society and media for the implementation of e-governance by means of FOSS; the optimal solution for e-governance&lt;/li&gt;&#xA;&lt;li&gt;Advocacy for alternatives in Intellectual Property Rights (IPR) specific to ICT&lt;/li&gt;&#xA;&lt;li&gt;To enhance the capacity of IT professionals by promoting inclusion of Free and Open Source Software in educational system and providing platform for IT professionals to make them globally saleable.&lt;/li&gt;&#xA;&lt;li&gt;To develop, modify and localize Free and Open Source Software to address local software need.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>FOSSASIA</title>
       <link>https://2021.ubucon.asia/hosts/fossasia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/fossasia/</guid>
-      <description>FOSSASIA develops Open Source software and hardware solutions with a global developer community from its base in Asia and organizes Open Technology events around the year. The organization also runs coding programs and development contests.
-The annual FOSSASIA Summit is the premier Open Technology event in Asia for developers, start-ups, and contributors. It is a unique opportunity to share knowledge and experience about Open Source and meet interesting contributors.
-FOSSASIA was founded in 2009 by Mario Behling and Hong Phuc Dang.</description>
+      <description>&lt;p&gt;FOSSASIA develops Open Source software and hardware solutions with a global developer community from its base in Asia and organizes Open Technology events around the year. The organization also runs coding programs and development contests.&lt;/p&gt;&#xA;&lt;p&gt;The annual FOSSASIA Summit is the premier Open Technology event in Asia for developers, start-ups, and contributors. It is a unique opportunity to share knowledge and experience about Open Source and meet interesting contributors.&lt;/p&gt;&#xA;&lt;p&gt;FOSSASIA was founded in 2009 by Mario Behling and Hong Phuc Dang.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GNOME Indonesia</title>
       <link>https://2021.ubucon.asia/hosts/gnome-id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/gnome-id/</guid>
-      <description>GNOME Indonesia (GNOME-ID) is a non-profit community founded to support the use, promotion and assistance of users of the GNOME desktop environment in Indonesia.</description>
+      <description>&lt;p&gt;GNOME Indonesia (GNOME-ID) is a non-profit community founded to support the use, promotion and assistance of users of the GNOME desktop environment in Indonesia.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OpenStack Indonesia Community</title>
       <link>https://2021.ubucon.asia/hosts/openstack-id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/openstack-id/</guid>
-      <description>OpenStack Indonesia (OS-ID) is an official OpenStack community (under Open Infrastructure Foundation) based in Indonesia. This community was established for all Indonesians who are interested in OpenStack projects/services.
-In 2019, we held the first official community meetup in Jakarta and repeated monthly in several cities around Indonesia. First Indonesia Open Infrastructure Day was successfully held in November 2019 in Surabaya, and Last 2020 held the Open Infrastructure Day Indonesia event virtually.</description>
+      <description>&lt;p&gt;OpenStack Indonesia (OS-ID) is an official OpenStack community (under Open Infrastructure Foundation) based in Indonesia. This community was established for all Indonesians who are interested in OpenStack projects/services.&lt;/p&gt;&#xA;&lt;p&gt;In 2019, we held the first official community meetup in Jakarta and repeated monthly in several cities around Indonesia. First Indonesia Open Infrastructure Day was successfully held in November 2019 in Surabaya, and Last 2020 held the Open Infrastructure Day Indonesia event virtually.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu China Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-cn/</guid>
-      <description>Ubuntu China LoCo Team is an official local community in China approved by Ubuntu Community Council.
-In 2005, the Ubuntu community in China started to form a team to take care of localization efforts of Ubuntu and the team soon transformed into an active community to promote Ubuntu and attract new comers. The Ubuntu China LoCo Team have so far organized over 100 local Ubuntu events and even more joint events, with very wide cooperation with academic institutions and commercial companies.</description>
+      <description>&lt;p&gt;Ubuntu China LoCo Team is an official local community in China approved by Ubuntu Community Council.&lt;/p&gt;&#xA;&lt;p&gt;In 2005, the Ubuntu community in China started to form a team to take care of localization efforts of Ubuntu and the team soon transformed into an active community to promote Ubuntu and attract new comers. The Ubuntu China LoCo Team have so far organized over 100 local Ubuntu events and even more joint events, with very wide cooperation with academic institutions and commercial companies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Hong Kong Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-hk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-hk/</guid>
-      <description>Ubuntu LoCo Hong Kong Team is a group of volunteers come together to share, enjoy, advocate and promote the usage of Ubuntu Linux in Hong Kong. The team will help to raise a local community and help others resolving difficulties when using Ubuntu Linux.</description>
+      <description>&lt;p&gt;Ubuntu LoCo Hong Kong Team is a group of volunteers come together to share, enjoy, advocate and promote the usage of Ubuntu Linux in Hong Kong. The team will help to raise a local community and help others resolving difficulties when using Ubuntu Linux.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Japanese Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-jp/</guid>
-      <description>Ubuntu Japanese Team is voluntary group that intent improving and expanding Ubuntu in Japan, and is verified as an official Ubuntu LoCo till 2005.</description>
+      <description>&lt;p&gt;Ubuntu Japanese Team is voluntary group that intent improving and expanding Ubuntu in Japan, and is verified as an official Ubuntu LoCo till 2005.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Korea Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-kr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-kr/</guid>
-      <description>Ubuntu Korea Community is an official verified LoCo(Local Community) Team by Ubuntu Community Council in South Korea.
-The Ubuntu Korean community started in 2005, very small. But it&amp;rsquo;s now one of the most active Open Source communities in South Korea. We are continuing to carry out activities that can be helpful to Ubuntu users in Korea and broadly to people related to IT in Korea.
-We hold various seminars, conferences, community-driven projects, joint seminars with other communities, and contribution workshops every year, and we also exchange with various overseas open source communities.</description>
+      <description>&lt;p&gt;Ubuntu Korea Community is an official verified LoCo(Local Community) Team by Ubuntu Community Council in South Korea.&lt;/p&gt;&#xA;&lt;p&gt;The Ubuntu Korean community started in 2005, very small. But it&amp;rsquo;s now one of the most active Open Source communities in South Korea. We are continuing to carry out activities that can be helpful to Ubuntu users in Korea and broadly to people related to IT in Korea.&lt;/p&gt;&#xA;&lt;p&gt;We hold various seminars, conferences, community-driven projects, joint seminars with other communities, and contribution workshops every year, and we also exchange with various overseas open source communities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Malaysia Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-my/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-my/</guid>
-      <description>Ubuntu Malaysia Local Community Started on July 2005, the Malaysian Team has been approved as official LoCo Team since 2009 and we have already grown to over 200 members. We aim to provide free community support to users of any of the Ubuntu flavours as well as advocating the use of Ubuntu to individuals and organizations a like.
-The LoCo is meant for anyone residing in Malaysia who uses or is interested in Ubuntu.</description>
+      <description>&lt;p&gt;Ubuntu Malaysia Local Community Started on July 2005, the Malaysian Team has been approved as official LoCo Team since 2009 and we have already grown to over 200 members. We aim to provide free community support to users of any of the Ubuntu flavours as well as advocating the use of Ubuntu to individuals and organizations a like.&lt;/p&gt;&#xA;&lt;p&gt;The LoCo is meant for anyone residing in Malaysia who uses or is interested in Ubuntu. Everyone is welcome to join and contribute to the group regardless if you&amp;rsquo;re a Linux newbie or a well-known expert in the field.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Myanmar Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-mm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-mm/</guid>
-      <description>Note: Due to this local community&amp;rsquo;s country level situation, Ubuntu Myanmar Community is volunteering only when they have some chance to participate.
- We, Ubuntu Myanmar Loco team is an Ubuntu Council-recognized Loco Team that is offering support in the ease use of Ubuntu Operating System in computers across Myanmar.
-Ubuntu for Myanmar initiated action in 2009. It was a youth organization that had been continuously organizing Ubuntu and Ubuntu-related Open Source software events, free workshops and had been an active organization.</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Note: Due to this local community&amp;rsquo;s country level situation, Ubuntu Myanmar Community is volunteering only when they have some chance to participate.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;We, Ubuntu Myanmar Loco team is an Ubuntu Council-recognized Loco Team that is offering support in the ease use of Ubuntu Operating System in computers across Myanmar.&lt;/p&gt;&#xA;&lt;p&gt;Ubuntu for Myanmar initiated action in 2009. It was a youth organization that had been continuously organizing Ubuntu and Ubuntu-related Open Source software events, free workshops and had been an active organization. It has been praised by the IT community and portrayed by the media as the most active organization facilitating several events.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Taiwan Local Community</title>
       <link>https://2021.ubucon.asia/hosts/ubuntu-tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://2021.ubucon.asia/hosts/ubuntu-tw/</guid>
-      <description>Ubuntu Taiwan LoCo Team a.k.a Ubuntu-TW is a group of volunteers who enjoy Ubuntu and love to share, promote and make helps in Taiwan since 2005.
-Our aim is make Ubuntu more easily to get start and more friendly to use for Traditional Chinese users.
-We involving in localization, making workshop and collaborate with other FLOSS/Open-culture Communities like Mozilla Taiwan Community(MozTW), Open Culture Foundation(OCF), Linux user groups in Taiwan, etc.</description>
+      <description>&lt;p&gt;Ubuntu Taiwan LoCo Team a.k.a Ubuntu-TW is a group of volunteers who enjoy Ubuntu and love to share, promote and make helps in Taiwan since 2005.&lt;br&gt;&#xA;Our aim is make Ubuntu more easily to get start and more friendly to use for Traditional Chinese users.&lt;/p&gt;&#xA;&lt;p&gt;We involving in localization, making workshop and collaborate with other FLOSS/Open-culture Communities like Mozilla Taiwan Community(MozTW), Open Culture Foundation(OCF), Linux user groups in Taiwan, etc.&lt;br&gt;&#xA;We also active on SNS and offline FLOSS event to gathering with people, and help them to get the solution using Ubuntu or solve their problem about using Ubuntu.&lt;br&gt;&#xA;In addition, we organizing Ubuntu Release Party twice every year regularly.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

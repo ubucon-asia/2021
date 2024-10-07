@@ -111,7 +111,7 @@ DTSTART:20210926T090000
 DTEND:20210926T094500
 LOCATION:Ubucon Asia 2021 - Room 2
 DESCRIPTION:<p>Google and Canonical annouced Flutter support for Linux recently but have you wondered what exactly is Flutter? Why is it everywhere lately? Where can it run and is it easy to write apps in it? If you want to know more what is possible with Flutter and how it differs from other UI frameworks, join this session.</p>
-<p><a href="./having_fun_with_flutter_desktop_development_script.pdf">Get Transcription</a></p>
+<p><a href="/sessions/having_fun_with_flutter_desktop_development/having_fun_with_flutter_desktop_development_script.pdf">Get Transcription</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I am programming Flutter from its early stages. Active member of London Flutter Community. Passionate about reactive programming and open source. Linux and open source fan. Mechanical keyboards enthusiast.</p>
 
@@ -161,7 +161,7 @@ DESCRIPTION:<h1 id="introduction">Introduction:</h1>
 <li>Install web-based applications demonstration on VMs Multipass</li>
 <li>Additional material on Multipass integration</li>
 </ul>
-<p><a href="Multipass.pptx">Get Slide(*.pptx)</a></p>
+<p><a href="/sessions/private_lab_virtualization_using_multipass_and_deploy_apps_web_based_on_ubuntu_server/Multipass.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>Village child who like to learn Open Source, Linux, and Cloud Computing and become the Founder of BelajarLinux.id</p>
 
@@ -421,7 +421,7 @@ DTEND:20210926T064500
 LOCATION:Ubucon Asia 2021 - Room 1
 DESCRIPTION:<p>To patch just one system, the administrator must identify that a patch is available, download it, and then deploy it to the system. In an enterprise environment, there could be hundreds of servers to manage, so the job of patch management becomes an all-day responsibility with the added risk of reboot fails after installation. Instead of manual updates, administrators can free up time and organize patches using automation tools.</p>
 <p>Using Ansible made patch management simpler than ever. Ansible provides solutions for Ubuntu patch management which helps admins ensure that all the Ubuntu machines on the network are up to date with critical/recent Ubuntu security patches that are released and there are no security vulnerabilities in the network. You can automate the complete process and ensure that all your systems and service required are up-to-date.</p>
-<p><a href="Slide.pptx">Get Slide(*.pptx)</a></p>
+<p><a href="/sessions/ubuntu_os__service_patch_management_using_ansible/Slide.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>Am a person who has capabilities in the field of Cloud Computing, Linux configuration, Web Administration, Network and is able to do computer troubleshooting. I am adept at operating data processing applications in both Windows and Linux operating systems.</p>
 <p>I thrive in competitive environments geared towards outstanding result that lead who increase by leads, conversions, and overall profitabillity for any organization, i am a part of. steadfast with change, i prefer to work on task that challenge me intellectualy, i. e think outside the box, learning something really new</p>
@@ -534,7 +534,7 @@ Current contribution activity, Open Up activities(the open source activity) are 
 Please refer to URL below to get informed about Hanjp project
 <a href="https://github.com/ubuntu-kr/hanjp-im/tree/develop">https://github.com/ubuntu-kr/hanjp-im/tree/develop</a></p>
 <p>My English can sound weired. I&rsquo;m sorry and please forgive me, my English isn&rsquo;t good enough :(</p>
-<p><a href="Script.pdf">Get Script</a></p>
+<p><a href="/sessions/the_input_method_another_way_to_edit_japenense_documents_hanjp_project/Script.pdf">Get Script</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I&rsquo;ve been a interesting seeker since when I was a high school student, and a Linux desktop and open source was seems very fun in my sight. Then, I majored computer engineering at University, and I&rsquo;m currently seeking a position for software engineer, and open source has been remained as one of my main concerns.
 Since I got many diffficulty in to get entering to open source contribution, I wanted to communicate with open source newcomers to promote their contribution, and I&rsquo;m handling some works for it. By doing so, I want to improve community communication in Korea, and finally I want to enjoy funny works with Korean open source contributers, and fully enjoy my favorite open source softwares.</p>
@@ -615,7 +615,7 @@ DTSTART:20210925T084500
 DTEND:20210925T091500
 LOCATION:Ubucon Asia 2021 - Room 2
 DESCRIPTION:<p>This session will provide the practical considerations of developing on Ubuntu on WSL with WSL interoperability, providing attendees a better understanding of WSL interoperability when developing on Ubuntu on WSL.</p>
-<p><a href="Slide.pptx">Get Slide(*.pptx)</a></p>
+<p><a href="/sessions/developing_on_ubuntu_with_wsl_interoperability_tips_and_tricks/Slide.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>Software Developer for Ubuntu on WSL and Ubuntu on Hyper-V, core maintainer for WSL Utilities.</p>
 
@@ -727,7 +727,7 @@ LOCATION:Ubucon Asia 2021 - Room 1
 DESCRIPTION:<p>All of sudden, one of your processes that should be alive was &lsquo;kill&rsquo;ed by someone&rsquo;s Signal! Who did that? Let&rsquo;s trace the issue with Linux Kernel hacking.
 In this session, I will talk about a real-life issue I met while working and attendees would learn about where to start if they want to trace signals through Kernel.</p>
 <p>Attendees at least should know what the Signal is in Computer Science.</p>
-<p><a href="session_who_killed_my_processes-leesoo_ahn.pptx">Get Slide(*.pptx)</a></p>
+<p><a href="/sessions/who_killed_my_processes/session_who_killed_my_processes-leesoo_ahn.pptx">Get Slide(*.pptx)</a></p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I had been contributing to GNOME foundation as a programmer for 2 years before and currently interested in ARM64 Linux Kernel core and Network Subsystem.</p>
 
@@ -801,7 +801,15 @@ DTSTAMP:20210925T051500Z
 DTSTART:20210925T051500
 DTEND:20210925T054500
 LOCATION:Ubucon Asia 2021 - Room 1
-DESCRIPTION:<p>Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely &ldquo;Sinau Bash&rdquo;.</p>
+DESCRIPTION:
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/c_6cZ6uL5MM?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely &ldquo;Sinau Bash&rdquo;.</p>
 <p>The “Sinau Bash” program that I have created is intended for other people to easily learn bash commands. By answering questions from each level. Starting from easy level, medium level, and difficulty level. In addition, the bash language can also be used in the field of education, namely introducing students to the bash command with the &ldquo;Sinau Bash&rdquo; program.</p>
 <h3 id="about-the-speaker">About the speaker</h3>
 <p>I am a person who likes to write and study communication technology. I am a teacher at one of the vocational high schools in Indonesia, namely SMK Negeri 1 Kragilan. I am a network and server guru. I am active in the linux community in Indonesia as a community builder and have held several events about Linux and open source at schools and universities.</p>
