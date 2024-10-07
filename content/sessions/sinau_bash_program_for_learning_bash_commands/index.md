@@ -16,6 +16,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube c_6cZ6uL5MM >}}
+
 Bash is considered a difficult language for some people to learn. In general, bash language itself is used by people who work in the field of servers. People who work in the server field will be very helpful with the bash language because bash can run many commands on the server or can run commands automatically. For example, bash language is used in Ubuntu Server. In addition to the bash language server, it can be used in making programs, namely "Sinau Bash".
 
 The “Sinau Bash” program that I have created is intended for other people to easily learn bash commands. By answering questions from each level. Starting from easy level, medium level, and difficulty level. In addition, the bash language can also be used in the field of education, namely introducing students to the bash command with the "Sinau Bash" program.
